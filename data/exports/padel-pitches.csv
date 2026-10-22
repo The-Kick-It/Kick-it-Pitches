@@ -1,0 +1,30 @@
+﻿id,venue_id,sport,name,lat,lon,surface,lit,indoor,length_m,width_m,format,access,fee,source_url,last_seen_at,city,venue_name
+osm:node/13300140471,osm:node/13300140471,padel,Padel Factory,30.4196084,-9.5784152,,1,,,,,customers,yes,https://www.openstreetmap.org/node/13300140471,2026-10-19T11:52:26+00:00,agadir,Padel Factory
+osm:node/13300162844,osm:node/13300162844,padel,Le Carre Padel,30.4183587,-9.6016217,,1,,,,,customers,,https://www.openstreetmap.org/node/13300162844,2026-10-19T11:52:26+00:00,agadir,Le Carre Padel
+osm:way/1525336687,osm:way/1525336687,padel,,30.4179175,-9.5449011,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336687,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336688,osm:way/1525336687,padel,,30.4178665,-9.5447087,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336688,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336689,osm:way/1525336687,padel,,30.4181785,-9.5448123,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336689,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336690,osm:way/1525336687,padel,,30.4181222,-9.5446104,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336690,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336691,osm:way/1525336687,padel,,30.4181285,-9.5456978,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336691,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336692,osm:way/1525336687,padel,,30.4183431,-9.5454026,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336692,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336693,osm:way/1525336687,padel,,30.4181279,-9.5451534,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336693,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336694,osm:way/1525336687,padel,,30.4180774,-9.5455049,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336694,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1525336695,osm:way/1525336687,padel,,30.4184003,-9.5456074,,,,19.9,10.6,,,,https://www.openstreetmap.org/way/1525336695,2026-10-19T11:52:26+00:00,agadir,
+osm:way/1361144253,osm:way/1361144248,padel,,33.5492403,-7.6374951,,,,20.9,10.2,,,,https://www.openstreetmap.org/way/1361144253,2026-10-19T11:52:26+00:00,casablanca,City Ball
+osm:way/1361144254,osm:way/1361144248,padel,,33.5492852,-7.6373799,,,,20.7,10.0,,,,https://www.openstreetmap.org/way/1361144254,2026-10-19T11:52:26+00:00,casablanca,City Ball
+osm:way/1361144255,osm:way/1361144248,padel,,33.54933,-7.6372625,,,,20.7,9.8,,,,https://www.openstreetmap.org/way/1361144255,2026-10-19T11:52:26+00:00,casablanca,City Ball
+osm:way/1361144256,osm:way/1361144248,padel,,33.5493732,-7.6371479,,,,20.4,10.3,,,,https://www.openstreetmap.org/way/1361144256,2026-10-19T11:52:26+00:00,casablanca,City Ball
+osm:way/1409719478,osm:way/1422141867,padel,,33.6083509,-7.6509382,,,,21.3,9.9,,,,https://www.openstreetmap.org/way/1409719478,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1409719479,osm:way/1422141867,padel,,33.6081714,-7.6508589,,,,21.3,9.9,,,,https://www.openstreetmap.org/way/1409719479,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1409719480,osm:way/1422141867,padel,,33.608553,-7.6510917,,,,20.0,9.9,,,,https://www.openstreetmap.org/way/1409719480,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1409719481,osm:way/1422141867,padel,,33.6085939,-7.6509648,,,,20.0,10.0,,,,https://www.openstreetmap.org/way/1409719481,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1409719482,osm:way/1422141867,padel,,33.6086289,-7.6508398,,,,20.0,10.0,,,,https://www.openstreetmap.org/way/1409719482,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1517877707,osm:way/1422141867,padel,,33.6087601,-7.650423,,,,20.0,10.0,,,,https://www.openstreetmap.org/way/1517877707,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1517877708,osm:way/1422141867,padel,,33.6087252,-7.650548,,,,20.0,10.0,,,,https://www.openstreetmap.org/way/1517877708,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1517877709,osm:way/1422141867,padel,,33.6086844,-7.6506749,,,,20.0,9.9,,,,https://www.openstreetmap.org/way/1517877709,2026-10-19T11:52:26+00:00,casablanca,Atlantique Football Club
+osm:way/1499333858,osm:way/533481433,padel,,34.0324801,-5.0012164,,,,20.3,9.3,,,,https://www.openstreetmap.org/way/1499333858,2026-10-19T11:52:26+00:00,fes,
+osm:way/1499333859,osm:way/533481433,padel,,34.0323528,-5.0012137,,,,19.2,9.9,,,,https://www.openstreetmap.org/way/1499333859,2026-10-19T11:52:26+00:00,fes,
+osm:way/1499333860,osm:way/533481433,padel,,34.0322248,-5.0012147,,,,19.4,10.7,,,,https://www.openstreetmap.org/way/1499333860,2026-10-19T11:52:26+00:00,fes,
+osm:way/1492231923,osm:way/1492231923,padel,,34.2713465,-6.5911467,,1,,20.9,10.4,,customers,,https://www.openstreetmap.org/way/1492231923,2026-10-19T11:52:26+00:00,kenitra,
+osm:way/1492231924,osm:way/1492231923,padel,,34.2712439,-6.5911719,,1,,21.2,12.4,,customers,,https://www.openstreetmap.org/way/1492231924,2026-10-19T11:52:26+00:00,kenitra,
+osm:way/1495481922,osm:way/1085659597,padel,,33.9771347,-6.863995,,,,43.1,24.2,,customers,,https://www.openstreetmap.org/way/1495481922,2026-10-19T11:52:26+00:00,rabat,Institut agronomique et vétérinaire Hassan-II

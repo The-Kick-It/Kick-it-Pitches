@@ -1,0 +1,467 @@
+﻿id,venue_id,sport,name,lat,lon,surface,lit,indoor,length_m,width_m,format,access,fee,source_url,last_seen_at,city,venue_name
+osm:way/150789033,osm:way/150789033,tennis,,30.4040375,-9.5978644,,,,34.3,16.2,,,,https://www.openstreetmap.org/way/150789033,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150789036,osm:way/150789033,tennis,,30.4041595,-9.5973921,,,,38.7,20.1,,,,https://www.openstreetmap.org/way/150789036,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791316,osm:way/150789033,tennis,,30.4043074,-9.5969246,,,,38.6,18.8,,,,https://www.openstreetmap.org/way/150791316,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791318,osm:way/150789033,tennis,,30.4043396,-9.5967411,,,,38.9,17.5,,,,https://www.openstreetmap.org/way/150791318,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791319,osm:way/150789033,tennis,,30.4043719,-9.5965541,,,,38.3,19.6,,,,https://www.openstreetmap.org/way/150791319,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791320,osm:way/150789033,tennis,,30.4040469,-9.5976691,,,,34.3,17.6,,,,https://www.openstreetmap.org/way/150791320,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791325,osm:way/150789033,tennis,,30.4039354,-9.5979856,,,,36.0,18.4,,,,https://www.openstreetmap.org/way/150791325,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791326,osm:way/150789033,tennis,,30.4042747,-9.5971077,,,,38.3,17.5,,,,https://www.openstreetmap.org/way/150791326,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791332,osm:way/150789033,tennis,,30.403923,-9.5981957,,,,36.4,18.2,,,,https://www.openstreetmap.org/way/150791332,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791322,osm:way/150791322,tennis,,30.4048748,-9.5970703,,,,35.9,17.6,,,,https://www.openstreetmap.org/way/150791322,2026-10-19T11:52:29+00:00,agadir,
+osm:way/150791323,osm:way/150791322,tennis,,30.4049306,-9.5968926,,,,36.1,18.9,,,,https://www.openstreetmap.org/way/150791323,2026-10-19T11:52:29+00:00,agadir,
+osm:way/1523113287,osm:way/1523113287,tennis,,30.4182549,-9.6017463,,,,20.2,9.9,,,,https://www.openstreetmap.org/way/1523113287,2026-10-19T11:52:29+00:00,agadir,
+osm:way/1523113288,osm:way/1523113287,tennis,,30.4182567,-9.6016481,,,,20.2,8.1,,,,https://www.openstreetmap.org/way/1523113288,2026-10-19T11:52:29+00:00,agadir,
+osm:way/397007212,osm:way/1523113287,tennis,,30.4182602,-9.6015509,,,,20.2,9.9,,,,https://www.openstreetmap.org/way/397007212,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710262696,osm:way/1523113287,tennis,,30.4178689,-9.6017938,,,,36.7,16.0,,,,https://www.openstreetmap.org/way/710262696,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710262697,osm:way/1523113287,tennis,,30.4178664,-9.601963,,,,36.7,16.5,,,,https://www.openstreetmap.org/way/710262697,2026-10-19T11:52:29+00:00,agadir,
+osm:way/172536470,osm:way/172536470,tennis,,30.4109141,-9.5948787,,,,40.5,15.1,,,,https://www.openstreetmap.org/way/172536470,2026-10-19T11:52:29+00:00,agadir,
+osm:way/172536471,osm:way/172536470,tennis,,30.4111093,-9.5952538,,,,38.5,18.4,,,,https://www.openstreetmap.org/way/172536471,2026-10-19T11:52:29+00:00,agadir,
+osm:way/172536472,osm:way/172536470,tennis,,30.4105663,-9.5948951,,,,35.7,21.2,,,,https://www.openstreetmap.org/way/172536472,2026-10-19T11:52:29+00:00,agadir,
+osm:way/172536473,osm:way/172536470,tennis,,30.4110181,-9.5949973,,,,40.5,17.3,,,,https://www.openstreetmap.org/way/172536473,2026-10-19T11:52:29+00:00,agadir,
+osm:way/172536474,osm:way/172536470,tennis,,30.4107938,-9.5946169,,,,37.8,21.2,,,,https://www.openstreetmap.org/way/172536474,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607772,osm:way/180607772,tennis,,30.38794,-9.5927702,,,,33.6,16.7,,,,https://www.openstreetmap.org/way/180607772,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607785,osm:way/180607772,tennis,,30.3879304,-9.5924024,,,,32.8,17.4,,,,https://www.openstreetmap.org/way/180607785,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607818,osm:way/180607772,tennis,,30.387949,-9.5925802,,,,32.2,17.0,,,,https://www.openstreetmap.org/way/180607818,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607795,osm:way/180607795,tennis,,30.3885394,-9.5926342,,,,32.2,17.7,,,,https://www.openstreetmap.org/way/180607795,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607799,osm:way/180607795,tennis,,30.3884964,-9.5922583,,,,32.2,18.0,,,,https://www.openstreetmap.org/way/180607799,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180607833,osm:way/180607795,tennis,,30.388518,-9.5924471,,,,32.2,18.5,,,,https://www.openstreetmap.org/way/180607833,2026-10-19T11:52:29+00:00,agadir,
+osm:way/246648713,osm:way/246648713,tennis,,30.3939082,-9.5961895,,,,35.2,17.8,,,,https://www.openstreetmap.org/way/246648713,2026-10-19T11:52:29+00:00,agadir,
+osm:way/246648714,osm:way/246648713,tennis,,30.3936032,-9.5962448,,,,33.8,18.2,,,,https://www.openstreetmap.org/way/246648714,2026-10-19T11:52:29+00:00,agadir,
+osm:way/246652481,osm:way/246652481,tennis,,30.401999,-9.59867,,,,40.2,19.5,,,,https://www.openstreetmap.org/way/246652481,2026-10-19T11:52:29+00:00,agadir,
+osm:way/246652484,osm:way/246652481,tennis,,30.4019077,-9.5988433,,,,40.2,19.5,,,,https://www.openstreetmap.org/way/246652484,2026-10-19T11:52:29+00:00,agadir,
+osm:way/246652486,osm:way/246652486,tennis,,30.394252,-9.5970204,,,,37.8,15.0,,,,https://www.openstreetmap.org/way/246652486,2026-10-19T11:52:29+00:00,agadir,
+osm:way/249121823,osm:way/249121823,tennis,,30.4005525,-9.5980409,,,,38.5,18.0,,,,https://www.openstreetmap.org/way/249121823,2026-10-19T11:52:29+00:00,agadir,
+osm:way/249121825,osm:way/249121823,tennis,,30.4008687,-9.5981176,,,,33.4,18.0,,,,https://www.openstreetmap.org/way/249121825,2026-10-19T11:52:29+00:00,agadir,
+osm:way/271372932,osm:way/271372932,tennis,,30.3921848,-9.597448,,,,37.1,17.5,,,,https://www.openstreetmap.org/way/271372932,2026-10-19T11:52:29+00:00,agadir,
+osm:way/380533282,osm:way/380533282,tennis,,30.3961311,-9.5964592,,,,41.2,21.0,,,,https://www.openstreetmap.org/way/380533282,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678920,osm:way/380533282,tennis,,30.3962741,-9.5966105,clay,,,38.7,17.2,,,,https://www.openstreetmap.org/way/710678920,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678921,osm:way/380533282,tennis,,30.3963507,-9.5967764,clay,,,38.7,18.9,,,,https://www.openstreetmap.org/way/710678921,2026-10-19T11:52:29+00:00,agadir,
+osm:way/711334452,osm:way/382305709,tennis,,30.4326614,-9.5951379,,,,26.8,15.6,,,,https://www.openstreetmap.org/way/711334452,2026-10-19T11:52:29+00:00,agadir,Lycée YOUSSEF BNOU TACHFIN
+osm:way/384537450,osm:way/384537450,tennis,,30.3772553,-9.5677698,,,,40.0,21.0,,,,https://www.openstreetmap.org/way/384537450,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321037,osm:way/396321037,tennis,,30.375348,-9.5604603,,,,34.8,19.3,,,,https://www.openstreetmap.org/way/396321037,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321038,osm:way/396321037,tennis,,30.3752305,-9.5602668,,,,34.8,19.3,,,,https://www.openstreetmap.org/way/396321038,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321040,osm:way/396321037,tennis,,30.3745581,-9.5607575,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/396321040,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321041,osm:way/396321037,tennis,,30.3745844,-9.5609373,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/396321041,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321042,osm:way/396321037,tennis,,30.3745197,-9.5605278,,,,35.1,17.3,,,,https://www.openstreetmap.org/way/396321042,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321043,osm:way/396321037,tennis,,30.3744908,-9.560346,,,,35.1,18.1,,,,https://www.openstreetmap.org/way/396321043,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321044,osm:way/396321037,tennis,,30.3744654,-9.5601065,,,,34.7,16.6,,,,https://www.openstreetmap.org/way/396321044,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321045,osm:way/396321037,tennis,,30.3744375,-9.5599339,,,,34.7,17.1,,,,https://www.openstreetmap.org/way/396321045,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321049,osm:way/396321037,tennis,,30.3748576,-9.5600948,,,,34.5,16.3,,,,https://www.openstreetmap.org/way/396321049,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321050,osm:way/396321037,tennis,,30.3747998,-9.5597532,,,,34.5,17.4,,,,https://www.openstreetmap.org/way/396321050,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321051,osm:way/396321037,tennis,,30.3748299,-9.5599269,,,,34.5,16.9,,,,https://www.openstreetmap.org/way/396321051,2026-10-19T11:52:29+00:00,agadir,
+osm:way/396321052,osm:way/396321037,tennis,,30.3746284,-9.5595214,,,,34.8,19.3,,,,https://www.openstreetmap.org/way/396321052,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678830,osm:way/396321037,tennis,,30.3748926,-9.5604993,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678830,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678831,osm:way/396321037,tennis,,30.374919,-9.5606792,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678831,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678832,osm:way/396321037,tennis,,30.3741833,-9.5608426,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678832,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678833,osm:way/396321037,tennis,,30.3742097,-9.5610225,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678833,2026-10-19T11:52:29+00:00,agadir,
+osm:way/397007210,osm:way/407303579,tennis,,30.4176236,-9.6010258,,,,30.7,14.9,,,,https://www.openstreetmap.org/way/397007210,2026-10-19T11:52:29+00:00,agadir,
+osm:way/397007211,osm:way/407303579,tennis,,30.4177421,-9.6008949,,,,30.3,16.2,,,,https://www.openstreetmap.org/way/397007211,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709321813,osm:way/407303579,tennis,,30.4176475,-9.6007363,,,,31.7,14.4,,,,https://www.openstreetmap.org/way/709321813,2026-10-19T11:52:29+00:00,agadir,
+osm:way/429317094,osm:way/429317094,tennis,,30.4215754,-9.6085558,,,,32.5,18.3,,,,https://www.openstreetmap.org/way/429317094,2026-10-19T11:52:29+00:00,agadir,
+osm:way/429317097,osm:way/429317094,tennis,,30.4214656,-9.6086839,,,,32.5,17.1,,,,https://www.openstreetmap.org/way/429317097,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305315,osm:way/709305315,tennis,,30.4070626,-9.5964626,,,,28.4,18.0,,,,https://www.openstreetmap.org/way/709305315,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305316,osm:way/709305315,tennis,,30.4071319,-9.5966198,,,,29.3,18.9,,,,https://www.openstreetmap.org/way/709305316,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305329,osm:way/709305329,tennis,,30.4042108,-9.5937676,,,,36.5,18.3,,,,https://www.openstreetmap.org/way/709305329,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305330,osm:way/709305329,tennis,,30.4041284,-9.5939234,,,,36.0,18.1,,,,https://www.openstreetmap.org/way/709305330,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305331,osm:way/709305329,tennis,,30.4042682,-9.5935896,,,,36.5,17.6,,,,https://www.openstreetmap.org/way/709305331,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709305332,osm:way/709305329,tennis,,30.4043515,-9.593437,,,,36.7,18.3,,,,https://www.openstreetmap.org/way/709305332,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709787884,osm:way/709787884,tennis,,30.419884,-9.6048985,,,,33.5,17.0,,,,https://www.openstreetmap.org/way/709787884,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709787885,osm:way/709787884,tennis,,30.4199978,-9.6047732,,,,33.5,17.9,,,,https://www.openstreetmap.org/way/709787885,2026-10-19T11:52:29+00:00,agadir,
+osm:way/709880409,osm:way/709880409,tennis,,30.4085247,-9.5937652,,,,34.9,18.8,,,,https://www.openstreetmap.org/way/709880409,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710491632,osm:way/710491632,tennis,,30.4092637,-9.5991996,,,,31.9,14.4,,,,https://www.openstreetmap.org/way/710491632,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710491633,osm:way/710491632,tennis,,30.4091208,-9.5990662,,,,37.0,17.8,,,,https://www.openstreetmap.org/way/710491633,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710491634,osm:way/710491632,tennis,,30.4095244,-9.5991465,,,,37.4,18.1,,,,https://www.openstreetmap.org/way/710491634,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710491635,osm:way/710491632,tennis,,30.4096856,-9.599144,,,,37.4,17.7,,,,https://www.openstreetmap.org/way/710491635,2026-10-19T11:52:29+00:00,agadir,
+osm:way/180596292,osm:way/710531641,tennis,,30.4181075,-9.598922,,,,39.5,18.9,,,,https://www.openstreetmap.org/way/180596292,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596294,osm:way/710531641,tennis,,30.4177905,-9.5992199,,,,38.9,17.7,,,,https://www.openstreetmap.org/way/180596294,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596295,osm:way/710531641,tennis,,30.4178279,-9.5994012,,,,38.9,18.1,,,,https://www.openstreetmap.org/way/180596295,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596296,osm:way/710531641,tennis,,30.4182109,-9.5993228,,,,35.5,17.3,,,,https://www.openstreetmap.org/way/180596296,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596297,osm:way/710531641,tennis,,30.4182457,-9.5994924,,,,35.5,16.1,,,,https://www.openstreetmap.org/way/180596297,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596298,osm:way/710531641,tennis,,30.4177091,-9.5990394,,,,39.4,20.2,,,,https://www.openstreetmap.org/way/180596298,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596299,osm:way/710531641,tennis,,30.4175867,-9.5984198,,,,39.4,21.3,,,,https://www.openstreetmap.org/way/180596299,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596300,osm:way/710531641,tennis,,30.4176281,-9.5986296,,,,39.4,20.0,,,,https://www.openstreetmap.org/way/180596300,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596301,osm:way/710531641,tennis,,30.4179801,-9.5981461,,,,39.5,19.0,,,,https://www.openstreetmap.org/way/180596301,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596302,osm:way/710531641,tennis,,30.4180741,-9.5987184,,,,39.5,20.9,,,,https://www.openstreetmap.org/way/180596302,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596303,osm:way/710531641,tennis,,30.4179223,-9.5978728,,,,40.3,18.8,,,,https://www.openstreetmap.org/way/180596303,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596304,osm:way/710531641,tennis,,30.4178666,-9.5995891,,,,38.9,19.0,,,,https://www.openstreetmap.org/way/180596304,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596305,osm:way/710531641,tennis,,30.4174712,-9.5993084,,,,34.1,17.7,,,,https://www.openstreetmap.org/way/180596305,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596306,osm:way/710531641,tennis,,30.4181746,-9.5991461,,,,35.5,17.5,,,,https://www.openstreetmap.org/way/180596306,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596307,osm:way/710531641,tennis,,30.4176685,-9.598834,,,,39.4,20.2,,,,https://www.openstreetmap.org/way/180596307,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596309,osm:way/710531641,tennis,,30.4180395,-9.5985076,,,,39.5,20.3,,,,https://www.openstreetmap.org/way/180596309,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/180596310,osm:way/710531641,tennis,,30.4180093,-9.5983236,,,,39.5,15.6,,,,https://www.openstreetmap.org/way/180596310,2026-10-19T11:52:29+00:00,agadir,Royal Tennis Club D'Agadir
+osm:way/710678826,osm:way/710678826,tennis,,30.3760174,-9.5615433,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678826,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678827,osm:way/710678826,tennis,,30.375974,-9.5613679,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678827,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678828,osm:way/710678826,tennis,,30.3761545,-9.56173,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678828,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678829,osm:way/710678826,tennis,,30.3761979,-9.5619054,,,,34.5,17.5,,,,https://www.openstreetmap.org/way/710678829,2026-10-19T11:52:29+00:00,agadir,
+osm:way/710678901,osm:way/710678901,tennis,,30.4017729,-9.5933639,,,,32.3,15.3,,,,https://www.openstreetmap.org/way/710678901,2026-10-19T11:52:29+00:00,agadir,
+osm:way/711142369,osm:way/711142369,tennis,,30.4122402,-9.5981502,,,,36.5,18.4,,,,https://www.openstreetmap.org/way/711142369,2026-10-19T11:52:29+00:00,agadir,
+osm:way/711334535,osm:way/711334535,tennis,,30.4354267,-9.593175,,,,34.3,18.8,,,,https://www.openstreetmap.org/way/711334535,2026-10-19T11:52:29+00:00,agadir,
+osm:way/711334536,osm:way/711334535,tennis,,30.435741,-9.5933354,,,,34.3,18.8,,,,https://www.openstreetmap.org/way/711334536,2026-10-19T11:52:29+00:00,agadir,
+osm:way/712279373,osm:way/712279373,tennis,,30.4124054,-9.5994928,,,,35.7,15.0,,,,https://www.openstreetmap.org/way/712279373,2026-10-19T11:52:29+00:00,agadir,
+osm:way/712279374,osm:way/712279373,tennis,,30.4126105,-9.5995085,,,,37.2,15.0,,,,https://www.openstreetmap.org/way/712279374,2026-10-19T11:52:29+00:00,agadir,
+osm:way/718183879,osm:way/718183879,tennis,,30.4281338,-9.5952085,,,,36.2,18.8,,,,https://www.openstreetmap.org/way/718183879,2026-10-19T11:52:29+00:00,agadir,
+osm:way/718183880,osm:way/718183880,tennis,,30.4269049,-9.5940836,,,,35.7,18.1,,,,https://www.openstreetmap.org/way/718183880,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93901990,osm:way/93901990,tennis,,30.4103334,-9.5994671,,,,37.4,18.1,,,,https://www.openstreetmap.org/way/93901990,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93901993,osm:way/93901990,tennis,,30.4104053,-9.5992998,,,,37.4,17.7,,,,https://www.openstreetmap.org/way/93901993,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902008,osm:way/93901990,tennis,,30.4100861,-9.599689,,,,35.7,18.9,,,,https://www.openstreetmap.org/way/93902008,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902011,osm:way/93901990,tennis,,30.4106812,-9.6000338,,,,37.1,18.9,,,,https://www.openstreetmap.org/way/93902011,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902021,osm:way/93901990,tennis,,30.4109915,-9.599638,,,,36.4,17.7,,,,https://www.openstreetmap.org/way/93902021,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902023,osm:way/93901990,tennis,,30.4105396,-9.6003519,,,,36.1,17.4,,,,https://www.openstreetmap.org/way/93902023,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902026,osm:way/93901990,tennis,,30.4109197,-9.5998054,,,,36.4,18.1,,,,https://www.openstreetmap.org/way/93902026,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902027,osm:way/93901990,tennis,,30.4100156,-9.5998527,,,,35.7,16.2,,,,https://www.openstreetmap.org/way/93902027,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902029,osm:way/93901990,tennis,,30.4106285,-9.5996374,,,,35.9,18.1,,,,https://www.openstreetmap.org/way/93902029,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902042,osm:way/93901990,tennis,,30.4103809,-9.5998598,,,,37.6,18.9,,,,https://www.openstreetmap.org/way/93902042,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902043,osm:way/93901990,tennis,,30.4107004,-9.5994701,,,,35.9,17.7,,,,https://www.openstreetmap.org/way/93902043,2026-10-19T11:52:29+00:00,agadir,
+osm:way/93902059,osm:way/93901990,tennis,,30.4103104,-9.6000235,,,,37.6,16.2,,,,https://www.openstreetmap.org/way/93902059,2026-10-19T11:52:29+00:00,agadir,
+osm:way/1326094806,osm:relation/20146703,tennis,,33.5552907,-7.6490362,clay,,,41.3,20.8,,,,https://www.openstreetmap.org/way/1326094806,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804409,osm:relation/20146703,tennis,,33.5564399,-7.6471934,,,,27.5,13.0,,,,https://www.openstreetmap.org/way/177804409,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804412,osm:relation/20146703,tennis,,33.5560524,-7.6474896,,,,39.0,17.8,,,,https://www.openstreetmap.org/way/177804412,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804415,osm:relation/20146703,tennis,,33.555786,-7.6479122,,,,38.4,20.7,,,,https://www.openstreetmap.org/way/177804415,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804416,osm:relation/20146703,tennis,,33.5556452,-7.6485018,,,,41.2,21.3,,,,https://www.openstreetmap.org/way/177804416,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804424,osm:relation/20146703,tennis,,33.555719,-7.6482073,,,,40.5,20.7,,,,https://www.openstreetmap.org/way/177804424,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804425,osm:relation/20146703,tennis,,33.5558618,-7.6476528,,,,37.1,19.5,,,,https://www.openstreetmap.org/way/177804425,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804427,osm:relation/20146703,tennis,,33.55655,-7.6470743,,,,22.8,11.8,,,,https://www.openstreetmap.org/way/177804427,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804430,osm:relation/20146703,tennis,,33.5552112,-7.6483516,,,,42.1,21.0,,,,https://www.openstreetmap.org/way/177804430,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804435,osm:relation/20146703,tennis,,33.5562789,-7.6473474,,,,37.3,18.8,,,,https://www.openstreetmap.org/way/177804435,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804440,osm:relation/20146703,tennis,,33.5561277,-7.6488489,,,,41.5,20.6,,,,https://www.openstreetmap.org/way/177804440,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/177804441,osm:relation/20146703,tennis,,33.5552814,-7.6480563,,,,40.4,19.5,,,,https://www.openstreetmap.org/way/177804441,2026-10-19T11:52:29+00:00,casablanca,Complexe Al Amal
+osm:way/1041070802,osm:way/1041070801,tennis,,33.5505823,-7.7220381,,,,40.8,20.0,,,,https://www.openstreetmap.org/way/1041070802,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070803,osm:way/1041070801,tennis,,33.5507054,-7.7218641,,,,43.2,22.6,,,,https://www.openstreetmap.org/way/1041070803,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070804,osm:way/1041070801,tennis,,33.5508206,-7.7216844,,,,41.4,21.0,,,,https://www.openstreetmap.org/way/1041070804,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070805,osm:way/1041070801,tennis,,33.550927,-7.7215207,,,,42.8,17.9,,,,https://www.openstreetmap.org/way/1041070805,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070806,osm:way/1041070801,tennis,,33.5506498,-7.7212425,,,,39.9,18.2,,,,https://www.openstreetmap.org/way/1041070806,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070807,osm:way/1041070801,tennis,,33.5505463,-7.7214061,,,,40.1,20.5,,,,https://www.openstreetmap.org/way/1041070807,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1041070808,osm:way/1041070801,tennis,,33.5504313,-7.7215798,,,,40.1,22.4,,,,https://www.openstreetmap.org/way/1041070808,2026-10-19T11:52:29+00:00,casablanca,Moundir Tennis Academy
+osm:way/1273792623,osm:way/1273792623,tennis,,33.5877579,-7.6263604,clay,,,36.5,17.2,,,,https://www.openstreetmap.org/way/1273792623,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792634,osm:way/1273792623,tennis,,33.5885108,-7.6259925,clay,,,36.5,15.8,,,,https://www.openstreetmap.org/way/1273792634,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792640,osm:way/1273792623,tennis,,33.588891,-7.6259843,clay,,,36.5,15.8,,,,https://www.openstreetmap.org/way/1273792640,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792644,osm:way/1273792623,tennis,,33.5882119,-7.6263472,clay,,,34.0,19.0,,,,https://www.openstreetmap.org/way/1273792644,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792658,osm:way/1273792623,tennis,,33.5874416,-7.6265533,clay,,,33.7,18.2,,,,https://www.openstreetmap.org/way/1273792658,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792675,osm:way/1273792623,tennis,,33.5880119,-7.6257839,clay,,,36.5,15.8,,,,https://www.openstreetmap.org/way/1273792675,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792681,osm:way/1273792623,tennis,,33.5887918,-7.6257114,clay,,,34.1,19.0,,,,https://www.openstreetmap.org/way/1273792681,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792684,osm:way/1273792623,tennis,,33.5873707,-7.626376,clay,,,33.7,18.3,,,,https://www.openstreetmap.org/way/1273792684,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792703,osm:way/1273792623,tennis,,33.5880933,-7.625995,clay,,,34.0,19.0,,,,https://www.openstreetmap.org/way/1273792703,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792708,osm:way/1273792623,tennis,,33.5875279,-7.6267606,clay,,,34.0,19.0,,,,https://www.openstreetmap.org/way/1273792708,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792711,osm:way/1273792623,tennis,,33.5885772,-7.6261599,clay,,,36.5,15.8,,,,https://www.openstreetmap.org/way/1273792711,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792718,osm:way/1273792623,tennis,,33.5886647,-7.625443,clay,,,36.6,15.8,,,,https://www.openstreetmap.org/way/1273792718,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792723,osm:way/1273792623,tennis,,33.5878266,-7.6265806,clay,,,34.0,19.0,,,,https://www.openstreetmap.org/way/1273792723,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792726,osm:way/1273792623,tennis,,33.5875477,-7.6260483,clay,,,36.5,15.8,,,,https://www.openstreetmap.org/way/1273792726,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792739,osm:way/1273792623,tennis,,33.5890394,-7.6252277,clay,1,,35.1,15.8,,,,https://www.openstreetmap.org/way/1273792739,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792741,osm:way/1273792623,tennis,,33.5884401,-7.6258074,clay,,,35.9,19.5,,,,https://www.openstreetmap.org/way/1273792741,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792744,osm:way/1273792623,tennis,,33.587694,-7.626192,clay,,,36.6,17.1,,,,https://www.openstreetmap.org/way/1273792744,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1273792747,osm:way/1273792623,tennis,,33.5883656,-7.6256065,clay,,,36.6,15.8,,,,https://www.openstreetmap.org/way/1273792747,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/892825967,osm:way/129539668,tennis,,33.5947133,-7.6791856,,,,18.6,9.1,,private,,https://www.openstreetmap.org/way/892825967,2026-10-19T11:52:29+00:00,casablanca,Sunbeach club
+osm:way/892825969,osm:way/129539668,tennis,,33.5945074,-7.6791993,,,,13.9,8.0,,,,https://www.openstreetmap.org/way/892825969,2026-10-19T11:52:29+00:00,casablanca,Sunbeach club
+osm:way/1308525672,osm:way/1308525671,tennis,,33.5599597,-7.6492618,,,,38.5,19.1,,,,https://www.openstreetmap.org/way/1308525672,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525673,osm:way/1308525671,tennis,,33.5598766,-7.6490813,,,,38.5,19.2,,,,https://www.openstreetmap.org/way/1308525673,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525674,osm:way/1308525671,tennis,,33.5597827,-7.6488747,,,,37.8,17.7,,,,https://www.openstreetmap.org/way/1308525674,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525675,osm:way/1308525671,tennis,,33.5596639,-7.6486319,,,,37.7,21.2,,,,https://www.openstreetmap.org/way/1308525675,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525676,osm:way/1308525671,tennis,,33.559569,-7.6484289,,,,37.7,22.0,,,,https://www.openstreetmap.org/way/1308525676,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525677,osm:way/1308525671,tennis,,33.5593522,-7.6488413,,,,41.8,21.3,,,,https://www.openstreetmap.org/way/1308525677,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525678,osm:way/1308525671,tennis,,33.5592572,-7.6486371,,,,41.8,22.2,,,,https://www.openstreetmap.org/way/1308525678,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525679,osm:way/1308525671,tennis,,33.5589973,-7.6490787,,,,48.6,21.3,,,,https://www.openstreetmap.org/way/1308525679,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525680,osm:way/1308525671,tennis,,33.5589022,-7.6488734,,,,48.6,22.3,,,,https://www.openstreetmap.org/way/1308525680,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1308525681,osm:way/1308525671,tennis,,33.5594789,-7.6492023,,,,39.2,20.1,,,,https://www.openstreetmap.org/way/1308525681,2026-10-19T11:52:29+00:00,casablanca,Racing Universitaire de Casablanca
+osm:way/1342707529,osm:way/1342707522,tennis,,33.5766683,-7.6890022,clay,,,39.4,19.5,,private,,https://www.openstreetmap.org/way/1342707529,2026-10-19T11:52:29+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1342707530,osm:way/1342707522,tennis,,33.5765363,-7.6888638,clay,,,39.4,19.5,,private,,https://www.openstreetmap.org/way/1342707530,2026-10-19T11:52:29+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1342707531,osm:way/1342707522,tennis,,33.5769543,-7.688641,clay,,,40.5,20.2,,private,,https://www.openstreetmap.org/way/1342707531,2026-10-19T11:52:29+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1342707532,osm:way/1342707522,tennis,,33.5772429,-7.6882005,clay,,,39.5,20.2,,private,,https://www.openstreetmap.org/way/1342707532,2026-10-19T11:52:29+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1342707533,osm:way/1342707522,tennis,,33.5771173,-7.6880681,clay,,,39.8,20.3,,private,,https://www.openstreetmap.org/way/1342707533,2026-10-19T11:52:29+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1381504613,osm:way/1349867151,tennis,,33.5946889,-7.6533295,clay,,,40.8,21.1,,,,https://www.openstreetmap.org/way/1381504613,2026-10-19T11:52:29+00:00,casablanca,Bank of Africa Club
+osm:way/1381504614,osm:way/1349867151,tennis,,33.5948168,-7.6531322,clay,,,36.5,18.4,,,,https://www.openstreetmap.org/way/1381504614,2026-10-19T11:52:29+00:00,casablanca,Bank of Africa Club
+osm:way/1381504616,osm:way/1349867151,tennis,,33.5944748,-7.6528544,clay,,,37.2,18.1,,,,https://www.openstreetmap.org/way/1381504616,2026-10-19T11:52:29+00:00,casablanca,Bank of Africa Club
+osm:way/1381504617,osm:way/1349867151,tennis,,33.594368,-7.6530318,clay,,,36.3,18.7,,,,https://www.openstreetmap.org/way/1381504617,2026-10-19T11:52:29+00:00,casablanca,Bank of Africa Club
+osm:node/8756483707,osm:way/1361187524,tennis,COC Tennis,33.5603341,-7.6472299,,,,,,,,,https://www.openstreetmap.org/node/8756483707,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187526,osm:way/1361187524,tennis,,33.5603672,-7.6463864,,,,40.3,18.6,,,,https://www.openstreetmap.org/way/1361187526,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187527,osm:way/1361187524,tennis,,33.5601899,-7.6460114,,,,39.6,18.2,,,,https://www.openstreetmap.org/way/1361187527,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187528,osm:way/1361187524,tennis,,33.5593582,-7.6459946,,,,37.3,18.2,,,,https://www.openstreetmap.org/way/1361187528,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187529,osm:way/1361187524,tennis,,33.5594127,-7.6456073,,,,36.8,20.0,,,,https://www.openstreetmap.org/way/1361187529,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187530,osm:way/1361187524,tennis,,33.5591399,-7.6457569,,,,37.2,18.4,,,,https://www.openstreetmap.org/way/1361187530,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187531,osm:way/1361187524,tennis,,33.5593497,-7.645386,,,,36.7,19.4,,,,https://www.openstreetmap.org/way/1361187531,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187532,osm:way/1361187524,tennis,,33.5590583,-7.6455769,,,,37.2,19.7,,,,https://www.openstreetmap.org/way/1361187532,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361187533,osm:way/1361187524,tennis,,33.5597198,-7.64525,,,,39.9,22.0,,,,https://www.openstreetmap.org/way/1361187533,2026-10-19T11:52:29+00:00,casablanca,Club Olympique de Casablanca
+osm:way/1361358483,osm:way/1361358483,tennis,,33.5876433,-7.6592089,clay,,,37.4,19.4,,,,https://www.openstreetmap.org/way/1361358483,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1361358484,osm:way/1361358483,tennis,,33.587279,-7.6591492,clay,,,37.0,19.5,,,,https://www.openstreetmap.org/way/1361358484,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1361358495,osm:way/1361358495,tennis,,33.5855302,-7.6603847,clay,,,45.6,19.6,,private,,https://www.openstreetmap.org/way/1361358495,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1362742084,osm:way/1362742082,tennis,,33.5596936,-7.6412191,clay,,,36.5,18.2,,private,,https://www.openstreetmap.org/way/1362742084,2026-10-19T11:52:29+00:00,casablanca,Club Socio-Sportif Bank Al-Maghrib
+osm:way/1362742085,osm:way/1362742082,tennis,,33.5594697,-7.6408898,clay,,,36.8,18.1,,private,,https://www.openstreetmap.org/way/1362742085,2026-10-19T11:52:29+00:00,casablanca,Club Socio-Sportif Bank Al-Maghrib
+osm:way/1362744615,osm:way/1362744612,tennis,,33.5654135,-7.6430255,clay,,,36.0,17.3,,private,,https://www.openstreetmap.org/way/1362744615,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1362744616,osm:way/1362744612,tennis,,33.5652635,-7.643125,clay,,,36.8,17.9,,private,,https://www.openstreetmap.org/way/1362744616,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1362744617,osm:way/1362744612,tennis,,33.5648401,-7.6430123,clay,,,37.2,18.7,,private,,https://www.openstreetmap.org/way/1362744617,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1362744618,osm:way/1362744612,tennis,,33.5649579,-7.6431405,clay,,,37.6,18.6,,private,,https://www.openstreetmap.org/way/1362744618,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1362744619,osm:way/1362744612,tennis,,33.5650323,-7.6433355,clay,,,38.4,19.3,,private,,https://www.openstreetmap.org/way/1362744619,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1362744620,osm:way/1362744612,tennis,,33.5652953,-7.6436863,clay,,,38.8,18.1,,private,,https://www.openstreetmap.org/way/1362744620,2026-10-19T11:52:29+00:00,casablanca,Stade Olympique Casablancais
+osm:way/419755333,osm:way/1362746901,tennis,,33.5564033,-7.6377357,,,,38.3,18.7,,,,https://www.openstreetmap.org/way/419755333,2026-10-19T11:52:29+00:00,casablanca,Napht Club
+osm:way/419755462,osm:way/1362746901,tennis,,33.556517,-7.6373188,,,,37.7,19.0,,,,https://www.openstreetmap.org/way/419755462,2026-10-19T11:52:29+00:00,casablanca,Napht Club
+osm:way/1365112633,osm:way/1365112633,tennis,,33.5892078,-7.662779,clay,,,36.9,17.7,,private,,https://www.openstreetmap.org/way/1365112633,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1350042990,osm:way/1372712391,tennis,,33.5737162,-7.6636149,,,,37.6,18.7,,,,https://www.openstreetmap.org/way/1350042990,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042991,osm:way/1372712391,tennis,,33.573476,-7.66336,,,,33.8,18.7,,,,https://www.openstreetmap.org/way/1350042991,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042992,osm:way/1372712391,tennis,,33.5738549,-7.6633199,,,,36.6,17.9,,,,https://www.openstreetmap.org/way/1350042992,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042993,osm:way/1372712391,tennis,,33.573603,-7.6631784,,,,36.2,17.9,,,,https://www.openstreetmap.org/way/1350042993,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042994,osm:way/1372712391,tennis,,33.5737094,-7.6630375,,,,36.3,17.3,,,,https://www.openstreetmap.org/way/1350042994,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042995,osm:way/1372712391,tennis,,33.5738156,-7.6628968,,,,36.3,17.9,,,,https://www.openstreetmap.org/way/1350042995,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1350042996,osm:way/1372712391,tennis,,33.5739497,-7.6627569,,,,36.3,17.8,,,,https://www.openstreetmap.org/way/1350042996,2026-10-19T11:52:29+00:00,casablanca,Club de la Banque Populaire
+osm:way/1372767260,osm:way/1372767260,tennis,,33.5776741,-7.6597381,clay,,,32.5,16.0,,private,,https://www.openstreetmap.org/way/1372767260,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1308347216,osm:way/1373564255,tennis,,33.5808703,-7.6443195,,,,34.5,17.9,,,,https://www.openstreetmap.org/way/1308347216,2026-10-19T11:52:29+00:00,casablanca,Complexe Sportif Mohammed V
+osm:way/1308347217,osm:way/1373564255,tennis,,33.5809664,-7.6441481,,,,35.5,19.3,,,,https://www.openstreetmap.org/way/1308347217,2026-10-19T11:52:29+00:00,casablanca,Complexe Sportif Mohammed V
+osm:way/177804437,osm:way/177804437,tennis,,33.5526037,-7.6500493,,,,181.3,49.8,,,,https://www.openstreetmap.org/way/177804437,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1308031817,osm:way/214289475,tennis,,33.5655655,-7.6539367,,,,34.9,16.1,,,,https://www.openstreetmap.org/way/1308031817,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308031818,osm:way/214289475,tennis,,33.5650175,-7.6539179,,,,66.7,32.9,,,,https://www.openstreetmap.org/way/1308031818,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308031819,osm:way/214289475,tennis,,33.5644312,-7.6541075,,,,34.8,14.6,,,,https://www.openstreetmap.org/way/1308031819,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308032195,osm:way/214289475,tennis,,33.5656584,-7.6521734,,,,21.0,13.0,,,,https://www.openstreetmap.org/way/1308032195,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308033324,osm:way/214289475,tennis,,33.5653117,-7.6519431,,,,40.3,14.2,,,,https://www.openstreetmap.org/way/1308033324,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308033325,osm:way/214289475,tennis,,33.5656472,-7.6519646,,,,19.9,11.0,,,,https://www.openstreetmap.org/way/1308033325,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1308033326,osm:way/214289475,tennis,,33.5653065,-7.651714,clay,,,38.5,18.4,,,,https://www.openstreetmap.org/way/1308033326,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1313182398,osm:way/214289475,tennis,,33.5652709,-7.6514468,clay,,,31.6,17.5,,,,https://www.openstreetmap.org/way/1313182398,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1313182399,osm:way/214289475,tennis,,33.5651085,-7.6511878,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1313182399,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890666,osm:way/214289475,tennis,,33.5649717,-7.6509132,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890666,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890667,osm:way/214289475,tennis,,33.5648598,-7.6506753,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890667,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890668,osm:way/214289475,tennis,,33.5648523,-7.6501213,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890668,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890669,osm:way/214289475,tennis,,33.5648039,-7.6498885,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890669,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890670,osm:way/214289475,tennis,,33.5652308,-7.6497746,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890670,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890671,osm:way/214289475,tennis,,33.5652901,-7.6499982,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890671,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890672,osm:way/214289475,tennis,,33.5653579,-7.6502127,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890672,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1322890673,osm:way/214289475,tennis,,33.5654147,-7.6504272,clay,,,38.0,18.3,,,,https://www.openstreetmap.org/way/1322890673,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1554847941,osm:way/214289475,tennis,,33.5654311,-7.6522593,,,,19.5,10.9,,,,https://www.openstreetmap.org/way/1554847941,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1554847942,osm:way/214289475,tennis,,33.5652465,-7.652249,,,,18.1,11.3,,,,https://www.openstreetmap.org/way/1554847942,2026-10-19T11:52:29+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/216017715,osm:way/216017715,tennis,,33.5539621,-7.6492535,,,,23.5,14.6,,,,https://www.openstreetmap.org/way/216017715,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/216026814,osm:way/216026814,tennis,,33.5429746,-7.6178409,,,,38.9,35.7,,,,https://www.openstreetmap.org/way/216026814,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/1343873001,osm:way/521476356,tennis,,33.5678628,-7.6685191,,,,24.6,16.3,,,,https://www.openstreetmap.org/way/1343873001,2026-10-19T11:52:29+00:00,casablanca,Lycée Ibn Al Yassamine
+osm:way/960926695,osm:way/960926695,tennis,,33.6084097,-7.5385514,,,,89.2,80.4,,,,https://www.openstreetmap.org/way/960926695,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/962204845,osm:way/962204845,tennis,,33.5200887,-7.608225,,,,33.9,22.9,,,,https://www.openstreetmap.org/way/962204845,2026-10-19T11:52:29+00:00,casablanca,
+osm:way/171775998,osm:way/171775998,tennis,,34.0376967,-5.0050848,,,,36.5,36.3,,,,https://www.openstreetmap.org/way/171775998,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776369,osm:way/171776369,tennis,,34.035187,-5.0029111,,,,64.7,16.3,,,,https://www.openstreetmap.org/way/171776369,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776370,osm:way/171776370,tennis,,34.0296971,-5.003972,,,,31.9,16.8,,,,https://www.openstreetmap.org/way/171776370,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776373,osm:way/171776370,tennis,,34.0293612,-5.0040362,,,,34.6,16.2,,,,https://www.openstreetmap.org/way/171776373,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776377,osm:way/171776370,tennis,,34.0297076,-5.0042116,,,,32.1,17.7,,,,https://www.openstreetmap.org/way/171776377,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776374,osm:way/171776374,tennis,,34.0316121,-5.0017476,,,,99.9,41.0,,,,https://www.openstreetmap.org/way/171776374,2026-10-19T11:52:29+00:00,fes,
+osm:way/171776375,osm:way/186942879,tennis,,34.0337448,-5.000676,,,,98.1,54.8,,,,https://www.openstreetmap.org/way/171776375,2026-10-19T11:52:29+00:00,fes,Sporting Club Fassi
+osm:way/540845446,osm:way/531712658,tennis,,34.0486606,-5.0011274,,,,37.7,37.7,,,,https://www.openstreetmap.org/way/540845446,2026-10-19T11:52:29+00:00,fes,Terrains de Tennis
+osm:way/540845447,osm:way/531712658,tennis,,34.0487612,-5.0006673,,,,40.7,38.7,,,,https://www.openstreetmap.org/way/540845447,2026-10-19T11:52:29+00:00,fes,Terrains de Tennis
+osm:way/540845448,osm:way/531712658,tennis,,34.0486757,-5.0001506,,,,37.7,36.1,,,,https://www.openstreetmap.org/way/540845448,2026-10-19T11:52:29+00:00,fes,Terrains de Tennis
+osm:way/534528948,osm:way/534528948,tennis,,34.0493056,-4.9991635,,,,24.2,14.8,,,,https://www.openstreetmap.org/way/534528948,2026-10-19T11:52:29+00:00,fes,
+osm:way/765547299,osm:way/765547299,tennis,,34.0525979,-5.0318192,,,,35.8,17.9,,,,https://www.openstreetmap.org/way/765547299,2026-10-19T11:52:29+00:00,fes,
+osm:way/1075079607,osm:way/1075079607,tennis,,34.2538299,-6.5709419,,,,24.2,21.0,,,,https://www.openstreetmap.org/way/1075079607,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915124,osm:way/1075079607,tennis,,34.2537148,-6.5703948,sand,,,38.8,19.8,,,,https://www.openstreetmap.org/way/491915124,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915125,osm:way/1075079607,tennis,,34.2536732,-6.5706071,sand,,,38.8,20.4,,,,https://www.openstreetmap.org/way/491915125,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915126,osm:way/1075079607,tennis,,34.2538598,-6.5699462,sand,,,43.4,22.5,,,,https://www.openstreetmap.org/way/491915126,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915127,osm:way/1075079607,tennis,,34.2538488,-6.5697361,sand,,,40.7,19.6,,,,https://www.openstreetmap.org/way/491915127,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915128,osm:way/1075079607,tennis,,34.2542656,-6.5698842,sand,,,36.5,22.4,,,,https://www.openstreetmap.org/way/491915128,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915129,osm:way/1075079607,tennis,,34.2541056,-6.5694661,sand,,,39.6,19.8,,,,https://www.openstreetmap.org/way/491915129,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/491915130,osm:way/1075079607,tennis,,34.2537508,-6.5693547,sand,,,42.0,19.8,,,,https://www.openstreetmap.org/way/491915130,2026-10-19T11:52:29+00:00,kenitra,
+osm:way/1120369033,osm:way/1120586424,tennis,,34.2463716,-6.6060611,clay,1,,36.2,16.9,,,,https://www.openstreetmap.org/way/1120369033,2026-10-19T11:52:29+00:00,kenitra,Agri Club Kenitra
+osm:way/1120369034,osm:way/1120586424,tennis,,34.246363,-6.606266,artificial_turf,1,,35.5,17.0,,,,https://www.openstreetmap.org/way/1120369034,2026-10-19T11:52:29+00:00,kenitra,Agri Club Kenitra
+osm:way/1246056284,osm:way/102739967,tennis,,31.6402351,-7.985238,,,,26.0,14.8,,,,https://www.openstreetmap.org/way/1246056284,2026-10-19T11:52:29+00:00,marrakech,Lycée Collégial Ahmed Chaouqi
+osm:way/1207668326,osm:way/1207668326,tennis,,31.6332391,-7.9387835,,,,34.8,15.6,,,,https://www.openstreetmap.org/way/1207668326,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/449674565,osm:way/1207668326,tennis,,31.6332157,-7.938814,,,,36.5,18.2,,,,https://www.openstreetmap.org/way/449674565,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1207668334,osm:way/1207668334,tennis,,31.6291388,-7.9421277,,,,34.2,18.5,,,,https://www.openstreetmap.org/way/1207668334,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1209034631,osm:way/1209034631,tennis,,31.6749004,-7.9517306,clay,,,34.4,18.3,,,,https://www.openstreetmap.org/way/1209034631,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1209034643,osm:way/1209034643,tennis,,31.6773306,-7.9527117,clay,,,29.7,14.3,,,,https://www.openstreetmap.org/way/1209034643,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1209034645,osm:way/1209034643,tennis,,31.6776657,-7.9527943,clay,,,32.3,16.1,,,,https://www.openstreetmap.org/way/1209034645,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1210966588,osm:way/1210966588,tennis,,31.6753996,-7.9678371,,,,35.0,16.2,,,,https://www.openstreetmap.org/way/1210966588,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1211022746,osm:way/1211022746,tennis,,31.6486026,-8.0581011,,,,35.0,19.6,,,,https://www.openstreetmap.org/way/1211022746,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1214991008,osm:way/1214991008,tennis,,31.6282504,-8.0105035,,,,38.1,18.6,,,,https://www.openstreetmap.org/way/1214991008,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126302996,osm:way/1214991008,tennis,,31.6289526,-8.0087812,,,,42.3,18.9,,,,https://www.openstreetmap.org/way/126302996,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126302997,osm:way/1214991008,tennis,,31.6290852,-8.0085073,,,,42.3,18.9,,,,https://www.openstreetmap.org/way/126302997,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126302998,osm:way/1214991008,tennis,,31.628489,-8.0100647,,,,38.1,18.6,,,,https://www.openstreetmap.org/way/126302998,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303000,osm:way/1214991008,tennis,,31.6285676,-8.0098908,,,,38.1,18.7,,,,https://www.openstreetmap.org/way/126303000,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303001,osm:way/1214991008,tennis,,31.6286459,-8.0097174,,,,38.1,18.5,,,,https://www.openstreetmap.org/way/126303001,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303003,osm:way/1214991008,tennis,,31.6287102,-8.0095213,,,,38.1,18.5,,,,https://www.openstreetmap.org/way/126303003,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303009,osm:way/1214991008,tennis,,31.6288401,-8.0089589,,,,42.3,18.8,,,,https://www.openstreetmap.org/way/126303009,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303010,osm:way/1214991008,tennis,,31.6288153,-8.0093432,,,,38.1,18.5,,,,https://www.openstreetmap.org/way/126303010,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126303011,osm:way/1214991008,tennis,,31.6287862,-8.0091481,,,,38.0,18.6,,,,https://www.openstreetmap.org/way/126303011,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1215394302,osm:way/1215394302,tennis,,31.6277196,-7.946547,,,,23.6,11.1,,,,https://www.openstreetmap.org/way/1215394302,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1218541130,osm:way/1218541130,tennis,,31.645949,-8.0534888,,,,38.4,19.4,,,,https://www.openstreetmap.org/way/1218541130,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1218541131,osm:way/1218541130,tennis,,31.64568,-8.0534937,,,,38.4,19.4,,,,https://www.openstreetmap.org/way/1218541131,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1221783907,osm:way/1221783907,tennis,,31.6554304,-7.9971429,,,,101.7,73.5,,,,https://www.openstreetmap.org/way/1221783907,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1223903776,osm:way/1223903776,tennis,,31.6652622,-8.0284753,,,,22.6,14.4,,,,https://www.openstreetmap.org/way/1223903776,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1225860199,osm:way/1225860199,tennis,,31.638183,-8.0499503,,,,33.6,17.0,,,,https://www.openstreetmap.org/way/1225860199,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1228226298,osm:way/1228226298,tennis,,31.5713936,-7.9638381,,,,63.1,20.8,,,,https://www.openstreetmap.org/way/1228226298,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1228227945,osm:way/1228227945,tennis,,31.5624163,-7.9613928,,,,29.1,14.9,,,,https://www.openstreetmap.org/way/1228227945,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1235845300,osm:way/1235845300,tennis,,31.6315082,-7.9763987,,,,22.6,19.9,,,,https://www.openstreetmap.org/way/1235845300,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1235876849,osm:way/1235876849,tennis,,31.5775161,-7.9631202,,,,9.7,5.4,,,,https://www.openstreetmap.org/way/1235876849,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1239609589,osm:way/1239609589,tennis,,31.6465676,-8.0104036,,,,19.4,11.6,,,,https://www.openstreetmap.org/way/1239609589,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1240109043,osm:way/1240109043,tennis,,31.6785217,-8.0166178,,,,31.9,24.7,,,,https://www.openstreetmap.org/way/1240109043,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1242018864,osm:way/1242018864,tennis,,31.6597132,-7.9655077,,,,31.2,13.7,,,,https://www.openstreetmap.org/way/1242018864,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1243835522,osm:way/1243835522,tennis,,31.6627761,-8.0137396,,,,27.3,17.7,,,,https://www.openstreetmap.org/way/1243835522,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1245984210,osm:way/1245984210,tennis,,31.6555572,-7.9618678,,,,36.7,17.4,,,,https://www.openstreetmap.org/way/1245984210,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/126306379,osm:way/126306407,tennis,,31.6198849,-7.9961006,,,,40.4,20.2,,private,,https://www.openstreetmap.org/way/126306379,2026-10-19T11:52:29+00:00,marrakech,Jardins de La Mamounia
+osm:way/126306384,osm:way/126306407,tennis,,31.6199529,-7.9959028,,,,40.4,20.2,,private,,https://www.openstreetmap.org/way/126306384,2026-10-19T11:52:29+00:00,marrakech,Jardins de La Mamounia
+osm:way/1268541407,osm:way/1268541407,tennis,,31.6867127,-8.0561752,,,,20.5,11.1,,,,https://www.openstreetmap.org/way/1268541407,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1242604161,osm:way/127127607,tennis,,31.6668933,-8.0018982,,,,33.0,16.4,,,,https://www.openstreetmap.org/way/1242604161,2026-10-19T11:52:29+00:00,marrakech,University City Cadi Ayyad
+osm:way/1294710015,osm:way/1294710015,tennis,,31.6824547,-7.9364567,clay,,,28.4,15.5,,,,https://www.openstreetmap.org/way/1294710015,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1294710037,osm:way/1294710037,tennis,,31.6775201,-7.9395403,clay,,,32.1,16.4,,,,https://www.openstreetmap.org/way/1294710037,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1294710041,osm:way/1294710041,tennis,,31.6729712,-7.9510727,clay,,,29.9,16.4,,,,https://www.openstreetmap.org/way/1294710041,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/1307285217,osm:way/1307285217,tennis,,31.5690307,-7.9306185,,,,36.3,17.8,,,,https://www.openstreetmap.org/way/1307285217,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/173485396,osm:way/173485396,tennis,,31.6084251,-7.9340192,,,,42.9,19.2,,private,,https://www.openstreetmap.org/way/173485396,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/173485410,osm:way/173485396,tennis,,31.6082343,-7.9337927,,,,42.9,19.2,,private,,https://www.openstreetmap.org/way/173485410,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/226224451,osm:way/226224451,tennis,,31.651718,-7.9800785,,,,69.2,37.7,,,,https://www.openstreetmap.org/way/226224451,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/328962587,osm:way/328962587,tennis,,31.6395215,-8.0081847,,,,38.8,18.9,,,,https://www.openstreetmap.org/way/328962587,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/328962589,osm:way/328962587,tennis,,31.6397596,-8.0082914,,,,36.6,19.2,,,,https://www.openstreetmap.org/way/328962589,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/360052893,osm:way/360052893,tennis,,31.6517449,-7.9360062,,,,35.8,17.9,,,,https://www.openstreetmap.org/way/360052893,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/360052894,osm:way/360052893,tennis,,31.6514647,-7.9360088,,,,36.3,18.7,,,,https://www.openstreetmap.org/way/360052894,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/366103315,osm:way/366103315,tennis,tennis court,31.6749268,-7.9847451,,,,34.2,18.0,,,,https://www.openstreetmap.org/way/366103315,2026-10-19T11:52:29+00:00,marrakech,tennis court
+osm:way/366103316,osm:way/366103315,tennis,tennis court,31.6747976,-7.9850927,,,,35.8,17.9,,,,https://www.openstreetmap.org/way/366103316,2026-10-19T11:52:29+00:00,marrakech,tennis court
+osm:way/366103317,osm:way/366103315,tennis,tennis court,31.6748986,-7.9849179,,,,35.8,18.0,,,,https://www.openstreetmap.org/way/366103317,2026-10-19T11:52:29+00:00,marrakech,tennis court
+osm:way/390722696,osm:way/390722696,tennis,,31.6383879,-8.0278681,dirt,,,33.9,21.6,,,,https://www.openstreetmap.org/way/390722696,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/390722700,osm:way/390722696,tennis,,31.6386066,-8.0277542,dirt,,,42.7,18.5,,,,https://www.openstreetmap.org/way/390722700,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/390722697,osm:way/390722697,tennis,,31.6393164,-8.0281614,dirt,,,38.8,19.4,,,,https://www.openstreetmap.org/way/390722697,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/390722699,osm:way/390722699,tennis,,31.6391509,-8.0274128,dirt,,,39.0,19.7,,,,https://www.openstreetmap.org/way/390722699,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/435129483,osm:way/435129483,tennis,,31.6235767,-7.997229,,,,35.8,16.4,,,,https://www.openstreetmap.org/way/435129483,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/451701700,osm:way/451701700,tennis,,31.6600348,-7.9334337,,,,35.8,18.7,,,,https://www.openstreetmap.org/way/451701700,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/451701702,osm:way/451701700,tennis,,31.6598616,-7.9332386,,,,35.4,18.5,,,,https://www.openstreetmap.org/way/451701702,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/486314029,osm:way/486314029,tennis,,31.6252239,-8.0198727,,,,36.4,36.4,,,,https://www.openstreetmap.org/way/486314029,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/486317115,osm:way/486314029,tennis,,31.6249312,-8.0196728,,,,36.6,16.8,,,,https://www.openstreetmap.org/way/486317115,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/518012560,osm:way/518012560,tennis,,31.6274748,-7.9945466,,,,33.2,19.9,,,,https://www.openstreetmap.org/way/518012560,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/518012572,osm:way/518012560,tennis,,31.6271826,-7.9943897,,,,33.2,19.9,,,,https://www.openstreetmap.org/way/518012572,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642253,osm:way/554642253,tennis,,31.6598217,-7.9809487,,,,35.7,16.2,,,,https://www.openstreetmap.org/way/554642253,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642254,osm:way/554642253,tennis,,31.6597952,-7.9807698,,,,36.1,18.4,,,,https://www.openstreetmap.org/way/554642254,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642255,osm:way/554642253,tennis,,31.6597678,-7.9805803,,,,36.2,18.2,,,,https://www.openstreetmap.org/way/554642255,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642256,osm:way/554642253,tennis,,31.6594868,-7.9810273,,,,35.5,17.2,,,,https://www.openstreetmap.org/way/554642256,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642257,osm:way/554642253,tennis,,31.6594556,-7.9808417,,,,35.6,18.6,,,,https://www.openstreetmap.org/way/554642257,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/554642258,osm:way/554642253,tennis,,31.659089,-7.9807246,,,,33.7,17.0,,,,https://www.openstreetmap.org/way/554642258,2026-10-19T11:52:29+00:00,marrakech,
+osm:way/737010378,osm:way/1491485537,tennis,,33.9037632,-5.5373208,hard,1,,13.7,6.6,,,,https://www.openstreetmap.org/way/737010378,2026-10-19T11:52:29+00:00,meknes,
+osm:way/737010379,osm:way/1491485537,tennis,,33.903681,-5.5372657,hard,1,,13.9,7.2,,,,https://www.openstreetmap.org/way/737010379,2026-10-19T11:52:29+00:00,meknes,
+osm:way/221644204,osm:way/1492371332,tennis,,33.8967282,-5.5580432,,,,41.6,20.7,,,,https://www.openstreetmap.org/way/221644204,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644205,osm:way/1492371332,tennis,,33.8968616,-5.5578447,,,,40.7,20.5,,,,https://www.openstreetmap.org/way/221644205,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644206,osm:way/1492371332,tennis,Court central,33.8964671,-5.5574373,,,,36.0,16.5,,,,https://www.openstreetmap.org/way/221644206,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644343,osm:way/1492371332,tennis,,33.897652,-5.5585718,,,,39.2,20.6,,,,https://www.openstreetmap.org/way/221644343,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644344,osm:way/1492371332,tennis,,33.89734,-5.5582708,,,,38.3,19.8,,,,https://www.openstreetmap.org/way/221644344,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644345,osm:way/1492371332,tennis,,33.8970951,-5.5580486,,,,40.1,20.5,,,,https://www.openstreetmap.org/way/221644345,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644346,osm:way/1492371332,tennis,,33.8972742,-5.5585759,,,,39.7,21.1,,,,https://www.openstreetmap.org/way/221644346,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/221644347,osm:way/1492371332,tennis,,33.8969703,-5.5582689,,,,39.5,20.4,,,,https://www.openstreetmap.org/way/221644347,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/840525508,osm:way/1492371332,tennis,,33.8978057,-5.5588387,,,,40.1,20.1,,,,https://www.openstreetmap.org/way/840525508,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/840525509,osm:way/1492371332,tennis,,33.8974477,-5.5588372,,,,39.5,20.2,,,,https://www.openstreetmap.org/way/840525509,2026-10-19T11:52:29+00:00,meknes,Club Tennis Meknes
+osm:way/836221106,osm:way/836221106,tennis,,33.8995748,-5.5616839,,,,39.3,18.4,,,,https://www.openstreetmap.org/way/836221106,2026-10-19T11:52:29+00:00,meknes,
+osm:way/836221107,osm:way/836221106,tennis,,33.8995798,-5.5618948,,,,39.1,18.3,,,,https://www.openstreetmap.org/way/836221107,2026-10-19T11:52:29+00:00,meknes,
+osm:way/836221108,osm:way/836221106,tennis,,33.8996404,-5.5621053,,,,39.9,19.3,,,,https://www.openstreetmap.org/way/836221108,2026-10-19T11:52:29+00:00,meknes,
+osm:way/836221109,osm:way/836221106,tennis,,33.8997143,-5.5623236,,,,35.1,18.6,,,,https://www.openstreetmap.org/way/836221109,2026-10-19T11:52:29+00:00,meknes,
+osm:way/840520405,osm:way/840520405,tennis,,33.899049,-5.5598401,,,,38.9,20.2,,,,https://www.openstreetmap.org/way/840520405,2026-10-19T11:52:29+00:00,meknes,
+osm:way/840520406,osm:way/840520406,tennis,,33.8992769,-5.5608791,,,,39.3,18.9,,,,https://www.openstreetmap.org/way/840520406,2026-10-19T11:52:29+00:00,meknes,
+osm:way/840520407,osm:way/840520406,tennis,,33.8991274,-5.5607155,,,,39.4,19.1,,,,https://www.openstreetmap.org/way/840520407,2026-10-19T11:52:29+00:00,meknes,
+osm:way/840520408,osm:way/840520406,tennis,,33.898985,-5.5605316,,,,38.2,20.6,,,,https://www.openstreetmap.org/way/840520408,2026-10-19T11:52:29+00:00,meknes,
+osm:way/322961910,osm:way/146910640,tennis,Sporting Tennis Club d'Oujda (STCO),34.671155,-1.9038503,,,,80.3,39.2,,,,https://www.openstreetmap.org/way/322961910,2026-10-19T11:52:29+00:00,oujda,Parc Lalla Aicha
+osm:way/322961947,osm:way/146910640,tennis,Sporting Tennis Club d'Oujda (STCO),34.6718752,-1.9040496,,,,79.5,39.5,,,,https://www.openstreetmap.org/way/322961947,2026-10-19T11:52:29+00:00,oujda,Parc Lalla Aicha
+osm:way/305941324,osm:way/305941327,tennis,,34.6951119,-1.8992939,,,,43.9,29.9,,,,https://www.openstreetmap.org/way/305941324,2026-10-19T11:52:29+00:00,oujda,Club Energie Tennis
+osm:way/305941325,osm:way/305941327,tennis,,34.6961888,-1.9000876,,,,27.0,17.5,,,,https://www.openstreetmap.org/way/305941325,2026-10-19T11:52:29+00:00,oujda,Club Energie Tennis
+osm:way/305941326,osm:way/305941327,tennis,,34.6946842,-1.8998655,,,,100.4,54.9,,,,https://www.openstreetmap.org/way/305941326,2026-10-19T11:52:29+00:00,oujda,Club Energie Tennis
+osm:way/305941328,osm:way/305941327,tennis,,34.6952624,-1.8999572,,,,39.9,27.1,,,,https://www.openstreetmap.org/way/305941328,2026-10-19T11:52:29+00:00,oujda,Club Energie Tennis
+osm:way/319642862,osm:way/319642862,tennis,,34.7218744,-1.91899,,,,35.6,19.4,,,,https://www.openstreetmap.org/way/319642862,2026-10-19T11:52:29+00:00,oujda,
+osm:way/280073179,osm:way/1016620569,tennis,,33.9665512,-6.8777178,,,,39.4,20.8,,,,https://www.openstreetmap.org/way/280073179,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073181,osm:way/1016620569,tennis,,33.9665533,-6.8774941,,,,39.4,20.5,,,,https://www.openstreetmap.org/way/280073181,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073182,osm:way/1016620569,tennis,,33.9665575,-6.8770556,,,,39.4,19.3,,,,https://www.openstreetmap.org/way/280073182,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073183,osm:way/1016620569,tennis,,33.9665554,-6.8772715,,,,39.4,20.6,,,,https://www.openstreetmap.org/way/280073183,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073184,osm:way/1016620569,tennis,,33.9661144,-6.879217,,,,42.3,24.8,,,,https://www.openstreetmap.org/way/280073184,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073186,osm:way/1016620569,tennis,,33.9661209,-6.8786996,,,,42.4,22.6,,,,https://www.openstreetmap.org/way/280073186,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073187,osm:way/1016620569,tennis,,33.9657362,-6.8789437,,,,42.6,24.1,,,,https://www.openstreetmap.org/way/280073187,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073189,osm:way/1016620569,tennis,,33.9657325,-6.8792085,,,,42.8,25.0,,,,https://www.openstreetmap.org/way/280073189,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073190,osm:way/1016620569,tennis,,33.9657394,-6.8786917,,,,42.5,22.6,,,,https://www.openstreetmap.org/way/280073190,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/280073192,osm:way/1016620569,tennis,,33.9661175,-6.8789523,,,,42.3,24.1,,,,https://www.openstreetmap.org/way/280073192,2026-10-19T11:52:29+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/1016936265,osm:way/1016936271,tennis,,34.0070467,-6.8436751,dirt,,,35.4,15.7,,,,https://www.openstreetmap.org/way/1016936265,2026-10-19T11:52:29+00:00,rabat,Club du Ministère de l'Intérieur - Les Caids
+osm:way/1016936266,osm:way/1016936271,tennis,,34.0070441,-6.8434928,dirt,,,35.4,15.7,,,,https://www.openstreetmap.org/way/1016936266,2026-10-19T11:52:29+00:00,rabat,Club du Ministère de l'Intérieur - Les Caids
+osm:way/1016936272,osm:way/1016936271,tennis,,34.0067184,-6.8434999,dirt,,,35.4,15.7,,,,https://www.openstreetmap.org/way/1016936272,2026-10-19T11:52:29+00:00,rabat,Club du Ministère de l'Intérieur - Les Caids
+osm:way/453040358,osm:way/1020862496,tennis,,33.9972063,-6.8376608,,,,37.9,21.2,,,,https://www.openstreetmap.org/way/453040358,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453040359,osm:way/1020862496,tennis,,33.9970762,-6.8378137,,,,37.9,20.3,,,,https://www.openstreetmap.org/way/453040359,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453040360,osm:way/1020862496,tennis,,33.9967829,-6.8374888,,,,40.2,19.8,,,,https://www.openstreetmap.org/way/453040360,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453040361,osm:way/1020862496,tennis,,33.9969288,-6.837396,,,,34.8,19.2,,,,https://www.openstreetmap.org/way/453040361,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453076825,osm:way/1020862496,tennis,,33.996463,-6.8386888,,,,38.4,18.7,,,,https://www.openstreetmap.org/way/453076825,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453076827,osm:way/1020862496,tennis,,33.9962185,-6.8384144,,,,36.9,18.7,,,,https://www.openstreetmap.org/way/453076827,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453076829,osm:way/1020862496,tennis,,33.9959758,-6.8381342,,,,38.9,19.3,,,,https://www.openstreetmap.org/way/453076829,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/453076831,osm:way/1020862496,tennis,,33.9961238,-6.837829,,,,38.2,19.7,,,,https://www.openstreetmap.org/way/453076831,2026-10-19T11:52:29+00:00,rabat,Club Riad
+osm:way/288180406,osm:way/1028787160,tennis,,33.9723483,-6.8751387,,,,37.2,18.9,,,,https://www.openstreetmap.org/way/288180406,2026-10-19T11:52:29+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/288180407,osm:way/1028787160,tennis,,33.972246,-6.8749854,,,,37.2,17.6,,,,https://www.openstreetmap.org/way/288180407,2026-10-19T11:52:29+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/288180409,osm:way/1028787160,tennis,,33.9721448,-6.8748319,,,,37.0,18.7,,,,https://www.openstreetmap.org/way/288180409,2026-10-19T11:52:29+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/288180410,osm:way/1028787160,tennis,,33.9719748,-6.8752406,,,,39.6,17.6,,,,https://www.openstreetmap.org/way/288180410,2026-10-19T11:52:29+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/288180412,osm:way/1028787160,tennis,,33.9718752,-6.8750855,,,,39.2,18.7,,,,https://www.openstreetmap.org/way/288180412,2026-10-19T11:52:29+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/279311847,osm:way/1028801335,tennis,,33.9652049,-6.8993914,,,,21.3,14.9,,,,https://www.openstreetmap.org/way/279311847,2026-10-19T11:52:29+00:00,rabat,Abi Dar Al Ghaffari Middle School
+osm:way/1085659601,osm:way/1085659597,tennis,,33.9720474,-6.8671704,,,,23.6,11.2,,,,https://www.openstreetmap.org/way/1085659601,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1085659602,osm:way/1085659597,tennis,,33.9721291,-6.8672896,,,,23.6,11.2,,,,https://www.openstreetmap.org/way/1085659602,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666475,osm:way/1085659597,tennis,,33.9779207,-6.8637631,,,,42.9,22.5,,,,https://www.openstreetmap.org/way/288666475,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666476,osm:way/1085659597,tennis,,33.9775575,-6.8637096,,,,39.6,22.2,,,,https://www.openstreetmap.org/way/288666476,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666477,osm:way/1085659597,tennis,,33.9771954,-6.8636577,,,,40.2,21.8,,,,https://www.openstreetmap.org/way/288666477,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666478,osm:way/1085659597,tennis,,33.9777121,-6.8635039,,,,38.5,23.9,,,,https://www.openstreetmap.org/way/288666478,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666479,osm:way/1085659597,tennis,,33.9773573,-6.8634808,,,,43.4,24.0,,,,https://www.openstreetmap.org/way/288666479,2026-10-19T11:52:29+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1274935441,osm:way/1274935441,tennis,,33.9891447,-6.8375307,,,,22.7,11.5,,,,https://www.openstreetmap.org/way/1274935441,2026-10-19T11:52:29+00:00,rabat,
+osm:way/1277758383,osm:way/1277758383,tennis,,33.9824151,-6.8161047,,,,17.4,9.3,,,,https://www.openstreetmap.org/way/1277758383,2026-10-19T11:52:29+00:00,rabat,
+osm:way/449064487,osm:way/1278461016,tennis,,34.0049031,-6.8533265,,,,36.3,19.6,,,,https://www.openstreetmap.org/way/449064487,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064488,osm:way/1278461016,tennis,,34.0047772,-6.8534783,,,,36.3,20.0,,,,https://www.openstreetmap.org/way/449064488,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064489,osm:way/1278461016,tennis,,34.0053754,-6.8532709,,,,39.5,19.6,,,,https://www.openstreetmap.org/way/449064489,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064490,osm:way/1278461016,tennis,,34.0052077,-6.8531462,,,,39.0,19.6,,,,https://www.openstreetmap.org/way/449064490,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064491,osm:way/1278461016,tennis,,34.0051233,-6.852913,,,,40.6,20.5,,,,https://www.openstreetmap.org/way/449064491,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064492,osm:way/1278461016,tennis,,34.0055879,-6.8529617,,,,36.9,18.5,,,,https://www.openstreetmap.org/way/449064492,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/449064493,osm:way/1278461016,tennis,,34.0057445,-6.8532357,,,,30.9,17.0,,,,https://www.openstreetmap.org/way/449064493,2026-10-19T11:52:29+00:00,rabat,Union Sportive Des Cheminots Du Maroc
+osm:way/1375603588,osm:way/1375603588,tennis,,33.9913246,-6.8636582,,,,31.6,13.6,,,,https://www.openstreetmap.org/way/1375603588,2026-10-19T11:52:29+00:00,rabat,
+osm:way/234798838,osm:way/234021288,tennis,,34.011552,-6.839166,,,,43.3,17.9,,,,https://www.openstreetmap.org/way/234798838,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173294,osm:way/234021288,tennis,Court n° 2,34.0112373,-6.8397175,clay,,,41.5,20.9,,,,https://www.openstreetmap.org/way/297173294,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173296,osm:way/234021288,tennis,Court n° 3,34.0110397,-6.8400451,clay,,,39.8,20.9,,,,https://www.openstreetmap.org/way/297173296,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173297,osm:way/234021288,tennis,Court n° 4,34.0108891,-6.839798,clay,,,39.5,20.1,,,,https://www.openstreetmap.org/way/297173297,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173300,osm:way/234021288,tennis,Court n° 5,34.0107091,-6.8400599,clay,,,38.3,21.2,,,,https://www.openstreetmap.org/way/297173300,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173302,osm:way/234021288,tennis,Court n° 6,34.0108573,-6.8395255,clay,,,39.5,20.4,,,,https://www.openstreetmap.org/way/297173302,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173303,osm:way/234021288,tennis,Court n° 7,34.0105063,-6.8396613,clay,,,38.5,21.1,,,,https://www.openstreetmap.org/way/297173303,2026-10-19T11:52:29+00:00,rabat,Olympique Marocain
+osm:way/297173292,osm:way/234021535,tennis,Court n° 1,34.008328,-6.8392254,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173292,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173293,osm:way/234021535,tennis,Court n° 2,34.0080889,-6.8396003,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173293,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173295,osm:way/234021535,tennis,Court n° 3,34.0082915,-6.8399661,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173295,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173298,osm:way/234021535,tennis,Court n° 4,34.0077407,-6.839724,clay,,,38.8,19.9,,,,https://www.openstreetmap.org/way/297173298,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173299,osm:way/234021535,tennis,Court n° 5,34.0078415,-6.8399062,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173299,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173301,osm:way/234021535,tennis,Court n° 6,34.0079681,-6.8401279,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173301,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/297173304,osm:way/234021535,tennis,Court n° 7,34.0080708,-6.840313,clay,,,38.8,20.4,,,,https://www.openstreetmap.org/way/297173304,2026-10-19T11:52:29+00:00,rabat,Stade Marocain
+osm:way/279312911,osm:way/279312910,tennis,,33.9722992,-6.8755916,,,,38.0,19.0,,,,https://www.openstreetmap.org/way/279312911,2026-10-19T11:52:29+00:00,rabat,
+osm:way/281098921,osm:way/281098921,tennis,,33.9671718,-6.8697607,,,,35.0,18.8,,,,https://www.openstreetmap.org/way/281098921,2026-10-19T11:52:29+00:00,rabat,
+osm:way/590853816,osm:way/590853833,tennis,,33.9534537,-6.8156856,,,,38.2,19.3,,,,https://www.openstreetmap.org/way/590853816,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853817,osm:way/590853833,tennis,,33.9538691,-6.8158086,,,,41.6,19.0,,,,https://www.openstreetmap.org/way/590853817,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853819,osm:way/590853833,tennis,,33.9528476,-6.8166067,,,,35.2,17.7,,,,https://www.openstreetmap.org/way/590853819,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853820,osm:way/590853833,tennis,,33.9525273,-6.8165293,,,,37.6,17.5,,,,https://www.openstreetmap.org/way/590853820,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853821,osm:way/590853833,tennis,,33.9528689,-6.8162522,,,,36.6,18.9,,,,https://www.openstreetmap.org/way/590853821,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853822,osm:way/590853833,tennis,,33.9529449,-6.8158635,,,,38.8,21.4,,,,https://www.openstreetmap.org/way/590853822,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853827,osm:way/590853833,tennis,,33.9525637,-6.8162697,,,,33.8,17.9,,,,https://www.openstreetmap.org/way/590853827,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853828,osm:way/590853833,tennis,,33.9526019,-6.8160769,,,,33.8,18.6,,,,https://www.openstreetmap.org/way/590853828,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853829,osm:way/590853833,tennis,,33.9526104,-6.8157198,,,,36.1,19.3,,,,https://www.openstreetmap.org/way/590853829,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853830,osm:way/590853833,tennis,,33.9530549,-6.8154889,,,,35.2,19.7,,,,https://www.openstreetmap.org/way/590853830,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853831,osm:way/590853833,tennis,,33.9530901,-6.8152811,,,,35.2,19.6,,,,https://www.openstreetmap.org/way/590853831,2026-10-19T11:52:29+00:00,rabat,Club Wifaq Tennis
+osm:way/590853868,osm:way/590853868,tennis,,33.9410803,-6.7992161,,,,38.2,20.4,,,,https://www.openstreetmap.org/way/590853868,2026-10-19T11:52:29+00:00,rabat,
+osm:way/590853880,osm:way/590853868,tennis,,33.9407032,-6.7993331,,,,37.6,20.8,,,,https://www.openstreetmap.org/way/590853880,2026-10-19T11:52:29+00:00,rabat,
+osm:way/1278481440,osm:way/684390230,tennis,,33.9744771,-6.8190456,,,,17.3,9.0,,,,https://www.openstreetmap.org/way/1278481440,2026-10-19T11:52:29+00:00,rabat,Lycée Moulay Abdallah
+osm:way/925101514,osm:way/925101514,tennis,,33.9256687,-6.8423795,,,,36.6,17.4,,,,https://www.openstreetmap.org/way/925101514,2026-10-19T11:52:29+00:00,rabat,
+osm:way/925101515,osm:way/925101514,tennis,,33.9255099,-6.8423322,,,,36.6,17.4,,,,https://www.openstreetmap.org/way/925101515,2026-10-19T11:52:29+00:00,rabat,
+osm:way/925101599,osm:way/925101599,tennis,,33.9355461,-6.8338125,,,,37.0,18.5,,,,https://www.openstreetmap.org/way/925101599,2026-10-19T11:52:29+00:00,rabat,
+osm:way/925101698,osm:way/925101698,tennis,,33.9238754,-6.8230592,,,,37.2,17.6,,,,https://www.openstreetmap.org/way/925101698,2026-10-19T11:52:29+00:00,rabat,
+osm:way/279217997,osm:way/975657108,tennis,الملعب الرئيسي لنادي النرجس,33.9698439,-6.8793313,clay,1,,41.2,22.1,,permissive,,https://www.openstreetmap.org/way/279217997,2026-10-19T11:52:29+00:00,rabat,Club Narjisse
+osm:way/280115728,osm:way/975657108,tennis,,33.9697077,-6.8797365,dirt,,,36.6,18.5,,,,https://www.openstreetmap.org/way/280115728,2026-10-19T11:52:29+00:00,rabat,Club Narjisse
+osm:way/280429565,osm:way/975657108,tennis,,33.9697685,-6.8789348,,,,36.2,20.6,,,,https://www.openstreetmap.org/way/280429565,2026-10-19T11:52:29+00:00,rabat,Club Narjisse
+osm:way/280429566,osm:way/975657108,tennis,,33.9696254,-6.8786883,,,,36.2,20.6,,,,https://www.openstreetmap.org/way/280429566,2026-10-19T11:52:29+00:00,rabat,Club Narjisse
+osm:way/280429567,osm:way/975657108,tennis,,33.9695002,-6.8784433,,,,36.2,20.6,,,,https://www.openstreetmap.org/way/280429567,2026-10-19T11:52:29+00:00,rabat,Club Narjisse
+osm:way/1496676357,osm:way/1490411381,tennis,,35.7380067,-5.8596818,,,,35.2,18.6,,,,https://www.openstreetmap.org/way/1496676357,2026-10-19T11:52:29+00:00,tangier,Stade de Tennis
+osm:way/1033406876,osm:way/1490411383,tennis,,35.7387603,-5.8626235,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406876,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406877,osm:way/1490411383,tennis,,35.7387581,-5.8624089,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406877,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406878,osm:way/1490411383,tennis,,35.7387494,-5.8621649,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406878,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406879,osm:way/1490411383,tennis,,35.7387386,-5.8619503,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406879,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406880,osm:way/1490411383,tennis,,35.7387284,-5.8612215,,,,36.9,17.5,,,,https://www.openstreetmap.org/way/1033406880,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406881,osm:way/1490411383,tennis,,35.7387177,-5.8610093,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406881,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406882,osm:way/1490411383,tennis,,35.7387059,-5.8607835,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406882,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406883,osm:way/1490411383,tennis,,35.7387015,-5.8605689,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406883,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406884,osm:way/1490411383,tennis,,35.7383401,-5.8626289,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406884,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406885,osm:way/1490411383,tennis,,35.7383314,-5.8624197,,,,36.9,17.5,,,,https://www.openstreetmap.org/way/1033406885,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406886,osm:way/1490411383,tennis,,35.7383227,-5.8621783,,,,36.9,17.5,,,,https://www.openstreetmap.org/way/1033406886,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406887,osm:way/1490411383,tennis,,35.7383205,-5.8619691,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406887,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406888,osm:way/1490411383,tennis,,35.7383097,-5.861615,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406888,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406889,osm:way/1490411383,tennis,,35.7382922,-5.8612636,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406889,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406890,osm:way/1490411383,tennis,,35.7382857,-5.8610544,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406890,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406891,osm:way/1490411383,tennis,,35.738277,-5.8608023,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406891,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1033406892,osm:way/1490411383,tennis,,35.7382726,-5.8605958,,,,37.0,17.5,,,,https://www.openstreetmap.org/way/1033406892,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1518721495,osm:way/1518721495,tennis,,35.7906967,-5.7580718,,,,19.8,10.3,,,,https://www.openstreetmap.org/way/1518721495,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1518721496,osm:way/1518721495,tennis,,35.7906483,-5.7581958,,,,19.8,10.3,,,,https://www.openstreetmap.org/way/1518721496,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570926,osm:way/509570926,tennis,,35.7682923,-5.8110665,,,,35.0,16.6,,,,https://www.openstreetmap.org/way/509570926,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570927,osm:way/509570926,tennis,,35.7683195,-5.8113937,,,,41.3,19.9,,,,https://www.openstreetmap.org/way/509570927,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570928,osm:way/509570926,tennis,,35.7680712,-5.8118447,,,,40.6,20.9,,,,https://www.openstreetmap.org/way/509570928,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570929,osm:way/509570926,tennis,,35.7677344,-5.8118817,,,,35.8,20.9,,,,https://www.openstreetmap.org/way/509570929,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570930,osm:way/509570926,tennis,,35.7677025,-5.8114755,,,,36.2,20.1,,,,https://www.openstreetmap.org/way/509570930,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570931,osm:way/509570926,tennis,,35.7681809,-5.8120195,,,,38.0,21.1,,,,https://www.openstreetmap.org/way/509570931,2026-10-19T11:52:29+00:00,tangier,
+osm:way/509570932,osm:way/509570926,tennis,,35.7678459,-5.8120563,,,,35.2,21.1,,,,https://www.openstreetmap.org/way/509570932,2026-10-19T11:52:29+00:00,tangier,
+osm:way/1461348265,osm:way/1461348265,tennis,,35.5610522,-5.3667225,,,,39.4,21.5,,,,https://www.openstreetmap.org/way/1461348265,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/1461348266,osm:way/1461348265,tennis,,35.5610423,-5.3664759,,,,39.4,21.5,,,,https://www.openstreetmap.org/way/1461348266,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/1461348267,osm:way/1461348265,tennis,,35.5610195,-5.3662275,,,,39.4,21.5,,,,https://www.openstreetmap.org/way/1461348267,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/1461348268,osm:way/1461348268,tennis,,35.5609906,-5.3654672,,,,39.4,21.5,,,,https://www.openstreetmap.org/way/1461348268,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/1461348269,osm:way/1461348268,tennis,,35.5609694,-5.365187,,,,39.4,21.5,,,,https://www.openstreetmap.org/way/1461348269,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/288749933,osm:way/288749933,tennis,,35.5725145,-5.3495756,,,,38.4,18.0,,,,https://www.openstreetmap.org/way/288749933,2026-10-19T11:52:30+00:00,tetouan,
+osm:way/288749934,osm:way/288749933,tennis,,35.5722172,-5.3494652,,,,39.5,18.4,,,,https://www.openstreetmap.org/way/288749934,2026-10-19T11:52:30+00:00,tetouan,

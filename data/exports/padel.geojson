@@ -1,0 +1,1121 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.6016217,
+     30.4183587
+    ]
+   },
+   "properties": {
+    "id": "osm:node/13300162844",
+    "city": "agadir",
+    "name": "Le Carre Padel",
+    "name_ar": null,
+    "venue_type": "pitch",
+    "address": "Avenue Mohamed V شارع محمد الخامس, 80000",
+    "district": null,
+    "neighbourhood": "Quartier administratif",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": "customers",
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 1,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": 1,
+    "pitches": [
+     {
+      "id": "osm:node/13300162844",
+      "sport": "padel",
+      "name": "Le Carre Padel",
+      "lat": 30.4183587,
+      "lon": -9.6016217,
+      "surface": null,
+      "lit": 1,
+      "indoor": null,
+      "length_m": null,
+      "width_m": null,
+      "format": null,
+      "access": "customers",
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/node/13300162844",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.5784152,
+     30.4196084
+    ]
+   },
+   "properties": {
+    "id": "osm:node/13300140471",
+    "city": "agadir",
+    "name": "Padel Factory",
+    "name_ar": null,
+    "venue_type": "pitch",
+    "address": "Rue Ibn Al Arabi, 80000",
+    "district": null,
+    "neighbourhood": "Quartier Industriel",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": "customers",
+    "fee": "yes",
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 1,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": 1,
+    "pitches": [
+     {
+      "id": "osm:node/13300140471",
+      "sport": "padel",
+      "name": "Padel Factory",
+      "lat": 30.4196084,
+      "lon": -9.5784152,
+      "surface": null,
+      "lit": 1,
+      "indoor": null,
+      "length_m": null,
+      "width_m": null,
+      "format": null,
+      "access": "customers",
+      "fee": "yes",
+      "source_url": "https://www.openstreetmap.org/node/13300140471",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.5451554,
+     30.4181291
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1525336687",
+    "city": "agadir",
+    "name": null,
+    "name_ar": null,
+    "venue_type": "pitch",
+    "address": null,
+    "district": null,
+    "neighbourhood": "Dakhla",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 9,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": [
+     {
+      "id": "osm:way/1525336687",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4179175,
+      "lon": -9.5449011,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336687",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336688",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4178665,
+      "lon": -9.5447087,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336688",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336689",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4181785,
+      "lon": -9.5448123,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336689",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336690",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4181222,
+      "lon": -9.5446104,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336690",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336691",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4181285,
+      "lon": -9.5456978,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336691",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336692",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4183431,
+      "lon": -9.5454026,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336692",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336693",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4181279,
+      "lon": -9.5451534,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336693",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336694",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4180774,
+      "lon": -9.5455049,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336694",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1525336695",
+      "sport": "padel",
+      "name": null,
+      "lat": 30.4184003,
+      "lon": -9.5456074,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.9,
+      "width_m": 10.6,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1525336695",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6507162,
+     33.6084109
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1422141867",
+    "city": "casablanca",
+    "name": "Atlantique Football Club",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": null,
+    "district": "Arrondissement d'Anfa",
+    "neighbourhood": "El Hank",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 8,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": [
+     {
+      "id": "osm:way/1409719478",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6083509,
+      "lon": -7.6509382,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 21.3,
+      "width_m": 9.9,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1409719478",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1409719479",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6081714,
+      "lon": -7.6508589,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 21.3,
+      "width_m": 9.9,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1409719479",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1409719480",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.608553,
+      "lon": -7.6510917,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 9.9,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1409719480",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1409719481",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6085939,
+      "lon": -7.6509648,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 10.0,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1409719481",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1409719482",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6086289,
+      "lon": -7.6508398,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 10.0,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1409719482",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1517877707",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6087601,
+      "lon": -7.650423,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 10.0,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1517877707",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1517877708",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6087252,
+      "lon": -7.650548,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 10.0,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1517877708",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1517877709",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.6086844,
+      "lon": -7.6506749,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.0,
+      "width_m": 9.9,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1517877709",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6538688,
+     33.5946717
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1349867151",
+    "city": "casablanca",
+    "name": "Bank of Africa Club",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": "Boulevard de Bourgogne شارع بوركون",
+    "district": "Arrondissement d'Anfa",
+    "neighbourhood": "Val d'Anfa",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6510089,
+     33.5643844
+    ]
+   },
+   "properties": {
+    "id": "osm:way/214289475",
+    "city": "casablanca",
+    "name": "Cercle Amical Français de Casablanca",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": null,
+    "district": "Arrondissement de Hay Hassani",
+    "neighbourhood": "Ferme Bretonne",
+    "phone": "+212 5 22 25 50 05",
+    "website": "https://cafc.ma/",
+    "email": "communication@cafc.ma",
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6374456,
+     33.5488853
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1361144248",
+    "city": "casablanca",
+    "name": "City Ball",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": null,
+    "district": "Arrondissement d'Aïn-Chock",
+    "neighbourhood": "Vermont",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 4,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": [
+     {
+      "id": "osm:way/1361144253",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.5492403,
+      "lon": -7.6374951,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.9,
+      "width_m": 10.2,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1361144253",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1361144254",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.5492852,
+      "lon": -7.6373799,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.7,
+      "width_m": 10.0,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1361144254",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1361144255",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.54933,
+      "lon": -7.6372625,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.7,
+      "width_m": 9.8,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1361144255",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1361144256",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.5493732,
+      "lon": -7.6371479,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.4,
+      "width_m": 10.3,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1361144256",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6461851,
+     33.5596004
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1361187524",
+    "city": "casablanca",
+    "name": "Club Olympique de Casablanca",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": null,
+    "district": "Arrondissement de Hay Hassani",
+    "neighbourhood": "Ferme Bretonne",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6891139,
+     33.5777518
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1342707522",
+    "city": "casablanca",
+    "name": "Oceanic Club de Casablanca",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": null,
+    "district": "Arrondissement d'Anfa",
+    "neighbourhood": "Anfa",
+    "phone": "+212 5 22 79 76 26",
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6685606,
+     33.5971478
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1364347759",
+    "city": "casablanca",
+    "name": "Plein Ciel Paradise",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": "Boulevard de la Corniche شارع الكورنيش",
+    "district": "Arrondissement d'Anfa",
+    "neighbourhood": "Anfa Supérieur",
+    "phone": "+212 5 22 79 79 79",
+    "website": "https://www.clubparadise.ma/",
+    "email": "info@pleinciel.ma",
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6433042,
+     33.5652904
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1362744612",
+    "city": "casablanca",
+    "name": "Stade Olympique Casablancais",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": "365 Route Al Jamiaa",
+    "district": "Arrondissement du Maârif",
+    "neighbourhood": "Riviera",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.0024464,
+     34.0323012
+    ]
+   },
+   "properties": {
+    "id": "osm:way/533481433",
+    "city": "fes",
+    "name": null,
+    "name_ar": null,
+    "venue_type": "park",
+    "address": null,
+    "district": "Arrondissement d'Agdal",
+    "neighbourhood": "Agdal",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": "private",
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 3,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": [
+     {
+      "id": "osm:way/1499333858",
+      "sport": "padel",
+      "name": null,
+      "lat": 34.0324801,
+      "lon": -5.0012164,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 20.3,
+      "width_m": 9.3,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1499333858",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1499333859",
+      "sport": "padel",
+      "name": null,
+      "lat": 34.0323528,
+      "lon": -5.0012137,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.2,
+      "width_m": 9.9,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1499333859",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1499333860",
+      "sport": "padel",
+      "name": null,
+      "lat": 34.0322248,
+      "lon": -5.0012147,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 19.4,
+      "width_m": 10.7,
+      "format": null,
+      "access": null,
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1499333860",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5911593,
+     34.2712952
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1492231923",
+    "city": "kenitra",
+    "name": null,
+    "name_ar": null,
+    "venue_type": "pitch",
+    "address": null,
+    "district": null,
+    "neighbourhood": "La Ville Haute",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": "customers",
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:26+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 2,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": 1,
+    "pitches": [
+     {
+      "id": "osm:way/1492231923",
+      "sport": "padel",
+      "name": null,
+      "lat": 34.2713465,
+      "lon": -6.5911467,
+      "surface": null,
+      "lit": 1,
+      "indoor": null,
+      "length_m": 20.9,
+      "width_m": 10.4,
+      "format": null,
+      "access": "customers",
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1492231923",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     },
+     {
+      "id": "osm:way/1492231924",
+      "sport": "padel",
+      "name": null,
+      "lat": 34.2712439,
+      "lon": -6.5911719,
+      "surface": null,
+      "lit": 1,
+      "indoor": null,
+      "length_m": 21.2,
+      "width_m": 12.4,
+      "format": null,
+      "access": "customers",
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1492231924",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8163203,
+     33.9533317
+    ]
+   },
+   "properties": {
+    "id": "osm:way/590853833",
+    "city": "rabat",
+    "name": "Club Wifaq Tennis",
+    "name_ar": null,
+    "venue_type": "sports_centre",
+    "address": "Rue Anejra زنقة أنجرة",
+    "district": "Arrondissement Souissi",
+    "neighbourhood": "Les Ambassadeurs",
+    "phone": null,
+    "website": null,
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 0,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8646471,
+     33.9769001
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1085659597",
+    "city": "rabat",
+    "name": "Institut agronomique et vétérinaire Hassan-II",
+    "name_ar": "معهد الحسن الثاني للزراعة والبيطرة",
+    "venue_type": "school",
+    "address": "شارع علال الفاسي",
+    "district": "Arrondissement Agdal-Riyad",
+    "neighbourhood": "مدينة العرفان",
+    "phone": null,
+    "website": "https://iav.ac.ma",
+    "email": null,
+    "opening_hours": null,
+    "access": null,
+    "fee": null,
+    "rating": null,
+    "rating_count": null,
+    "google_maps_url": null,
+    "business_status": null,
+    "photo_refs": [],
+    "sources": [
+     "osm"
+    ],
+    "first_seen_at": "2026-10-19T11:52:23+00:00",
+    "last_seen_at": "2026-10-19T11:52:26+00:00",
+    "pitch_count": 1,
+    "formats": null,
+    "surfaces": null,
+    "any_lit": null,
+    "pitches": [
+     {
+      "id": "osm:way/1495481922",
+      "sport": "padel",
+      "name": null,
+      "lat": 33.9771347,
+      "lon": -6.863995,
+      "surface": null,
+      "lit": null,
+      "indoor": null,
+      "length_m": 43.1,
+      "width_m": 24.2,
+      "format": null,
+      "access": "customers",
+      "fee": null,
+      "source_url": "https://www.openstreetmap.org/way/1495481922",
+      "last_seen_at": "2026-10-19T11:52:26+00:00"
+     }
+    ]
+   }
+  }
+ ]
+}

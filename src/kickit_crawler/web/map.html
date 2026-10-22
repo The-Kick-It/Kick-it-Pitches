@@ -1,0 +1,838 @@
+<title>Kick-it Pitch Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Leaflet 1.9.4 — BSD-2-Clause, inlined because artifact pages can't load external stylesheets */
+.leaflet-image-layer,.leaflet-layer,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-pane,.leaflet-pane>canvas,.leaflet-pane>svg,.leaflet-tile,.leaflet-tile-container,.leaflet-zoom-box{position:absolute;left:0;top:0}.leaflet-container{overflow:hidden}.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile{-webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-user-drag:none}.leaflet-tile::selection{background:0 0}.leaflet-safari .leaflet-tile{image-rendering:-webkit-optimize-contrast}.leaflet-safari .leaflet-tile-container{width:1600px;height:1600px;-webkit-transform-origin:0 0}.leaflet-marker-icon,.leaflet-marker-shadow{display:block}.leaflet-container .leaflet-overlay-pane svg{max-width:none!important;max-height:none!important}.leaflet-container .leaflet-marker-pane img,.leaflet-container .leaflet-shadow-pane img,.leaflet-container .leaflet-tile,.leaflet-container .leaflet-tile-pane img,.leaflet-container img.leaflet-image-layer{max-width:none!important;max-height:none!important;width:auto;padding:0}.leaflet-container img.leaflet-tile{mix-blend-mode:plus-lighter}.leaflet-container.leaflet-touch-zoom{-ms-touch-action:pan-x pan-y;touch-action:pan-x pan-y}.leaflet-container.leaflet-touch-drag{-ms-touch-action:pinch-zoom;touch-action:none;touch-action:pinch-zoom}.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom{-ms-touch-action:none;touch-action:none}.leaflet-container{-webkit-tap-highlight-color:transparent}.leaflet-container a{-webkit-tap-highlight-color:rgba(51,181,229,.4)}.leaflet-tile{filter:inherit;visibility:hidden}.leaflet-tile-loaded{visibility:inherit}.leaflet-zoom-box{width:0;height:0;-moz-box-sizing:border-box;box-sizing:border-box;z-index:800}.leaflet-overlay-pane svg{-moz-user-select:none}.leaflet-pane{z-index:400}.leaflet-tile-pane{z-index:200}.leaflet-overlay-pane{z-index:400}.leaflet-shadow-pane{z-index:500}.leaflet-marker-pane{z-index:600}.leaflet-tooltip-pane{z-index:650}.leaflet-popup-pane{z-index:700}.leaflet-map-pane canvas{z-index:100}.leaflet-map-pane svg{z-index:200}.leaflet-vml-shape{width:1px;height:1px}.lvml{behavior:url(#default#VML);display:inline-block;position:absolute}.leaflet-control{position:relative;z-index:800;pointer-events:visiblePainted;pointer-events:auto}.leaflet-bottom,.leaflet-top{position:absolute;z-index:1000;pointer-events:none}.leaflet-top{top:0}.leaflet-right{right:0}.leaflet-bottom{bottom:0}.leaflet-left{left:0}.leaflet-control{float:left;clear:both}.leaflet-right .leaflet-control{float:right}.leaflet-top .leaflet-control{margin-top:10px}.leaflet-bottom .leaflet-control{margin-bottom:10px}.leaflet-left .leaflet-control{margin-left:10px}.leaflet-right .leaflet-control{margin-right:10px}.leaflet-fade-anim .leaflet-popup{opacity:0;-webkit-transition:opacity .2s linear;-moz-transition:opacity .2s linear;transition:opacity .2s linear}.leaflet-fade-anim .leaflet-map-pane .leaflet-popup{opacity:1}.leaflet-zoom-animated{-webkit-transform-origin:0 0;-ms-transform-origin:0 0;transform-origin:0 0}svg.leaflet-zoom-animated{will-change:transform}.leaflet-zoom-anim .leaflet-zoom-animated{-webkit-transition:-webkit-transform .25s cubic-bezier(0,0,.25,1);-moz-transition:-moz-transform .25s cubic-bezier(0,0,.25,1);transition:transform .25s cubic-bezier(0,0,.25,1)}.leaflet-pan-anim .leaflet-tile,.leaflet-zoom-anim .leaflet-tile{-webkit-transition:none;-moz-transition:none;transition:none}.leaflet-zoom-anim .leaflet-zoom-hide{visibility:hidden}.leaflet-interactive{cursor:pointer}.leaflet-grab{cursor:-webkit-grab;cursor:-moz-grab;cursor:grab}.leaflet-crosshair,.leaflet-crosshair .leaflet-interactive{cursor:crosshair}.leaflet-control,.leaflet-popup-pane{cursor:auto}.leaflet-dragging .leaflet-grab,.leaflet-dragging .leaflet-grab .leaflet-interactive,.leaflet-dragging .leaflet-marker-draggable{cursor:move;cursor:-webkit-grabbing;cursor:-moz-grabbing;cursor:grabbing}.leaflet-image-layer,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-pane>svg path,.leaflet-tile-container{pointer-events:none}.leaflet-image-layer.leaflet-interactive,.leaflet-marker-icon.leaflet-interactive,.leaflet-pane>svg path.leaflet-interactive,svg.leaflet-image-layer.leaflet-interactive path{pointer-events:visiblePainted;pointer-events:auto}.leaflet-container{background:#ddd;outline-offset:1px}.leaflet-container a{color:#0078a8}.leaflet-zoom-box{border:2px dotted #38f;background:rgba(255,255,255,.5)}.leaflet-container{font-family:"Helvetica Neue",Arial,Helvetica,sans-serif;font-size:12px;font-size:.75rem;line-height:1.5}.leaflet-bar{box-shadow:0 1px 5px rgba(0,0,0,.65);border-radius:4px}.leaflet-bar a{background-color:#fff;border-bottom:1px solid #ccc;width:26px;height:26px;line-height:26px;display:block;text-align:center;text-decoration:none;color:#000}.leaflet-bar a,.leaflet-control-layers-toggle{background-position:50% 50%;background-repeat:no-repeat;display:block}.leaflet-bar a:focus,.leaflet-bar a:hover{background-color:#f4f4f4}.leaflet-bar a:first-child{border-top-left-radius:4px;border-top-right-radius:4px}.leaflet-bar a:last-child{border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-bottom:none}.leaflet-bar a.leaflet-disabled{cursor:default;background-color:#f4f4f4;color:#bbb}.leaflet-touch .leaflet-bar a{width:30px;height:30px;line-height:30px}.leaflet-touch .leaflet-bar a:first-child{border-top-left-radius:2px;border-top-right-radius:2px}.leaflet-touch .leaflet-bar a:last-child{border-bottom-left-radius:2px;border-bottom-right-radius:2px}.leaflet-control-zoom-in,.leaflet-control-zoom-out{font:bold 18px 'Lucida Console',Monaco,monospace;text-indent:1px}.leaflet-touch .leaflet-control-zoom-in,.leaflet-touch .leaflet-control-zoom-out{font-size:22px}.leaflet-control-layers{box-shadow:0 1px 5px rgba(0,0,0,.4);background:#fff;border-radius:5px}.leaflet-control-layers-toggle{background-image:url(images/layers.png);width:36px;height:36px}.leaflet-retina .leaflet-control-layers-toggle{background-image:url(images/layers-2x.png);background-size:26px 26px}.leaflet-touch .leaflet-control-layers-toggle{width:44px;height:44px}.leaflet-control-layers .leaflet-control-layers-list,.leaflet-control-layers-expanded .leaflet-control-layers-toggle{display:none}.leaflet-control-layers-expanded .leaflet-control-layers-list{display:block;position:relative}.leaflet-control-layers-expanded{padding:6px 10px 6px 6px;color:#333;background:#fff}.leaflet-control-layers-scrollbar{overflow-y:scroll;overflow-x:hidden;padding-right:5px}.leaflet-control-layers-selector{margin-top:2px;position:relative;top:1px}.leaflet-control-layers label{display:block;font-size:13px;font-size:1.08333em}.leaflet-control-layers-separator{height:0;border-top:1px solid #ddd;margin:5px -10px 5px -6px}.leaflet-default-icon-path{background-image:url(images/marker-icon.png)}.leaflet-container .leaflet-control-attribution{background:#fff;background:rgba(255,255,255,.8);margin:0}.leaflet-control-attribution,.leaflet-control-scale-line{padding:0 5px;color:#333;line-height:1.4}.leaflet-control-attribution a{text-decoration:none}.leaflet-control-attribution a:focus,.leaflet-control-attribution a:hover{text-decoration:underline}.leaflet-attribution-flag{display:inline!important;vertical-align:baseline!important;width:1em;height:.6669em}.leaflet-left .leaflet-control-scale{margin-left:5px}.leaflet-bottom .leaflet-control-scale{margin-bottom:5px}.leaflet-control-scale-line{border:2px solid #777;border-top:none;line-height:1.1;padding:2px 5px 1px;white-space:nowrap;-moz-box-sizing:border-box;box-sizing:border-box;background:rgba(255,255,255,.8);text-shadow:1px 1px #fff}.leaflet-control-scale-line:not(:first-child){border-top:2px solid #777;border-bottom:none;margin-top:-2px}.leaflet-control-scale-line:not(:first-child):not(:last-child){border-bottom:2px solid #777}.leaflet-touch .leaflet-bar,.leaflet-touch .leaflet-control-attribution,.leaflet-touch .leaflet-control-layers{box-shadow:none}.leaflet-touch .leaflet-bar,.leaflet-touch .leaflet-control-layers{border:2px solid rgba(0,0,0,.2);background-clip:padding-box}.leaflet-popup{position:absolute;text-align:center;margin-bottom:20px}.leaflet-popup-content-wrapper{padding:1px;text-align:left;border-radius:12px}.leaflet-popup-content{margin:13px 24px 13px 20px;line-height:1.3;font-size:13px;font-size:1.08333em;min-height:1px}.leaflet-popup-content p{margin:17px 0;margin:1.3em 0}.leaflet-popup-tip-container{width:40px;height:20px;position:absolute;left:50%;margin-top:-1px;margin-left:-20px;overflow:hidden;pointer-events:none}.leaflet-popup-tip{width:17px;height:17px;padding:1px;margin:-10px auto 0;pointer-events:auto;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#fff;color:#333;box-shadow:0 3px 14px rgba(0,0,0,.4)}.leaflet-container a.leaflet-popup-close-button{position:absolute;top:0;right:0;border:none;text-align:center;width:24px;height:24px;font:16px/24px Tahoma,Verdana,sans-serif;color:#757575;text-decoration:none;background:0 0}.leaflet-container a.leaflet-popup-close-button:focus,.leaflet-container a.leaflet-popup-close-button:hover{color:#585858}.leaflet-popup-scrolled{overflow:auto}.leaflet-oldie .leaflet-popup-content-wrapper{-ms-zoom:1}.leaflet-oldie .leaflet-popup-tip{width:24px;margin:0 auto}.leaflet-oldie .leaflet-control-layers,.leaflet-oldie .leaflet-control-zoom,.leaflet-oldie .leaflet-popup-content-wrapper,.leaflet-oldie .leaflet-popup-tip{border:1px solid #999}.leaflet-div-icon{background:#fff;border:1px solid #666}.leaflet-tooltip{position:absolute;padding:6px;background-color:#fff;border:1px solid #fff;border-radius:3px;color:#222;white-space:nowrap;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none;box-shadow:0 1px 3px rgba(0,0,0,.4)}.leaflet-tooltip.leaflet-interactive{cursor:pointer;pointer-events:auto}.leaflet-tooltip-bottom:before,.leaflet-tooltip-left:before,.leaflet-tooltip-right:before,.leaflet-tooltip-top:before{position:absolute;pointer-events:none;border:6px solid transparent;background:0 0;content:""}.leaflet-tooltip-bottom{margin-top:6px}.leaflet-tooltip-top{margin-top:-6px}.leaflet-tooltip-bottom:before,.leaflet-tooltip-top:before{left:50%;margin-left:-6px}.leaflet-tooltip-top:before{bottom:0;margin-bottom:-12px;border-top-color:#fff}.leaflet-tooltip-bottom:before{top:0;margin-top:-12px;margin-left:-6px;border-bottom-color:#fff}.leaflet-tooltip-left{margin-left:-6px}.leaflet-tooltip-right{margin-left:6px}.leaflet-tooltip-left:before,.leaflet-tooltip-right:before{top:50%;margin-top:-6px}.leaflet-tooltip-left:before{right:0;margin-right:-12px;border-left-color:#fff}.leaflet-tooltip-right:before{left:0;margin-left:-12px;border-right-color:#fff}@media print{.leaflet-control{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+</style>
+<style>
+/* Layout: one-screen board. Filters and venue list on the left, a self-drawn chalk-line map on the right; stacks map-over-list on phones. */
+:root {
+  --ground: #eef1ec;
+  --panel: #fbfcfa;
+  --ink: #15201a;
+  --muted: #5a675e;
+  --line: #d3dad1;
+  --soft: #e3e8e1;
+  --map: #e6eae3;
+  --road: #ffffff;
+  --district: #c9d1c6;
+  --boundary: #7b887e;
+  --coast: #7aa3c2;
+  --chalk: #ffffff;
+  --football: #1d7a44;
+  --padel: #2a5fc4;
+  --tennis: #b4452a;
+  --basketball: #c27f0e;
+  --focus: #1d7a44;
+
+  --f-display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "IBM Plex Sans", "IBM Plex Sans Arabic", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --r: 10px;
+  --gap: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #0e1310; --panel: #141a16; --ink: #e3eae4; --muted: #8e9c92; --line: #2a332d; --soft: #1d2520;
+    --map: #171e19; --road: #2c3630; --district: #232b26; --boundary: #6a786e; --coast: #4b7697; --chalk: #f4f7f4;
+    --football: #38a964; --padel: #5a8bea; --tennis: #df6c4a; --basketball: #e2a33a; --focus: #38a964;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #0e1310; --panel: #141a16; --ink: #e3eae4; --muted: #8e9c92; --line: #2a332d; --soft: #1d2520;
+  --map: #171e19; --road: #2c3630; --district: #232b26; --boundary: #6a786e; --coast: #4b7697; --chalk: #f4f7f4;
+  --football: #38a964; --padel: #5a8bea; --tennis: #df6c4a; --basketball: #e2a33a; --focus: #38a964;
+  color-scheme: dark;
+}
+
+html, body { height: 100%; }
+body {
+  background: var(--ground);
+  color: var(--ink);
+  font: 14px/1.45 var(--f-body);
+}
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.app {
+  height: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(300px, 380px) minmax(0, 1fr);
+  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-areas: "bar bar" "panel map";
+  gap: var(--gap);
+  padding-block: 12px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* ---------- top bar */
+.bar {
+  grid-area: bar;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 20px;
+}
+.brand { display: flex; align-items: center; gap: 10px; margin-right: auto; }
+.brand svg { flex: none; }
+.brand-name {
+  font-family: var(--f-display);
+  font-stretch: 62%;
+  font-weight: 800;
+  font-size: 26px;
+  letter-spacing: .02em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.brand-sub { color: var(--muted); font-size: 12.5px; letter-spacing: .06em; text-transform: uppercase; }
+.summary { font-family: var(--f-data); font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.summary b { color: var(--ink); font-weight: 500; }
+.city-pick { display: flex; align-items: center; gap: 8px; }
+.city-pick label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+select {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 7px 30px 7px 10px;
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 15px) 52%, calc(100% - 10px) 52%;
+  background-size: 5px 5px;
+  background-repeat: no-repeat;
+  font-weight: 500;
+}
+
+/* ---------- side panel */
+.panel {
+  grid-area: panel;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+.filters { display: grid; gap: 14px; padding: 14px; border-bottom: 1px solid var(--line); }
+.group { display: grid; gap: 7px; }
+.group-label { font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 5px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 13px;
+  line-height: 1.2;
+}
+.chip:hover { border-color: var(--muted); }
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--panel); }
+.chip .n { font-family: var(--f-data); font-size: 11.5px; opacity: .7; font-variant-numeric: tabular-nums; }
+.sport-chip { padding: 6px 12px 6px 8px; font-weight: 500; }
+.sport-chip .sw { width: 12px; height: 12px; border-radius: 3px; background: var(--c); box-shadow: inset 0 0 0 1.5px color-mix(in srgb, var(--chalk) 60%, transparent); }
+.sport-chip[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: var(--chalk); }
+.sport-chip[aria-pressed="true"] .sw { background: var(--chalk); }
+.search {
+  width: 100%; box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--ground);
+}
+.toggles { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.toggles label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font-size: 13px; }
+.toggles input { accent-color: var(--ink); width: 15px; height: 15px; margin: 0; }
+.more-filters summary { cursor: pointer; font-size: 13px; font-weight: 500; color: var(--muted); list-style: none; }
+.more-filters summary::-webkit-details-marker { display: none; }
+.more-filters summary::before { content: "+ "; font-family: var(--f-data); }
+.more-filters[open] summary::before { content: "− "; }
+.more-filters > .inner { display: grid; gap: 14px; padding-top: 12px; }
+
+.scroll { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
+.list { list-style: none; margin: 0; padding: 6px; display: grid; gap: 2px; }
+.venue {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 10px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
+}
+.venue:hover { background: var(--soft); }
+.dots { display: grid; grid-auto-flow: column; gap: 3px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.v-name { display: block; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.v-name.unnamed { color: var(--muted); font-weight: 400; font-style: italic; }
+.v-meta { display: block; font-size: 12px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.v-count { font-family: var(--f-data); font-size: 15px; text-align: right; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.v-count small { display: block; font-size: 10px; color: var(--muted); letter-spacing: .04em; }
+.list-foot { padding: 10px 14px 16px; display: grid; gap: 10px; color: var(--muted); font-size: 12px; }
+.btn {
+  justify-self: start;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 13px;
+}
+.btn:hover { border-color: var(--muted); }
+.empty { padding: 28px 16px; display: grid; gap: 10px; justify-items: start; }
+.empty h3 { margin: 0; font-family: var(--f-display); font-stretch: 75%; font-size: 20px; text-wrap: balance; }
+.empty p { margin: 0; color: var(--muted); }
+
+/* ---------- venue detail */
+.detail { padding: 14px; display: grid; gap: 16px; }
+.back { display: inline-flex; align-items: center; gap: 6px; border: 0; background: none; padding: 0; cursor: pointer; color: var(--muted); font-weight: 500; justify-self: start; }
+.back:hover { color: var(--ink); }
+.d-head { display: grid; gap: 6px; }
+.d-name { margin: 0; font-family: var(--f-display); font-stretch: 70%; font-weight: 750; font-size: 30px; line-height: 1.02; text-wrap: balance; overflow-wrap: anywhere; }
+.d-name.unnamed { color: var(--muted); }
+.d-ar { font-family: "IBM Plex Sans Arabic", var(--f-body); font-size: 17px; color: var(--muted); }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-size: 12px; padding: 2px 8px; border-radius: 6px; background: var(--soft); }
+.tag.sport { background: var(--c); color: var(--chalk); font-weight: 500; }
+.facts { margin: 0; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 6px 14px; font-size: 13.5px; }
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.copy { margin-left: 8px; padding: 1px 7px; font-size: 11.5px; border: 1px solid var(--line); border-radius: 6px; background: none; cursor: pointer; }
+.links { display: flex; flex-wrap: wrap; gap: 8px; }
+.links a { color: var(--ink); font-weight: 500; font-size: 13px; text-decoration: none; padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px; }
+.links a:hover { border-color: var(--muted); }
+.section-title { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.section-title span:last-child { font-weight: 400; letter-spacing: 0; text-transform: none; }
+.pitches { display: grid; gap: 8px; }
+.pitch { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 12px; align-items: center; padding: 10px; border: 1px solid var(--line); border-radius: 8px; }
+.pitch svg { display: block; max-width: 100%; height: auto; }
+.pitch .turf { stroke: none; }
+.pitch .chalk { stroke: var(--chalk); fill: none; stroke-width: 1.2; }
+.nodiag { font-size: 12px; color: var(--muted); border: 1px dashed var(--line); border-radius: 6px; padding: 14px 8px; text-align: center; }
+.p-fmt { font-family: var(--f-display); font-stretch: 75%; font-weight: 750; font-size: 20px; line-height: 1; }
+.p-dim { font-family: var(--f-data); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.p-attr { font-size: 12.5px; color: var(--muted); }
+.photos { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(240px, 88%); gap: 8px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 4px; }
+.photo { margin: 0; scroll-snap-align: start; display: grid; gap: 4px; min-width: 0; }
+.photo img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; background: var(--soft); display: block; }
+.photo figcaption { font-size: 11px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.photo figcaption a { color: inherit; }
+.photo-link { font-size: 12.5px; color: var(--muted); }
+.photo-link a { color: var(--ink); }
+.cam { display: inline-block; width: 12px; height: 9px; margin-left: 6px; vertical-align: 0; border: 1.5px solid var(--muted); border-radius: 2px; position: relative; box-sizing: border-box; }
+.cam::after { content: ""; position: absolute; left: 50%; top: 50%; width: 3px; height: 3px; margin: -1.5px 0 0 -1.5px; border-radius: 50%; background: var(--muted); }
+.provenance { font-size: 12px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 12px; }
+.provenance a { color: inherit; }
+
+/* ---------- map */
+.map-wrap { grid-area: map; position: relative; min-width: 0; min-height: 0; border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; }
+#map { position: absolute; inset: 0; }
+.leaflet-container { background: var(--map); font: 12px/1.4 var(--f-body); }
+.leaflet-bar { border: 1px solid var(--line) !important; box-shadow: none !important; }
+.leaflet-bar a, .leaflet-bar a:hover { background: var(--panel); color: var(--ink); border-bottom-color: var(--line); }
+.leaflet-control-attribution { background: color-mix(in srgb, var(--panel) 85%, transparent) !important; color: var(--muted); }
+.leaflet-control-attribution a { color: var(--ink); }
+.place-label span {
+  display: block;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  font-size: 11px;
+  color: var(--muted);
+  text-shadow: 0 0 3px var(--map), 0 0 3px var(--map), 0 0 2px var(--map);
+  pointer-events: none;
+}
+.place-label.place-suburb span { font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--boundary); }
+#map.z-mid .place-neighbourhood, #map.z-mid .place-quarter { display: none; }
+.map-hint {
+  position: absolute; left: 10px; bottom: 10px; z-index: 500;
+  padding: 6px 10px; border-radius: 8px;
+  background: color-mix(in srgb, var(--panel) 92%, transparent);
+  border: 1px solid var(--line);
+  font-size: 12px; color: var(--muted);
+  pointer-events: none;
+}
+
+/* ---------- phone */
+@media (max-width: 760px) {
+  html, body { height: auto; }
+  .app {
+    height: auto;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto auto auto;
+    grid-template-areas: "bar" "map" "panel";
+  }
+  .map-wrap { height: 56vh; min-height: 320px; }
+  .panel { overflow: visible; }
+  .scroll { overflow: visible; }
+  .brand-name { font-size: 22px; }
+  .pitch { grid-template-columns: 110px minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}
+</style>
+
+<div class="app">
+  <header class="bar">
+    <div class="brand">
+      <svg width="34" height="24" viewBox="0 0 34 24" aria-hidden="true">
+        <rect x="1" y="1" width="32" height="22" rx="2" fill="var(--football)"></rect>
+        <g fill="none" stroke="var(--chalk)" stroke-width="1.4"><rect x="3" y="3" width="28" height="18"></rect><line x1="17" y1="3" x2="17" y2="21"></line><circle cx="17" cy="12" r="4"></circle></g>
+      </svg>
+      <div>
+        <div class="brand-name">Kick-it</div>
+        <div class="brand-sub">Pitch map · Morocco</div>
+      </div>
+    </div>
+    <div class="summary" id="summary" aria-live="polite"></div>
+    <div class="city-pick">
+      <label for="city">City</label>
+      <select id="city"></select>
+    </div>
+  </header>
+
+  <aside class="panel" aria-label="Filters and venues">
+    <div class="filters" id="filters">
+      <div class="group">
+        <div class="group-label" id="sports-label">Sports</div>
+        <div class="chips" id="sports" role="group" aria-labelledby="sports-label"></div>
+      </div>
+      <input class="search" id="q" type="search" placeholder="Search a venue, district or neighbourhood" aria-label="Search venues">
+      <div class="group" id="format-group">
+        <div class="group-label" id="format-label">Football format</div>
+        <div class="chips" id="formats" role="group" aria-labelledby="format-label"></div>
+      </div>
+      <details class="more-filters" id="more">
+        <summary>More filters</summary>
+        <div class="inner">
+          <div class="group">
+            <div class="group-label" id="surface-label">Surface</div>
+            <div class="chips" id="surfaces" role="group" aria-labelledby="surface-label"></div>
+          </div>
+          <div class="group">
+            <div class="group-label" id="type-label">Venue type</div>
+            <div class="chips" id="types" role="group" aria-labelledby="type-label"></div>
+          </div>
+          <div class="toggles">
+            <label><input type="checkbox" id="lit"> Floodlit pitches</label>
+            <label><input type="checkbox" id="contact"> Has phone or website</label>
+            <label><input type="checkbox" id="photo"> Has photo</label>
+          </div>
+        </div>
+      </details>
+    </div>
+    <div class="scroll" id="scroll">
+      <ul class="list" id="list"></ul>
+      <div class="list-foot" id="list-foot"></div>
+      <div class="detail" id="detail" hidden></div>
+    </div>
+  </aside>
+
+  <div class="map-wrap">
+    <div id="map" role="application" aria-label="Map of venues"></div>
+    <div class="map-hint" id="hint">Zoom in to see pitch outlines</div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+(function () {
+  "use strict";
+  const DATA = /*__KICKIT_DATA__*/null;
+
+  const SPORTS = [
+    { key: "football", label: "Football" },
+    { key: "padel", label: "Padel" },
+    { key: "tennis", label: "Tennis" },
+    { key: "basketball", label: "Basketball" },
+  ];
+  const FORMATS = ["5v5", "7v7", "9v9", "11v11"];
+  const SURFACES = { artificial_turf: "Artificial turf", grass: "Grass", hard: "Hard court", clay: "Clay", sand: "Sand", dirt: "Dirt", none: "Not recorded" };
+  const TYPES = { sports_centre: "Sports centre", stadium: "Stadium", pitch: "Standalone pitch", park: "Park", school: "School", university: "University" };
+  const OUTLINE_ZOOM = 15;
+  const LABEL_ZOOM = 13;
+  const PAGE = 150;
+
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const norm = (s) => (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const unflat = (a) => { const out = []; for (let i = 0; i < a.length; i += 2) out.push([a[i], a[i + 1]]); return out; };
+  const sportOrder = (k) => SPORTS.findIndex((s) => s.key === k);
+
+  // ---------- prepare data
+  const cities = DATA.cities;
+  const cityBySlug = Object.fromEntries(cities.map((c) => [c.slug, c]));
+  for (const c of cities) {
+    c._boundary = c.boundary.map(unflat);
+    c._coast = c.coast.map(unflat);
+    c._districts = c.districts.flat().map(unflat);
+    c._roads = { 1: [], 2: [], 3: [] };
+    for (const [cls, line] of c.roads) c._roads[cls].push(unflat(line));
+  }
+  const venueById = new Map();
+  let lastUpdate = "";
+  for (const v of DATA.venues) {
+    venueById.set(v.id, v);
+    v._q = norm([v.name, v.name_ar, v.district, v.neighbourhood, v.address].join(" "));
+    v.sports.sort((a, b) => sportOrder(a) - sportOrder(b));
+    for (const p of v.pitches) if (p.outline) p._ring = unflat(p.outline);
+    if (v.updated > lastUpdate) lastUpdate = v.updated;
+  }
+  const presentSports = SPORTS.filter((s) => DATA.venues.some((v) => v.sports.includes(s.key)));
+
+  const state = {
+    city: "casablanca",
+    sports: new Set(presentSports.map((s) => s.key)),
+    formats: new Set(),
+    surfaces: new Set(),
+    types: new Set(),
+    lit: false,
+    contact: false,
+    photo: false,
+    q: "",
+    selected: null,
+    limit: PAGE,
+  };
+  try {
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (h === "all" || cityBySlug[h]) state.city = h;
+  } catch (e) { /* ignore */ }
+  if (!cityBySlug[state.city] && state.city !== "all") state.city = cities[0].slug;
+
+  // ---------- theme tokens (canvas layers need real colour values)
+  const T = {};
+  function readTokens() {
+    const cs = getComputedStyle(document.documentElement);
+    for (const k of ["map", "road", "district", "boundary", "coast", "panel", "ink", "chalk", ...SPORTS.map((s) => s.key)]) {
+      T[k] = cs.getPropertyValue("--" + k).trim();
+    }
+  }
+  readTokens();
+
+  // ---------- filtering
+  function pitchOk(p) {
+    if (!state.sports.has(p.sport)) return false;
+    if (state.formats.size && !(p.sport === "football" && state.formats.has(p.format))) return false;
+    if (state.surfaces.size && !state.surfaces.has(p.surface || "none")) return false;
+    if (state.lit && p.lit !== 1) return false;
+    return true;
+  }
+  const pitchFiltersOn = () => state.formats.size || state.surfaces.size || state.lit;
+
+  // Returns the matching pitches, or null when the venue is filtered out.
+  function venueMatch(v, ignoreCity) {
+    if (!ignoreCity && state.city !== "all" && v.city !== state.city) return null;
+    if (state.types.size && !state.types.has(v.type)) return null;
+    if (state.contact && !(v.phone || v.website)) return null;
+    if (state.photo && !v.photos.some((ph) => ph.src)) return null;
+    if (state.q && !v._q.includes(state.q)) return null;
+    const ps = v.pitches.filter(pitchOk);
+    if (ps.length) return ps;
+    // Venues tagged with a sport but with no pitch drawn inside them.
+    const unmapped = v.sports.some((s) => state.sports.has(s) && !v.pitches.some((p) => p.sport === s));
+    if (unmapped && !pitchFiltersOn()) return [];
+    return null;
+  }
+
+  function venueSports(v, ps) {
+    const set = new Set(ps.map((p) => p.sport));
+    for (const s of v.sports) if (state.sports.has(s)) set.add(s);
+    return [...set].sort((a, b) => sportOrder(a) - sportOrder(b));
+  }
+
+  function displayName(v, ps) {
+    if (v.name) return { text: v.name, unnamed: false };
+    const sport = SPORTS.find((s) => s.key === (venueSports(v, ps || v.pitches)[0] || v.sports[0]));
+    const what = v.type === "pitch" || !TYPES[v.type] ? (sport ? sport.label.toLowerCase() + " pitch" : "pitch") : TYPES[v.type].toLowerCase();
+    return { text: "Unnamed " + what, unnamed: true };
+  }
+  const place = (v) => [v.neighbourhood, v.district && v.district.replace(/^Arrondissement (d'|de |du |des )/i, "")].filter(Boolean)[0] || cityBySlug[v.city]?.name || "";
+
+  // ---------- map
+  const renderer = L.canvas({ padding: 0.4, tolerance: 6 });
+  const map = L.map("map", { renderer, preferCanvas: true, minZoom: 5, maxZoom: 19, zoomSnap: 0.5, zoomDelta: 0.5, wheelPxPerZoomLevel: 90 });
+  map.attributionControl.setPrefix(false);
+  map.attributionControl.addAttribution('Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>');
+
+  const baseLayer = L.layerGroup().addTo(map);
+  const labelLayer = L.layerGroup();
+  const outlineLayer = L.layerGroup().addTo(map);
+  const venueLayer = L.layerGroup().addTo(map);
+  const selLayer = L.layerGroup().addTo(map);
+
+  function drawBasemap() {
+    baseLayer.clearLayers();
+    labelLayer.clearLayers();
+    const o = { interactive: false, renderer };
+    for (const c of cities) {
+      if (c._districts.length) L.polyline(c._districts, { ...o, color: T.district, weight: 1 }).addTo(baseLayer);
+      const widths = { 3: 1.5, 2: 2.6, 1: 4 };
+      for (const cls of [3, 2, 1]) if (c._roads[cls].length) L.polyline(c._roads[cls], { ...o, color: T.road, weight: widths[cls], lineCap: "round", lineJoin: "round" }).addTo(baseLayer);
+      if (c._coast.length) L.polyline(c._coast, { ...o, color: T.coast, weight: 2.2 }).addTo(baseLayer);
+      if (c._boundary.length) L.polyline(c._boundary, { ...o, color: T.boundary, weight: 1.4, dashArray: "6 5" }).addTo(baseLayer);
+      for (const [name, lat, lon, kind] of c.labels) {
+        L.marker([lat, lon], { interactive: false, keyboard: false, icon: L.divIcon({ className: "place-label place-" + kind, html: "<span>" + esc(name) + "</span>", iconSize: null }) }).addTo(labelLayer);
+      }
+    }
+  }
+
+  function sportColor(k) { return T[k] || T.ink; }
+
+  let current = [];
+  function drawVenues() {
+    venueLayer.clearLayers();
+    for (const [v, ps] of current) {
+      const sp = venueSports(v, ps);
+      const r = 4.5 + Math.min(6, Math.sqrt(Math.max(ps.length, 1)) * 1.8);
+      L.circleMarker([v.lat, v.lon], { renderer, radius: r, color: T.panel, weight: 1.5, fillColor: sportColor(sp[0]), fillOpacity: 0.95 })
+        .bindTooltip(esc(displayName(v, ps).text), { direction: "top", offset: [0, -r] })
+        .on("click", () => select(v.id, "map"))
+        .addTo(venueLayer);
+    }
+  }
+
+  function drawOutlines() {
+    outlineLayer.clearLayers();
+    if (map.getZoom() < OUTLINE_ZOOM) return;
+    for (const [v, ps] of current) {
+      for (const p of ps) {
+        if (!p._ring) continue;
+        const c = sportColor(p.sport);
+        L.polygon(p._ring, { renderer, color: c, weight: 1.2, fillColor: c, fillOpacity: 0.45 })
+          .on("click", () => select(v.id, "map"))
+          .addTo(outlineLayer);
+      }
+    }
+  }
+
+  function drawSelection() {
+    selLayer.clearLayers();
+    const v = state.selected && venueById.get(state.selected);
+    if (!v) return;
+    L.circleMarker([v.lat, v.lon], { renderer, radius: 15, color: T.ink, weight: 2.5, fill: false, interactive: false }).addTo(selLayer);
+  }
+
+  function updateZoomLayers() {
+    const z = map.getZoom();
+    const el = document.getElementById("map");
+    if (z >= LABEL_ZOOM) { if (!map.hasLayer(labelLayer)) labelLayer.addTo(map); } else if (map.hasLayer(labelLayer)) map.removeLayer(labelLayer);
+    el.classList.toggle("z-mid", z < 14.5);
+    $("#hint").hidden = z >= OUTLINE_ZOOM || state.city === "all" && z < 9;
+  }
+  let lastOutlineState = null;
+  map.on("zoomend", () => {
+    updateZoomLayers();
+    const on = map.getZoom() >= OUTLINE_ZOOM;
+    if (on !== lastOutlineState) { lastOutlineState = on; drawOutlines(); }
+  });
+
+  function fitCity() {
+    if (state.city === "all") {
+      const b = L.latLngBounds([]);
+      for (const c of cities) b.extend([[c.bbox[0], c.bbox[1]], [c.bbox[2], c.bbox[3]]]);
+      map.fitBounds(b, { padding: [20, 20] });
+    } else {
+      const c = cityBySlug[state.city];
+      map.fitBounds([[c.bbox[0], c.bbox[1]], [c.bbox[2], c.bbox[3]]], { padding: [10, 10] });
+    }
+  }
+
+  // ---------- controls
+  function chip(label, pressed, attrs = "", extra = "") {
+    return `<button type="button" class="chip" aria-pressed="${pressed}" ${attrs}>${extra}${esc(label)}</button>`;
+  }
+
+  function renderControls() {
+    const citySel = $("#city");
+    if (!citySel.options.length) {
+      citySel.innerHTML = cities.map((c) => `<option value="${c.slug}">${esc(c.name)}</option>`).join("") + `<option value="all">All 10 cities</option>`;
+    }
+    citySel.value = state.city;
+
+    // Sport counts: venues in the chosen city that host the sport.
+    const counts = {};
+    for (const v of DATA.venues) {
+      if (state.city !== "all" && v.city !== state.city) continue;
+      for (const s of v.sports) counts[s] = (counts[s] || 0) + 1;
+    }
+    $("#sports").innerHTML = presentSports.map((s) =>
+      `<button type="button" class="chip sport-chip" style="--c: var(--${s.key})" data-sport="${s.key}" aria-pressed="${state.sports.has(s.key)}"><span class="sw"></span>${s.label}<span class="n">${counts[s.key] || 0}</span></button>`
+    ).join("");
+
+    $("#format-group").hidden = !state.sports.has("football");
+    $("#formats").innerHTML = FORMATS.map((f) => chip(f, state.formats.has(f), `data-format="${f}"`)).join("");
+    const surfacesPresent = new Set(DATA.venues.flatMap((v) => v.pitches.map((p) => p.surface || "none")));
+    $("#surfaces").innerHTML = Object.entries(SURFACES).filter(([k]) => surfacesPresent.has(k))
+      .map(([k, label]) => chip(label, state.surfaces.has(k), `data-surface="${k}"`)).join("");
+    const typesPresent = new Set(DATA.venues.map((v) => v.type));
+    $("#types").innerHTML = Object.entries(TYPES).filter(([k]) => typesPresent.has(k))
+      .map(([k, label]) => chip(label, state.types.has(k), `data-type="${k}"`)).join("");
+    $("#lit").checked = state.lit;
+    $("#contact").checked = state.contact;
+    $("#photo").checked = state.photo;
+    const active = state.surfaces.size + state.types.size + (state.lit ? 1 : 0) + (state.contact ? 1 : 0) + (state.photo ? 1 : 0);
+    $("#more summary").textContent = active ? `More filters (${active} on)` : "More filters";
+  }
+
+  function toggle(set, key) { set.has(key) ? set.delete(key) : set.add(key); }
+
+  $("#filters").addEventListener("click", (e) => {
+    const b = e.target.closest("button.chip");
+    if (!b) return;
+    if (b.dataset.sport) toggle(state.sports, b.dataset.sport);
+    else if (b.dataset.format) toggle(state.formats, b.dataset.format);
+    else if (b.dataset.surface) toggle(state.surfaces, b.dataset.surface);
+    else if (b.dataset.type) toggle(state.types, b.dataset.type);
+    state.limit = PAGE;
+    update();
+  });
+  $("#lit").addEventListener("change", (e) => { state.lit = e.target.checked; update(); });
+  $("#contact").addEventListener("change", (e) => { state.contact = e.target.checked; update(); });
+  $("#photo").addEventListener("change", (e) => { state.photo = e.target.checked; update(); });
+  let qTimer;
+  $("#q").addEventListener("input", (e) => {
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => { state.q = norm(e.target.value.trim()); state.limit = PAGE; update(); }, 120);
+  });
+  $("#city").addEventListener("change", (e) => {
+    state.city = e.target.value;
+    state.selected = null;
+    state.limit = PAGE;
+    try { history.replaceState(null, "", "#" + state.city); } catch (err) { /* ignore */ }
+    update();
+    fitCity();
+  });
+
+  // ---------- list
+  function renderSummary() {
+    const pitches = current.reduce((n, [, ps]) => n + ps.length, 0);
+    const where = state.city === "all" ? "10 cities" : cityBySlug[state.city].name;
+    $("#summary").innerHTML = `<b>${current.length.toLocaleString("en")}</b> venues · <b>${pitches.toLocaleString("en")}</b> pitches · ${esc(where)}`;
+  }
+
+  function renderList() {
+    const list = $("#list");
+    const foot = $("#list-foot");
+    const showDetail = !!state.selected;
+    list.hidden = showDetail;
+    foot.hidden = showDetail;
+    $("#detail").hidden = !showDetail;
+    if (showDetail) return;
+
+    if (!current.length) {
+      list.innerHTML = "";
+      const noSport = state.sports.size === 0;
+      foot.innerHTML = `<div class="empty"><h3>${noSport ? "Pick a sport" : "No venues match"}</h3><p>${noSport ? "Turn on at least one sport above to see its venues." : "Try removing a filter or searching another city."}</p>${noSport ? "" : '<button type="button" class="btn" id="clear">Clear filters</button>'}</div>`;
+      return;
+    }
+    const rows = [...current].sort(([a, pa], [b, pb]) =>
+      (!a.name - !b.name) || (pb.length - pa.length) || (a.name || "").localeCompare(b.name || ""));
+    list.innerHTML = rows.slice(0, state.limit).map(([v, ps]) => {
+      const n = displayName(v, ps);
+      const sp = venueSports(v, ps);
+      const meta = [place(v), TYPES[v.type]].filter(Boolean);
+      if (state.city === "all") meta.unshift(cityBySlug[v.city]?.name);
+      return `<li><button type="button" class="venue" data-id="${esc(v.id)}">
+        <span class="dots">${sp.map((s) => `<span class="dot" style="--c: var(--${s})" title="${s}"></span>`).join("")}</span>
+        <span><span class="v-name${n.unnamed ? " unnamed" : ""}" dir="auto">${esc(n.text)}${v.photos.some((ph) => ph.src) ? '<span class="cam" title="Has photos" aria-label="Has photos"></span>' : ""}</span><span class="v-meta">${esc(meta.join(" · "))}</span></span>
+        <span class="v-count">${ps.length || "–"}<small>${ps.length === 1 ? "pitch" : "pitches"}</small></span>
+      </button></li>`;
+    }).join("");
+    const remaining = rows.length - state.limit;
+    foot.innerHTML = (remaining > 0 ? `<button type="button" class="btn" id="more-venues">Show ${Math.min(PAGE, remaining)} more of ${remaining}</button>` : "") +
+      `<span>Formats are estimated from each pitch's mapped length. Data from OpenStreetMap, collected ${esc(fmtDate(lastUpdate))}.</span>`;
+  }
+
+  $("#list").addEventListener("click", (e) => {
+    const b = e.target.closest("button.venue");
+    if (b) select(b.dataset.id, "list");
+  });
+  $("#list-foot").addEventListener("click", (e) => {
+    if (e.target.id === "more-venues") { state.limit += PAGE; renderList(); }
+    if (e.target.id === "clear") {
+      state.formats.clear(); state.surfaces.clear(); state.types.clear(); state.lit = false; state.contact = false; state.photo = false; state.q = "";
+      state.sports = new Set(presentSports.map((s) => s.key));
+      $("#q").value = "";
+      update();
+    }
+  });
+
+  function fmtDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return isNaN(d) ? iso : d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+  }
+
+  // ---------- detail
+  function pitchSvg(p, scale) {
+    const len = p.length, wid = p.width;
+    if (!len || !wid) return `<div class="nodiag">Size not mapped</div>`;
+    const w = len * scale, h = wid * scale, pad = 3;
+    let marks = `<rect x="0" y="0" width="${w}" height="${h}"></rect>`;
+    if (p.sport === "football") {
+      marks += `<line x1="${w / 2}" y1="0" x2="${w / 2}" y2="${h}"></line>`;
+      const r = (len >= 90 ? 9.15 : len >= 50 ? 6 : 3) * scale;
+      marks += `<circle cx="${w / 2}" cy="${h / 2}" r="${r}"></circle>`;
+      if (len >= 72) {
+        const bd = 16.5 * scale, bw = Math.min(40.3, wid * 0.62) * scale;
+        marks += `<rect x="0" y="${(h - bw) / 2}" width="${bd}" height="${bw}"></rect><rect x="${w - bd}" y="${(h - bw) / 2}" width="${bd}" height="${bw}"></rect>`;
+      }
+    } else if (p.sport === "basketball") {
+      marks += `<line x1="${w / 2}" y1="0" x2="${w / 2}" y2="${h}"></line><circle cx="${w / 2}" cy="${h / 2}" r="${1.8 * scale}"></circle>`;
+    } else {
+      marks += `<line x1="${w / 2}" y1="${-pad}" x2="${w / 2}" y2="${h + pad}" stroke-width="2"></line>`;
+    }
+    const vw = w + 2 * pad, vh = h + 2 * pad;
+    return `<svg viewBox="${-pad} ${-pad} ${vw} ${vh}" width="${vw}" height="${vh}" role="img" aria-label="${esc(len)} by ${esc(wid)} metre ${esc(p.sport)} pitch">
+      <rect class="turf" x="${-pad}" y="${-pad}" width="${vw}" height="${vh}" rx="3" fill="${sportColor(p.sport)}"></rect>
+      <g class="chalk">${marks}</g></svg>`;
+  }
+
+  function photosHtml(v) {
+    const shown = v.photos.filter((ph) => ph.src);
+    const links = v.photos.filter((ph) => !ph.src && ph.page);
+    let out = "";
+    if (shown.length) {
+      out += `<div class="photos" role="list" aria-label="Photos">${shown.map((ph) => {
+        const credit = [ph.author, ph.license].filter(Boolean).join(" · ");
+        return `<figure class="photo" role="listitem"><img src="${ph.src}" alt="Photo of ${esc(v.name || "the venue")}" loading="lazy">
+          <figcaption><a href="${esc(ph.page)}" target="_blank" rel="noopener">${esc(credit || "Wikimedia Commons")}</a></figcaption></figure>`;
+      }).join("")}</div>`;
+    }
+    if (links.length) {
+      out += `<div class="photo-link">${links.map((ph) => `<a href="${esc(ph.page)}" target="_blank" rel="noopener">Photo on an external site</a>`).join(" · ")} (licence unknown, not stored)</div>`;
+    }
+    return out;
+  }
+
+  function renderDetail() {
+    const v = venueById.get(state.selected);
+    const box = $("#detail");
+    if (!v) { box.innerHTML = ""; return; }
+    const match = venueMatch(v, true);
+    const ps = match && match.length ? match : v.pitches;
+    const n = displayName(v, ps);
+    const sp = v.sports;
+    const maxLen = Math.max(1, ...ps.map((p) => p.length || 0));
+    const scale = Math.min(3, 138 / maxLen);
+    const facts = [
+      ["City", cityBySlug[v.city]?.name],
+      ["District", v.district],
+      ["Neighbourhood", v.neighbourhood],
+      ["Address", v.address],
+      ["Phone", v.phone && `<span class="sel">${esc(v.phone)}</span><button type="button" class="copy" data-copy="${esc(v.phone)}">Copy</button>`, true],
+      ["Website", v.website && `<a href="${esc(v.website)}" target="_blank" rel="noopener">${esc(v.website.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</a>`, true],
+      ["Hours", v.hours],
+      ["Access", [v.access && ({ private: "Private", customers: "Customers only", yes: "Public", permissive: "Open to the public" }[v.access] || v.access), v.fee === "yes" ? "Paid" : v.fee === "no" ? "Free" : null].filter(Boolean).join(" · ")],
+      ["Rating", v.rating && `${v.rating.toFixed(1)} / 5 (${v.rating_count || 0} reviews)`],
+    ].filter(([, val]) => val);
+    const osmId = v.id.startsWith("osm:") ? v.id.slice(4) : null;
+    const pitchHtml = ps.map((p) => {
+      const attrs = [p.surface ? SURFACES[p.surface] || p.surface : null, p.lit === 1 ? "Floodlit" : p.lit === 0 ? "No lights" : null, p.indoor === 1 ? "Indoor" : null, p.access === "private" ? "Private" : null].filter(Boolean);
+      const title = p.sport === "football" ? (p.format || "Football") : SPORTS.find((s) => s.key === p.sport)?.label;
+      return `<div class="pitch">${pitchSvg(p, scale)}<div>
+        <div class="p-fmt">${esc(title)}</div>
+        <div class="p-dim">${p.length ? `${Math.round(p.length)} × ${Math.round(p.width)} m` : "—"}</div>
+        <div class="p-attr">${esc(attrs.join(" · ") || "Surface not recorded")}</div>
+      </div></div>`;
+    }).join("");
+    box.innerHTML = `
+      <button type="button" class="back" id="back">← All venues</button>
+      <div class="d-head">
+        <h2 class="d-name${n.unnamed ? " unnamed" : ""}" dir="auto">${esc(n.text)}</h2>
+        ${v.name_ar && v.name_ar !== v.name ? `<div class="d-ar" dir="rtl" lang="ar">${esc(v.name_ar)}</div>` : ""}
+        <div class="tags">${sp.map((s) => `<span class="tag sport" style="--c: var(--${s})">${esc(SPORTS.find((x) => x.key === s)?.label || s)}</span>`).join("")}${TYPES[v.type] ? `<span class="tag">${TYPES[v.type]}</span>` : ""}</div>
+      </div>
+      ${photosHtml(v)}
+      <dl class="facts">${facts.map(([k, val, raw]) => `<dt>${k}</dt><dd>${raw ? val : esc(val)}</dd>`).join("")}</dl>
+      <div class="links">
+        <a href="https://www.google.com/maps/search/?api=1&query=${v.lat},${v.lon}" target="_blank" rel="noopener">Directions in Google Maps</a>
+        <a href="https://www.google.com/maps/@?api=1&map_action=map&center=${v.lat},${v.lon}&zoom=18&basemap=satellite" target="_blank" rel="noopener">Satellite view</a>
+        ${osmId ? `<a href="https://www.openstreetmap.org/${esc(osmId)}" target="_blank" rel="noopener">View on OpenStreetMap</a>` : ""}
+        ${v.gmaps ? `<a href="${esc(v.gmaps)}" target="_blank" rel="noopener">Google listing</a>` : ""}
+      </div>
+      <div class="pitches">
+        <div class="section-title"><span>${ps.length} ${ps.length === 1 ? "pitch" : "pitches"}</span><span>${ps.some((p) => p.length) ? "Drawn to scale" : ""}</span></div>
+        ${pitchHtml || `<div class="nodiag">This venue is tagged for ${esc(sp.join(", "))}, but no pitch is drawn on the map yet.</div>`}
+      </div>
+      <div class="provenance">Source: ${esc(v.sources.map((s) => (s === "osm" ? "OpenStreetMap" : s === "google" ? "Google Places" : s)).join(" + "))} · updated ${esc(fmtDate(v.updated))}</div>`;
+  }
+
+  $("#detail").addEventListener("click", (e) => {
+    if (e.target.id === "back") { state.selected = null; drawSelection(); renderList(); return; }
+    const c = e.target.closest(".copy");
+    if (c) {
+      const text = c.dataset.copy;
+      const done = () => { c.textContent = "Copied"; setTimeout(() => (c.textContent = "Copy"), 1500); };
+      const fallback = () => {
+        const r = document.createRange(); r.selectNodeContents(c.previousElementSibling);
+        const s = getSelection(); s.removeAllRanges(); s.addRange(r); c.textContent = "Selected";
+      };
+      try { navigator.clipboard.writeText(text).then(done, fallback); } catch (err) { fallback(); }
+    }
+  });
+
+  const narrow = matchMedia("(max-width: 760px)");
+  function select(id, from) {
+    state.selected = id;
+    const v = venueById.get(id);
+    renderList();
+    renderDetail();
+    drawSelection();
+    $("#scroll").scrollTop = 0;
+    if (from === "list") map.flyTo([v.lat, v.lon], Math.max(map.getZoom(), 17), { duration: matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : 0.8 });
+    if (narrow.matches) {
+      if (from === "list") document.querySelector(".map-wrap").scrollIntoView({ block: "start" });
+      else $("#detail").scrollIntoView({ block: "start" });
+    }
+  }
+
+  // ---------- update cycle
+  function update() {
+    current = [];
+    for (const v of DATA.venues) {
+      const m = venueMatch(v, false);
+      if (m) current.push([v, m]);
+    }
+    if (state.selected && !current.some(([v]) => v.id === state.selected)) state.selected = null;
+    renderControls();
+    renderSummary();
+    renderList();
+    if (state.selected) renderDetail();
+    drawVenues();
+    drawOutlines();
+    drawSelection();
+    updateZoomLayers();
+  }
+
+  function retheme() {
+    readTokens();
+    drawBasemap();
+    drawVenues();
+    drawOutlines();
+    drawSelection();
+    if (state.selected) renderDetail();
+  }
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", retheme);
+  new MutationObserver(retheme).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+  drawBasemap();
+  fitCity();
+  lastOutlineState = map.getZoom() >= OUTLINE_ZOOM;
+  update();
+})();
+</script>

@@ -1,0 +1,689 @@
+﻿id,venue_id,sport,name,lat,lon,surface,lit,indoor,length_m,width_m,format,access,fee,source_url,last_seen_at,city,venue_name
+osm:node/14095290973,osm:node/14095290973,football,ملعب القرب تدارت,30.4372266,-9.5846892,,,,,,,,,https://www.openstreetmap.org/node/14095290973,2026-10-19T11:52:23+00:00,agadir,ملعب القرب تدارت
+osm:way/1525903072,osm:node/14095290973,football,,30.4372174,-9.5846903,,,,46.9,25.7,5v5,,,https://www.openstreetmap.org/way/1525903072,2026-10-19T11:52:23+00:00,agadir,ملعب القرب تدارت
+osm:way/1525903070,osm:relation/9967841,football,,30.431101,-9.593161,,,,43.8,23.4,5v5,,,https://www.openstreetmap.org/way/1525903070,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1199140211,osm:way/1199140211,football,Assalam Football Field,30.3993252,-9.5500132,grass,,,100.4,58.2,11v11,yes,,https://www.openstreetmap.org/way/1199140211,2026-10-19T11:52:23+00:00,agadir,Assalam Football Field
+osm:way/1207963791,osm:way/1207963791,football,laazib officiel,30.4116081,-9.5745897,,,,103.7,54.0,11v11,yes,,https://www.openstreetmap.org/way/1207963791,2026-10-19T11:52:23+00:00,agadir,laazib officiel
+osm:way/1444062299,osm:way/1444062299,football,,30.4269126,-9.5303607,,,,111.8,75.7,11v11,,,https://www.openstreetmap.org/way/1444062299,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1523081447,osm:way/1523081447,football,,30.4135071,-9.562845,,,,45.1,29.3,5v5,,,https://www.openstreetmap.org/way/1523081447,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333198,osm:way/1525333198,football,,30.4199797,-9.5461855,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333198,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333199,osm:way/1525333198,football,,30.4200592,-9.546468,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333199,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333208,osm:way/1525333208,football,,30.4211671,-9.5468623,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333208,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333209,osm:way/1525333208,football,,30.4212464,-9.5471448,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333209,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333210,osm:way/1525333208,football,,30.4211571,-9.5477369,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333210,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333211,osm:way/1525333208,football,,30.4212364,-9.5480194,,,,46.4,26.3,5v5,,,https://www.openstreetmap.org/way/1525333211,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333220,osm:way/1525333220,football,,30.4219192,-9.5431088,,,,46.8,27.6,5v5,,,https://www.openstreetmap.org/way/1525333220,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333221,osm:way/1525333220,football,,30.4222893,-9.5437002,,,,46.8,27.6,5v5,,,https://www.openstreetmap.org/way/1525333221,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333222,osm:way/1525333220,football,,30.4221028,-9.5434062,,,,46.8,27.6,5v5,,,https://www.openstreetmap.org/way/1525333222,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525333223,osm:way/1525333220,football,,30.4224912,-9.5439758,,,,46.8,27.6,5v5,,,https://www.openstreetmap.org/way/1525333223,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525335578,osm:way/1525335578,football,,30.4048004,-9.538352,,,,44.3,24.5,5v5,,,https://www.openstreetmap.org/way/1525335578,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525335579,osm:way/1525335578,football,,30.4048153,-9.5377928,,,,44.3,24.5,5v5,,,https://www.openstreetmap.org/way/1525335579,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525335581,osm:way/1525335581,football,,30.4049428,-9.5344845,,,,30.4,18.4,5v5,,,https://www.openstreetmap.org/way/1525335581,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525335582,osm:way/1525335581,football,,30.4049381,-9.5346953,,,,30.4,18.4,5v5,,,https://www.openstreetmap.org/way/1525335582,2026-10-19T11:52:23+00:00,agadir,
+osm:way/710487251,osm:way/1526165663,football,,30.3981452,-9.516,,,,40.8,21.0,5v5,,,https://www.openstreetmap.org/way/710487251,2026-10-19T11:52:23+00:00,agadir,
+osm:way/153369473,osm:way/153369473,football,,30.424415,-9.5957032,,,,40.6,20.9,5v5,,,https://www.openstreetmap.org/way/153369473,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1537532189,osm:way/1537532189,football,,30.4341014,-9.5771481,,,,43.8,24.2,5v5,,,https://www.openstreetmap.org/way/1537532189,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1537532191,osm:way/1537532191,football,,30.4337411,-9.5764279,,,,44.0,22.8,5v5,,,https://www.openstreetmap.org/way/1537532191,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1539590157,osm:way/1539590157,football,,30.4304725,-9.5855684,,,,32.4,19.8,5v5,,,https://www.openstreetmap.org/way/1539590157,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1540068631,osm:way/1540068631,football,,30.3914261,-9.5597683,,,,41.3,20.2,5v5,,,https://www.openstreetmap.org/way/1540068631,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1525900706,osm:way/173937670,football,,30.4209938,-9.586336,,,,45.6,24.9,5v5,,,https://www.openstreetmap.org/way/1525900706,2026-10-19T11:52:23+00:00,agadir,Jardin Talborjt
+osm:way/1525900709,osm:way/173937670,football,,30.4205724,-9.5876294,,,,45.1,25.0,5v5,,,https://www.openstreetmap.org/way/1525900709,2026-10-19T11:52:23+00:00,agadir,Jardin Talborjt
+osm:way/1525900710,osm:way/173937670,football,,30.4204605,-9.5879202,,,,45.1,25.0,5v5,,,https://www.openstreetmap.org/way/1525900710,2026-10-19T11:52:23+00:00,agadir,Jardin Talborjt
+osm:way/708222812,osm:way/180596291,football,,30.4230862,-9.579956,,,,109.0,69.2,11v11,,,https://www.openstreetmap.org/way/708222812,2026-10-19T11:52:23+00:00,agadir,
+osm:way/180596293,osm:way/180596293,football,,30.422914,-9.582072,,,,104.1,68.2,11v11,,,https://www.openstreetmap.org/way/180596293,2026-10-19T11:52:23+00:00,agadir,
+osm:way/172536469,osm:way/180607606,football,,30.4149887,-9.5956984,,,,113.8,67.3,11v11,,,https://www.openstreetmap.org/way/172536469,2026-10-19T11:52:23+00:00,agadir,Stade Al Inbiâate
+osm:way/180607782,osm:way/180607782,football,,30.3885926,-9.5930543,,,,39.6,19.1,5v5,,,https://www.openstreetmap.org/way/180607782,2026-10-19T11:52:23+00:00,agadir,
+osm:way/249208619,osm:way/249208619,football,,30.4575308,-9.6623917,,,,105.2,66.4,11v11,,,https://www.openstreetmap.org/way/249208619,2026-10-19T11:52:23+00:00,agadir,
+osm:way/362665322,osm:way/362665325,football,,30.3935695,-9.5710159,hard,,,29.1,18.7,5v5,,,https://www.openstreetmap.org/way/362665322,2026-10-19T11:52:23+00:00,agadir,Collège Abdel Ali Benchekroun
+osm:way/362665323,osm:way/362665325,football,,30.3931757,-9.5709106,hard,,,42.1,19.2,5v5,,,https://www.openstreetmap.org/way/362665323,2026-10-19T11:52:23+00:00,agadir,Collège Abdel Ali Benchekroun
+osm:way/362665310,osm:way/362665542,football,,30.3885487,-9.572552,,,,34.2,15.8,5v5,,,https://www.openstreetmap.org/way/362665310,2026-10-19T11:52:23+00:00,agadir,Ecole Primaire Al-Matar
+osm:way/362665888,osm:way/362665888,football,,30.3959846,-9.5663536,hard,,,105.6,66.5,11v11,,,https://www.openstreetmap.org/way/362665888,2026-10-19T11:52:23+00:00,agadir,
+osm:way/378078448,osm:way/378078264,football,,30.4067295,-9.5784918,,,,139.6,47.0,,,,https://www.openstreetmap.org/way/378078448,2026-10-19T11:52:23+00:00,agadir,Ecole National des Sciences Appliquées
+osm:way/378079510,osm:way/378078283,football,,30.4059955,-9.5778533,,,,40.8,20.3,5v5,,,https://www.openstreetmap.org/way/378079510,2026-10-19T11:52:23+00:00,agadir,Annexe cité universitaire
+osm:way/709365335,osm:way/378176051,football,,30.4048244,-9.5711755,,,,39.7,20.0,5v5,,,https://www.openstreetmap.org/way/709365335,2026-10-19T11:52:23+00:00,agadir,"OFPPT Hotelerie et Restauration, Agadir"
+osm:way/1524474780,osm:way/381147938,football,,30.4080731,-9.5408752,,,,95.7,52.6,11v11,,,https://www.openstreetmap.org/way/1524474780,2026-10-19T11:52:23+00:00,agadir,Cité universitaire
+osm:way/1425846013,osm:way/381730952,football,,30.4033576,-9.5294142,grass,,,98.2,57.2,11v11,customers,,https://www.openstreetmap.org/way/1425846013,2026-10-19T11:52:23+00:00,agadir,Universiapolis - Université Internationale d'Agadir
+osm:way/708222883,osm:way/381822135,football,,30.4283721,-9.584821,,,,53.3,31.0,7v7,,,https://www.openstreetmap.org/way/708222883,2026-10-19T11:52:23+00:00,agadir,Collège MOHAMMED VI
+osm:way/710563915,osm:way/381868309,football,,30.4170155,-9.5880771,,,,35.9,22.2,5v5,,,https://www.openstreetmap.org/way/710563915,2026-10-19T11:52:23+00:00,agadir,Ecole FATIMA AL FIHRYA
+osm:way/710479710,osm:way/382305709,football,,30.431751,-9.5958096,,,,50.3,26.9,7v7,,,https://www.openstreetmap.org/way/710479710,2026-10-19T11:52:23+00:00,agadir,Lycée YOUSSEF BNOU TACHFIN
+osm:way/1523081443,osm:way/382309817,football,,30.4178981,-9.5685832,,,,59.8,45.0,7v7,,,https://www.openstreetmap.org/way/1523081443,2026-10-19T11:52:23+00:00,agadir,Lycée Abd Al-krime Al-khettabi
+osm:way/1523081440,osm:way/382309818,football,,30.4181803,-9.5693872,,,,34.1,21.1,5v5,,,https://www.openstreetmap.org/way/1523081440,2026-10-19T11:52:23+00:00,agadir,Ecole Ouad El-Makhazin
+osm:way/1523081441,osm:way/382309818,football,,30.4182745,-9.5695784,,,,34.0,21.1,5v5,,,https://www.openstreetmap.org/way/1523081441,2026-10-19T11:52:23+00:00,agadir,Ecole Ouad El-Makhazin
+osm:way/1523081442,osm:way/382309818,football,,30.4179911,-9.56914,,,,52.5,26.7,7v7,,,https://www.openstreetmap.org/way/1523081442,2026-10-19T11:52:23+00:00,agadir,Ecole Ouad El-Makhazin
+osm:way/382908472,osm:way/382908472,football,,30.3900071,-9.4962817,,,,109.4,77.8,11v11,,,https://www.openstreetmap.org/way/382908472,2026-10-19T11:52:23+00:00,agadir,
+osm:way/710762642,osm:way/382973803,football,,30.4116367,-9.552663,,,,38.6,19.0,5v5,,,https://www.openstreetmap.org/way/710762642,2026-10-19T11:52:23+00:00,agadir,Ecole AL MOUJAHIDINE
+osm:way/381727492,osm:way/385412507,football,,30.4310843,-9.5396551,,,,112.5,72.9,11v11,,,https://www.openstreetmap.org/way/381727492,2026-10-19T11:52:23+00:00,agadir,Stade Annexe
+osm:way/393241591,osm:way/393241591,football,,30.4091448,-9.5465884,sand,,,39.5,27.7,5v5,,,https://www.openstreetmap.org/way/393241591,2026-10-19T11:52:23+00:00,agadir,
+osm:way/393243470,osm:way/393243470,football,,30.413748,-9.5702797,,,,54.6,30.5,7v7,,,https://www.openstreetmap.org/way/393243470,2026-10-19T11:52:23+00:00,agadir,
+osm:way/393479985,osm:way/393479985,football,,30.406214,-9.5535207,sand,,,63.5,42.5,7v7,,,https://www.openstreetmap.org/way/393479985,2026-10-19T11:52:23+00:00,agadir,
+osm:way/414813180,osm:way/414813180,football,,30.4271894,-9.5326306,,,,113.5,74.1,11v11,,,https://www.openstreetmap.org/way/414813180,2026-10-19T11:52:23+00:00,agadir,
+osm:way/414813181,osm:way/414813181,football,,30.4270479,-9.5314765,,,,111.8,75.7,11v11,,,https://www.openstreetmap.org/way/414813181,2026-10-19T11:52:23+00:00,agadir,
+osm:way/429317096,osm:way/429317096,football,,30.4213436,-9.6088052,,,,29.6,16.1,5v5,,,https://www.openstreetmap.org/way/429317096,2026-10-19T11:52:23+00:00,agadir,
+osm:way/718183881,osm:way/575982013,football,,30.4229151,-9.5980736,,,,39.6,20.7,5v5,,,https://www.openstreetmap.org/way/718183881,2026-10-19T11:52:23+00:00,agadir,Institut français d’Agadir
+osm:way/1525894370,osm:way/625301412,football,,30.4046635,-9.5419526,,,,30.8,18.8,5v5,,,https://www.openstreetmap.org/way/1525894370,2026-10-19T11:52:23+00:00,agadir,Parc les facultees
+osm:way/1525894371,osm:way/625301412,football,,30.4046524,-9.5422886,,,,30.8,18.8,5v5,,,https://www.openstreetmap.org/way/1525894371,2026-10-19T11:52:23+00:00,agadir,Parc les facultees
+osm:way/1525894372,osm:way/625301412,football,,30.4046414,-9.5426236,,,,30.8,18.8,5v5,,,https://www.openstreetmap.org/way/1525894372,2026-10-19T11:52:23+00:00,agadir,Parc les facultees
+osm:way/1525894373,osm:way/625301412,football,,30.4046304,-9.5429601,,,,30.8,18.8,5v5,,,https://www.openstreetmap.org/way/1525894373,2026-10-19T11:52:23+00:00,agadir,Parc les facultees
+osm:way/625301413,osm:way/625301413,football,Saint Ikoujan,30.3835919,-9.5715341,dirt,0,,69.6,41.8,7v7,,,https://www.openstreetmap.org/way/625301413,2026-10-19T11:52:23+00:00,agadir,Saint Ikoujan
+osm:way/712520601,osm:way/625301415,football,,30.3856447,-9.5753125,,,,90.5,62.3,11v11,,,https://www.openstreetmap.org/way/712520601,2026-10-19T11:52:23+00:00,agadir,Parc Ben Sargao
+osm:way/713768455,osm:way/661866222,football,,30.4311047,-9.5433521,,,,41.3,20.7,5v5,,,https://www.openstreetmap.org/way/713768455,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/713768456,osm:way/661866222,football,,30.4304292,-9.5431012,,,,25.7,16.7,5v5,,,https://www.openstreetmap.org/way/713768456,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/713768457,osm:way/661866222,football,,30.4304072,-9.5432809,,,,25.7,16.7,5v5,,,https://www.openstreetmap.org/way/713768457,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/713768460,osm:way/661866222,football,,30.4303583,-9.5436889,,,,52.2,27.9,7v7,,,https://www.openstreetmap.org/way/713768460,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/713768461,osm:way/661866222,football,,30.4307789,-9.5433046,,,,25.7,16.6,5v5,,,https://www.openstreetmap.org/way/713768461,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/713768462,osm:way/661866222,football,,30.430731,-9.5435639,,,,43.7,24.7,5v5,,,https://www.openstreetmap.org/way/713768462,2026-10-19T11:52:23+00:00,agadir,Kouraland Football Acadamy
+osm:way/663442455,osm:way/663442455,football,,30.4131539,-9.5566503,,,,51.9,37.8,7v7,,,https://www.openstreetmap.org/way/663442455,2026-10-19T11:52:23+00:00,agadir,
+osm:way/711817555,osm:way/675106022,football,,30.3901173,-9.5563515,,,,49.8,24.4,5v5,,,https://www.openstreetmap.org/way/711817555,2026-10-19T11:52:23+00:00,agadir,college ibn tofail
+osm:way/713115979,osm:way/677372805,football,,30.3951283,-9.5495009,,,,41.1,22.3,5v5,,,https://www.openstreetmap.org/way/713115979,2026-10-19T11:52:23+00:00,agadir,Collège AL INBIAAT
+osm:way/708222808,osm:way/708222808,football,,30.4231784,-9.5785972,,,,46.1,24.5,5v5,,,https://www.openstreetmap.org/way/708222808,2026-10-19T11:52:23+00:00,agadir,
+osm:way/173937528,osm:way/708222813,football,bilal stadium,30.4249424,-9.5806171,,,,107.3,70.3,11v11,yes,,https://www.openstreetmap.org/way/173937528,2026-10-19T11:52:23+00:00,agadir,Stade Najah Ihchach
+osm:way/708311381,osm:way/708311381,football,,30.4333661,-9.5678318,,,,116.4,77.1,11v11,,,https://www.openstreetmap.org/way/708311381,2026-10-19T11:52:23+00:00,agadir,
+osm:way/710525390,osm:way/710525390,football,,30.4145525,-9.5831502,dirt,,,37.8,19.8,5v5,,,https://www.openstreetmap.org/way/710525390,2026-10-19T11:52:23+00:00,agadir,
+osm:way/1453634901,osm:way/710678801,football,,30.4128039,-9.5943896,,,,44.7,24.4,5v5,,,https://www.openstreetmap.org/way/1453634901,2026-10-19T11:52:23+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634902,osm:way/710678801,football,,30.4126163,-9.5942125,,,,44.8,24.0,5v5,,,https://www.openstreetmap.org/way/1453634902,2026-10-19T11:52:23+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634906,osm:way/710678801,football,,30.4121208,-9.5937486,,,,43.6,24.4,5v5,,,https://www.openstreetmap.org/way/1453634906,2026-10-19T11:52:23+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634907,osm:way/710678801,football,,30.4119351,-9.5935748,,,,44.3,24.5,5v5,,,https://www.openstreetmap.org/way/1453634907,2026-10-19T11:52:23+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/710678811,osm:way/710678811,football,,30.4048177,-9.5972543,,,,24.3,12.7,5v5,,,https://www.openstreetmap.org/way/710678811,2026-10-19T11:52:23+00:00,agadir,
+osm:way/711812259,osm:way/711812259,football,,30.4196899,-9.5581745,,,,67.0,35.4,7v7,,,https://www.openstreetmap.org/way/711812259,2026-10-19T11:52:23+00:00,agadir,
+osm:way/711812982,osm:way/711812982,football,,30.4202353,-9.5642196,hard,,,38.9,20.7,5v5,,,https://www.openstreetmap.org/way/711812982,2026-10-19T11:52:23+00:00,agadir,
+osm:way/711813265,osm:way/711813265,football,,30.4289744,-9.5672107,dirt,,,58.6,31.4,7v7,,,https://www.openstreetmap.org/way/711813265,2026-10-19T11:52:23+00:00,agadir,
+osm:way/711817553,osm:way/711817553,football,,30.3900669,-9.5544678,dirt,,,75.9,42.0,9v9,,,https://www.openstreetmap.org/way/711817553,2026-10-19T11:52:23+00:00,agadir,
+osm:way/712279372,osm:way/712279372,football,,30.412795,-9.5997913,,,,27.6,15.0,5v5,,,https://www.openstreetmap.org/way/712279372,2026-10-19T11:52:23+00:00,agadir,
+osm:way/712520600,osm:way/712520600,football,,30.3849529,-9.574072,,,,53.5,25.3,7v7,,,https://www.openstreetmap.org/way/712520600,2026-10-19T11:52:23+00:00,agadir,
+osm:way/712520628,osm:way/712520628,football,,30.3699529,-9.5733395,,,,44.1,21.0,5v5,,,https://www.openstreetmap.org/way/712520628,2026-10-19T11:52:23+00:00,agadir,
+osm:way/713762962,osm:way/713762962,football,,30.4394826,-9.552335,,,,40.6,22.4,5v5,,,https://www.openstreetmap.org/way/713762962,2026-10-19T11:52:23+00:00,agadir,
+osm:way/293123326,osm:way/91645660,football,,30.42749,-9.5402795,,,,112.2,72.0,11v11,,,https://www.openstreetmap.org/way/293123326,2026-10-19T11:52:23+00:00,agadir,Stade Adrar
+osm:way/1349884575,osm:relation/18529043,football,,33.5315972,-7.6224065,,,,37.1,16.3,5v5,private,,https://www.openstreetmap.org/way/1349884575,2026-10-19T11:52:23+00:00,casablanca,Hautes Études de Management
+osm:way/1075039169,osm:way/1075039169,football,,33.5964492,-7.5480809,,,,115.9,72.2,11v11,,,https://www.openstreetmap.org/way/1075039169,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1105247420,osm:way/1105247420,football,الفضاء الرياضي بورنازيل,33.572362,-7.5617807,grass,1,,113.7,83.3,11v11,,,https://www.openstreetmap.org/way/1105247420,2026-10-19T11:52:23+00:00,casablanca,الفضاء الرياضي بورنازيل
+osm:way/1106827595,osm:way/1106827595,football,,33.5720594,-7.5470288,grass,1,,97.6,46.2,11v11,,,https://www.openstreetmap.org/way/1106827595,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1111841248,osm:way/1111841248,football,,33.5917918,-7.5152496,grass,,,109.6,71.8,11v11,,,https://www.openstreetmap.org/way/1111841248,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1146976519,osm:way/1146976519,football,,33.5996527,-7.6286159,,,,44.3,20.2,5v5,,,https://www.openstreetmap.org/way/1146976519,2026-10-19T11:52:23+00:00,casablanca,ملعب القبة
+osm:way/1146976520,osm:way/1146976519,football,,33.5994728,-7.6286439,,,,42.9,19.7,5v5,,,https://www.openstreetmap.org/way/1146976520,2026-10-19T11:52:23+00:00,casablanca,ملعب القبة
+osm:way/1146976521,osm:way/1146976519,football,ملعب القبة,33.5992758,-7.6286622,,,,43.2,19.8,5v5,,,https://www.openstreetmap.org/way/1146976521,2026-10-19T11:52:23+00:00,casablanca,ملعب القبة
+osm:way/1146976522,osm:way/1146976519,football,,33.5990814,-7.6286639,,,,40.6,20.6,5v5,,,https://www.openstreetmap.org/way/1146976522,2026-10-19T11:52:23+00:00,casablanca,ملعب القبة
+osm:way/1146976523,osm:way/1146976519,football,,33.598883,-7.6287283,,,,41.6,21.1,5v5,,,https://www.openstreetmap.org/way/1146976523,2026-10-19T11:52:23+00:00,casablanca,ملعب القبة
+osm:way/1158820623,osm:way/1158820623,football,,33.6034075,-7.5537536,,,,109.1,76.8,11v11,,,https://www.openstreetmap.org/way/1158820623,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1217642456,osm:way/1217642456,football,,33.5855618,-7.5689225,grass,0,,45.1,23.0,5v5,private,,https://www.openstreetmap.org/way/1217642456,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/892825968,osm:way/129539668,football,,33.5946851,-7.678971,,,,27.7,17.6,5v5,,,https://www.openstreetmap.org/way/892825968,2026-10-19T11:52:23+00:00,casablanca,Sunbeach club
+osm:way/892825970,osm:way/129539668,football,,33.5945062,-7.6790005,,,,18.9,11.7,5v5,,,https://www.openstreetmap.org/way/892825970,2026-10-19T11:52:23+00:00,casablanca,Sunbeach club
+osm:way/1308282827,osm:way/1308282704,football,,33.5688446,-7.6639843,,,,33.6,17.3,5v5,,,https://www.openstreetmap.org/way/1308282827,2026-10-19T11:52:23+00:00,casablanca,French International School of Casablanca
+osm:way/1308317540,osm:way/1308317550,football,,33.582813,-7.6492967,,,,36.1,22.2,5v5,,,https://www.openstreetmap.org/way/1308317540,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317541,osm:way/1308317550,football,,33.5827364,-7.649543,,,,36.1,21.8,5v5,,,https://www.openstreetmap.org/way/1308317541,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317542,osm:way/1308317550,football,,33.5826415,-7.6497182,,,,31.7,16.8,5v5,,,https://www.openstreetmap.org/way/1308317542,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317543,osm:way/1308317550,football,,33.5825569,-7.6498713,,,,28.2,17.2,5v5,,,https://www.openstreetmap.org/way/1308317543,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317545,osm:way/1308317550,football,,33.5816556,-7.6485891,,,,31.0,17.6,5v5,,,https://www.openstreetmap.org/way/1308317545,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317546,osm:way/1308317550,football,,33.5815772,-7.6487826,,,,31.0,18.7,5v5,,,https://www.openstreetmap.org/way/1308317546,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317547,osm:way/1308317550,football,,33.5814992,-7.6489674,,,,31.0,19.6,5v5,,,https://www.openstreetmap.org/way/1308317547,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317548,osm:way/1308317550,football,,33.5814209,-7.6491529,,,,31.3,19.1,5v5,,,https://www.openstreetmap.org/way/1308317548,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1308317549,osm:way/1308317550,football,,33.5813446,-7.6493339,,,,31.0,18.9,5v5,,,https://www.openstreetmap.org/way/1308317549,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/631650950,osm:way/1308317550,football,,33.5820168,-7.6491895,,1,,111.4,73.8,11v11,private,,https://www.openstreetmap.org/way/631650950,2026-10-19T11:52:23+00:00,casablanca,Ginga Foot
+osm:way/1502898485,osm:way/1308527857,football,,33.5892332,-7.641754,,,,40.7,21.9,5v5,,,https://www.openstreetmap.org/way/1502898485,2026-10-19T11:52:23+00:00,casablanca,Institut Espagnol Juan Ramón Jiménez
+osm:way/1342696635,osm:way/1308906124,football,,33.594258,-7.6573967,,,,40.2,20.4,5v5,,,https://www.openstreetmap.org/way/1342696635,2026-10-19T11:52:23+00:00,casablanca,Lycée Omar Bnou Al Khattab
+osm:way/1373529250,osm:way/1311056824,football,,33.5901329,-7.6425157,,,,40.8,18.1,5v5,,,https://www.openstreetmap.org/way/1373529250,2026-10-19T11:52:23+00:00,casablanca,Lycée Moulay Idriss 1er
+osm:way/1308849874,osm:way/1311068101,football,,33.5982347,-7.6568236,,,,40.3,20.1,5v5,,,https://www.openstreetmap.org/way/1308849874,2026-10-19T11:52:23+00:00,casablanca,Collège Anfa
+osm:way/1314075028,osm:way/1314075028,football,,33.606,-7.6516024,,,,61.1,41.7,7v7,,,https://www.openstreetmap.org/way/1314075028,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1314075060,osm:way/1314075060,football,,33.60487,-7.6536219,,,,42.2,21.9,5v5,,,https://www.openstreetmap.org/way/1314075060,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1314437262,osm:way/1314437262,football,,33.6076036,-7.6502996,,,,36.8,19.9,5v5,yes,,https://www.openstreetmap.org/way/1314437262,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/420358041,osm:way/1319126218,football,,33.5739623,-7.5710986,,,,107.7,66.3,11v11,,,https://www.openstreetmap.org/way/420358041,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1320329796,osm:way/1320329796,football,,33.6072384,-7.5179501,,,,35.2,19.0,5v5,,,https://www.openstreetmap.org/way/1320329796,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1324653989,osm:way/1324653989,football,,33.570392,-7.6807716,,,,40.2,21.3,5v5,,,https://www.openstreetmap.org/way/1324653989,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1326094809,osm:way/1326094808,football,,33.558581,-7.6506498,artificial_turf,,,113.6,74.2,11v11,,,https://www.openstreetmap.org/way/1326094809,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094810,osm:way/1326094808,football,,33.5583275,-7.6493125,artificial_turf,,,35.9,20.9,5v5,,,https://www.openstreetmap.org/way/1326094810,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094811,osm:way/1326094808,football,,33.5581626,-7.6494258,artificial_turf,,,36.3,21.3,5v5,,,https://www.openstreetmap.org/way/1326094811,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094812,osm:way/1326094808,football,,33.5579986,-7.6495389,artificial_turf,,,36.8,20.8,5v5,,,https://www.openstreetmap.org/way/1326094812,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094813,osm:way/1326094808,football,,33.5583764,-7.64966,,,,30.8,20.5,5v5,,,https://www.openstreetmap.org/way/1326094813,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094814,osm:way/1326094808,football,,33.5584459,-7.6498645,,,,30.8,20.2,5v5,,,https://www.openstreetmap.org/way/1326094814,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094815,osm:way/1326094808,football,,33.5585667,-7.650042,,,,30.8,21.6,5v5,,,https://www.openstreetmap.org/way/1326094815,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094816,osm:way/1326094808,football,,33.5583411,-7.6501366,,,,32.3,21.2,5v5,,,https://www.openstreetmap.org/way/1326094816,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094817,osm:way/1326094808,football,,33.5582189,-7.6498466,,,,30.0,21.2,5v5,,,https://www.openstreetmap.org/way/1326094817,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094818,osm:way/1326094808,football,,33.5584886,-7.6503546,artificial_turf,,,29.0,16.1,5v5,,,https://www.openstreetmap.org/way/1326094818,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1326094819,osm:way/1326094808,football,,33.5587242,-7.6501923,artificial_turf,,,28.9,16.2,5v5,,,https://www.openstreetmap.org/way/1326094819,2026-10-19T11:52:23+00:00,casablanca,Étoile de la Jeunesse Sportive
+osm:way/1327092836,osm:way/1327092836,football,,33.5096161,-7.6543216,,,,27.4,17.9,5v5,,,https://www.openstreetmap.org/way/1327092836,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092837,osm:way/1327092836,football,,33.5096347,-7.6541311,,,,27.5,17.7,5v5,,,https://www.openstreetmap.org/way/1327092837,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092838,osm:way/1327092836,football,,33.5096531,-7.6539394,,,,27.5,18.4,5v5,,,https://www.openstreetmap.org/way/1327092838,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092839,osm:way/1327092836,football,,33.509883,-7.6543554,,,,27.4,17.9,5v5,,,https://www.openstreetmap.org/way/1327092839,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092840,osm:way/1327092836,football,,33.5099016,-7.654165,,,,27.5,17.6,5v5,,,https://www.openstreetmap.org/way/1327092840,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092841,osm:way/1327092836,football,,33.5099199,-7.6539732,,,,27.5,18.4,5v5,,,https://www.openstreetmap.org/way/1327092841,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092842,osm:way/1327092836,football,,33.5096852,-7.6535806,,,,43.7,27.4,5v5,,,https://www.openstreetmap.org/way/1327092842,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/230220017,osm:way/1327092836,football,,33.5091906,-7.6537811,,,,98.1,64.1,11v11,,,https://www.openstreetmap.org/way/230220017,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1327092846,osm:way/1327092846,football,,33.5187581,-7.6439497,,,,40.1,21.1,5v5,,,https://www.openstreetmap.org/way/1327092846,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/133107742,osm:way/133107742,football,stade Anatole,33.5932519,-7.5963592,,,,83.4,58.8,9v9,private,,https://www.openstreetmap.org/way/133107742,2026-10-19T11:52:23+00:00,casablanca,stade Anatole
+osm:way/1342707535,osm:way/1342707522,football,,33.577949,-7.6877162,,,,35.8,21.4,5v5,private,,https://www.openstreetmap.org/way/1342707535,2026-10-19T11:52:23+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1349625219,osm:way/1349625218,football,,33.5101478,-7.6830874,,,,33.1,20.4,5v5,private,,https://www.openstreetmap.org/way/1349625219,2026-10-19T11:52:23+00:00,casablanca,Lycée Français Guy de Maupassant
+osm:way/1349625221,osm:way/1349625221,football,,33.509266,-7.683212,,,,39.6,20.3,5v5,,,https://www.openstreetmap.org/way/1349625221,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1349625222,osm:way/1349625221,football,,33.5092539,-7.6827339,,,,39.5,20.0,5v5,,,https://www.openstreetmap.org/way/1349625222,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1349625223,osm:way/1349625221,football,,33.5092624,-7.682202,,,,39.7,20.2,5v5,,,https://www.openstreetmap.org/way/1349625223,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1349625224,osm:way/1349625221,football,,33.5092892,-7.6817228,,,,40.4,19.7,5v5,,,https://www.openstreetmap.org/way/1349625224,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/186193476,osm:way/1349843482,football,,33.5828656,-7.6468168,grass,,,105.3,65.4,11v11,,,https://www.openstreetmap.org/way/186193476,2026-10-19T11:52:23+00:00,casablanca,Stade Mohammed V
+osm:way/1381504618,osm:way/1349867151,football,,33.5951108,-7.6532534,,,,32.8,20.2,5v5,,,https://www.openstreetmap.org/way/1381504618,2026-10-19T11:52:23+00:00,casablanca,Bank of Africa Club
+osm:way/1381504619,osm:way/1349867151,football,,33.5952604,-7.653383,,,,32.8,20.8,5v5,,,https://www.openstreetmap.org/way/1381504619,2026-10-19T11:52:23+00:00,casablanca,Bank of Africa Club
+osm:way/1351198403,osm:way/1351198403,football,,33.6045954,-7.6551674,,,,37.7,25.1,5v5,private,,https://www.openstreetmap.org/way/1351198403,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1351686946,osm:way/1351686944,football,,33.5753045,-7.6484172,,,,34.9,22.3,5v5,,,https://www.openstreetmap.org/way/1351686946,2026-10-19T11:52:23+00:00,casablanca,Collège Ghandi
+osm:way/556495077,osm:way/1361144247,football,,33.5496603,-7.63785,,,,103.9,74.1,11v11,,,https://www.openstreetmap.org/way/556495077,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495078,osm:way/1361144247,football,,33.5490625,-7.6366495,,,,30.0,21.6,5v5,,,https://www.openstreetmap.org/way/556495078,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495084,osm:way/1361144247,football,,33.5493896,-7.6368336,,,,29.9,19.6,5v5,,,https://www.openstreetmap.org/way/556495084,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495086,osm:way/1361144247,football,,33.5492303,-7.6367438,,,,30.0,19.6,5v5,,,https://www.openstreetmap.org/way/556495086,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495088,osm:way/1361144247,football,,33.5497518,-7.6362064,,,,30.3,19.6,5v5,,,https://www.openstreetmap.org/way/556495088,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495091,osm:way/1361144247,football,,33.5496009,-7.6366002,,,,30.0,19.6,5v5,,,https://www.openstreetmap.org/way/556495091,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495094,osm:way/1361144247,football,,33.5497558,-7.6370397,,,,30.3,21.3,5v5,,,https://www.openstreetmap.org/way/556495094,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495097,osm:way/1361144247,football,,33.5499213,-7.637132,,,,30.3,19.4,5v5,,,https://www.openstreetmap.org/way/556495097,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495099,osm:way/1361144247,football,,33.5496764,-7.6364031,,,,30.1,20.6,5v5,,,https://www.openstreetmap.org/way/556495099,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495102,osm:way/1361144247,football,,33.5495509,-7.6369249,,,,29.9,20.1,5v5,,,https://www.openstreetmap.org/way/556495102,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/556495107,osm:way/1361144247,football,,33.5500843,-7.6372221,,,,30.2,20.6,5v5,,,https://www.openstreetmap.org/way/556495107,2026-10-19T11:52:23+00:00,casablanca,City Foot 5
+osm:way/1361552816,osm:way/1361552816,football,,33.582547,-7.5885881,,,,109.7,68.1,11v11,,,https://www.openstreetmap.org/way/1361552816,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1362742083,osm:way/1362742082,football,,33.559525,-7.6403621,,,,40.1,20.5,5v5,private,,https://www.openstreetmap.org/way/1362742083,2026-10-19T11:52:23+00:00,casablanca,Club Socio-Sportif Bank Al-Maghrib
+osm:way/1362744614,osm:way/1362744612,football,,33.5654968,-7.6428895,,,,35.9,15.8,5v5,private,,https://www.openstreetmap.org/way/1362744614,2026-10-19T11:52:23+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1315583502,osm:way/1364347759,football,,33.5977452,-7.6684752,,,,29.9,20.3,5v5,,,https://www.openstreetmap.org/way/1315583502,2026-10-19T11:52:23+00:00,casablanca,Plein Ciel Paradise
+osm:way/1315583503,osm:way/1364347759,football,,33.5976053,-7.66833,,,,29.9,20.9,5v5,,,https://www.openstreetmap.org/way/1315583503,2026-10-19T11:52:23+00:00,casablanca,Plein Ciel Paradise
+osm:way/1315583504,osm:way/1364347759,football,,33.5975506,-7.6687347,,,,28.8,20.5,5v5,,,https://www.openstreetmap.org/way/1315583504,2026-10-19T11:52:23+00:00,casablanca,Plein Ciel Paradise
+osm:way/1315583505,osm:way/1364347759,football,,33.5974126,-7.668586,,,,28.8,20.8,5v5,,,https://www.openstreetmap.org/way/1315583505,2026-10-19T11:52:23+00:00,casablanca,Plein Ciel Paradise
+osm:way/1315583506,osm:way/1364347759,football,,33.598061,-7.6678729,,,,40.3,22.6,5v5,,,https://www.openstreetmap.org/way/1315583506,2026-10-19T11:52:23+00:00,casablanca,Plein Ciel Paradise
+osm:way/1349461871,osm:way/1364770546,football,,33.536598,-7.6293853,,,,59.7,37.6,7v7,private,,https://www.openstreetmap.org/way/1349461871,2026-10-19T11:52:23+00:00,casablanca,Casablanca American School
+osm:way/1364772011,osm:way/1364770546,football,,33.5364985,-7.6299025,,,,23.7,12.1,5v5,,,https://www.openstreetmap.org/way/1364772011,2026-10-19T11:52:23+00:00,casablanca,Casablanca American School
+osm:way/1364772012,osm:way/1364770546,football,,33.536447,-7.6300375,,,,24.1,12.2,5v5,,,https://www.openstreetmap.org/way/1364772012,2026-10-19T11:52:23+00:00,casablanca,Casablanca American School
+osm:way/1365494535,osm:way/1365494535,football,,33.5899189,-7.5503306,,,,46.5,25.0,5v5,,,https://www.openstreetmap.org/way/1365494535,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1365494536,osm:way/1365494535,football,,33.5897038,-7.5500385,,,,43.4,22.6,5v5,,,https://www.openstreetmap.org/way/1365494536,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1350042997,osm:way/1372712391,football,,33.5740066,-7.6625906,,,,29.8,17.3,5v5,,,https://www.openstreetmap.org/way/1350042997,2026-10-19T11:52:23+00:00,casablanca,Club de la Banque Populaire
+osm:way/1373215719,osm:way/1373339316,football,,33.5912912,-7.6416954,,,,22.5,14.0,5v5,private,,https://www.openstreetmap.org/way/1373215719,2026-10-19T11:52:23+00:00,casablanca,École Maison d'Anfa
+osm:way/1308347215,osm:way/1373564255,football,,33.580482,-7.6442683,,,,36.3,19.6,5v5,,,https://www.openstreetmap.org/way/1308347215,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Mohammed V
+osm:way/1373564251,osm:way/1373564255,football,,33.5797828,-7.6453712,,,,26.3,17.2,5v5,,,https://www.openstreetmap.org/way/1373564251,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Mohammed V
+osm:way/1392319667,osm:way/1392319667,football,,33.5962464,-7.63207,,,,29.4,22.2,5v5,,,https://www.openstreetmap.org/way/1392319667,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1392322459,osm:way/1392319704,football,,33.59636,-7.6325711,,,,39.6,19.3,5v5,,,https://www.openstreetmap.org/way/1392322459,2026-10-19T11:52:23+00:00,casablanca,Lycée El Ouafa
+osm:way/1392983246,osm:way/1392983246,football,,33.5336657,-7.6064146,,,,41.0,22.0,5v5,,,https://www.openstreetmap.org/way/1392983246,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1392983247,osm:way/1392983246,football,,33.5337777,-7.6067313,,,,41.2,19.6,5v5,,,https://www.openstreetmap.org/way/1392983247,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1225873875,osm:way/140654846,football,,33.5411133,-7.6607069,,,,44.7,24.0,5v5,,,https://www.openstreetmap.org/way/1225873875,2026-10-19T11:52:23+00:00,casablanca,Université Hassan II Ain Chock
+osm:way/1225873882,osm:way/140654846,football,,33.5422885,-7.65755,,,,41.7,25.0,5v5,,,https://www.openstreetmap.org/way/1225873882,2026-10-19T11:52:23+00:00,casablanca,Université Hassan II Ain Chock
+osm:way/1225873883,osm:way/140654846,football,,33.5424067,-7.6573215,,,,33.6,18.1,5v5,,,https://www.openstreetmap.org/way/1225873883,2026-10-19T11:52:23+00:00,casablanca,Université Hassan II Ain Chock
+osm:way/1390260314,osm:way/140654873,football,terrain de foot,33.549636,-7.6516452,,,,51.2,30.0,7v7,private,,https://www.openstreetmap.org/way/1390260314,2026-10-19T11:52:23+00:00,casablanca,École Hassania des Travaux Publics
+osm:way/1419744927,osm:way/1419744926,football,,33.5458074,-7.6002835,hard,0,,60.4,39.9,7v7,yes,,https://www.openstreetmap.org/way/1419744927,2026-10-19T11:52:23+00:00,casablanca,M'salla
+osm:way/1419744928,osm:way/1419744926,football,,33.545404,-7.5998657,hard,,,41.2,20.2,5v5,yes,,https://www.openstreetmap.org/way/1419744928,2026-10-19T11:52:23+00:00,casablanca,M'salla
+osm:way/1308525665,osm:way/1422141867,football,,33.6080864,-7.6502021,,,,42.1,28.5,5v5,,,https://www.openstreetmap.org/way/1308525665,2026-10-19T11:52:23+00:00,casablanca,Atlantique Football Club
+osm:way/1308525666,osm:way/1422141867,football,,33.608445,-7.6503644,,,,43.2,29.0,5v5,,,https://www.openstreetmap.org/way/1308525666,2026-10-19T11:52:23+00:00,casablanca,Atlantique Football Club
+osm:way/1308525667,osm:way/1422141867,football,,33.6083488,-7.6506794,,,,43.3,28.6,5v5,,,https://www.openstreetmap.org/way/1308525667,2026-10-19T11:52:23+00:00,casablanca,Atlantique Football Club
+osm:way/1308525668,osm:way/1422141867,football,,33.6079887,-7.6505176,,,,42.3,28.8,5v5,,,https://www.openstreetmap.org/way/1308525668,2026-10-19T11:52:23+00:00,casablanca,Atlantique Football Club
+osm:way/416247591,osm:way/1426254391,football,,33.5739357,-7.6352982,,,,41.9,21.5,5v5,,,https://www.openstreetmap.org/way/416247591,2026-10-19T11:52:23+00:00,casablanca,المدرسة الإبتدائية المقاوم الوديبي
+osm:way/1431580319,osm:way/1431580319,football,,33.5739802,-7.5176471,,,,43.5,23.3,5v5,,,https://www.openstreetmap.org/way/1431580319,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431580320,osm:way/1431580320,football,,33.573765,-7.5183027,,,,91.4,46.0,11v11,,,https://www.openstreetmap.org/way/1431580320,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431703736,osm:way/1431703736,football,,33.5926937,-7.5244017,,,,31.2,20.5,5v5,,,https://www.openstreetmap.org/way/1431703736,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431703737,osm:way/1431703736,football,,33.5925696,-7.5247028,,,,31.5,20.6,5v5,,,https://www.openstreetmap.org/way/1431703737,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431703738,osm:way/1431703736,football,,33.5924352,-7.5250105,,,,24.2,16.5,5v5,,,https://www.openstreetmap.org/way/1431703738,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431703739,osm:way/1431703736,football,,33.5923725,-7.5251591,,,,24.1,14.7,5v5,,,https://www.openstreetmap.org/way/1431703739,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1452000742,osm:way/1452000742,football,Terrain de proximité Al Khalil,33.547819,-7.5914322,,,,33.0,17.3,5v5,,,https://www.openstreetmap.org/way/1452000742,2026-10-19T11:52:23+00:00,casablanca,Terrain de proximité Al Khalil
+osm:way/1503411879,osm:way/1503411874,football,,33.5660692,-7.6255052,,,,43.4,22.2,5v5,,,https://www.openstreetmap.org/way/1503411879,2026-10-19T11:52:23+00:00,casablanca,Écoles Abdelmoumen
+osm:way/1554920206,osm:way/1554920206,football,,33.544541,-7.6976205,,,,49.0,23.7,5v5,,,https://www.openstreetmap.org/way/1554920206,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1562504271,osm:way/1562504271,football,,33.5432687,-7.6863469,,,,65.2,44.8,7v7,,,https://www.openstreetmap.org/way/1562504271,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/243462658,osm:way/168411360,football,,33.598848,-7.6350396,,,,79.5,39.2,9v9,designated,,https://www.openstreetmap.org/way/243462658,2026-10-19T11:52:23+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/1075769792,osm:way/174260601,football,,33.5659772,-7.5367412,,,,109.2,69.2,11v11,,,https://www.openstreetmap.org/way/1075769792,2026-10-19T11:52:23+00:00,casablanca,Stade Hay Moulay Rachid
+osm:way/177804410,osm:way/177804410,football,,33.554057,-7.6502185,,,,101.4,63.7,11v11,,,https://www.openstreetmap.org/way/177804410,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/177804421,osm:way/177804421,football,,33.5611133,-7.6491379,,,,113.2,75.2,11v11,,,https://www.openstreetmap.org/way/177804421,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/177804431,osm:way/177804431,football,,33.5568252,-7.650563,,,,105.8,68.8,11v11,,,https://www.openstreetmap.org/way/177804431,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/177804701,osm:way/177804701,football,,33.5608072,-7.6484432,,,,112.6,63.4,11v11,,,https://www.openstreetmap.org/way/177804701,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/591682201,osm:way/214289475,football,,33.5637789,-7.6513837,artificial_turf,,,101.1,67.4,11v11,,,https://www.openstreetmap.org/way/591682201,2026-10-19T11:52:23+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/243445394,osm:way/243445394,football,Derb tazi,33.6051763,-7.6268629,,,,31.0,12.4,5v5,,,https://www.openstreetmap.org/way/243445394,2026-10-19T11:52:23+00:00,casablanca,Derb tazi
+osm:way/1331659405,osm:way/339220626,football,,33.5856806,-7.6421232,hard,,,32.6,16.1,5v5,private,,https://www.openstreetmap.org/way/1331659405,2026-10-19T11:52:23+00:00,casablanca,Collège Badr
+osm:way/1331659406,osm:way/339220626,football,,33.5855381,-7.6420389,hard,,,32.9,15.8,5v5,private,,https://www.openstreetmap.org/way/1331659406,2026-10-19T11:52:23+00:00,casablanca,Collège Badr
+osm:way/1075039166,osm:way/38751488,football,,33.5972498,-7.5465001,,,,106.0,69.6,11v11,,,https://www.openstreetmap.org/way/1075039166,2026-10-19T11:52:23+00:00,casablanca,Stade Larbi Zaouli
+osm:way/396332775,osm:way/396332775,football,,33.5779678,-7.616756,,,,108.9,67.7,11v11,,,https://www.openstreetmap.org/way/396332775,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/420139205,osm:way/420139205,football,Centre De La Jeunesse Et Sports,33.5659003,-7.6045499,,,,119.3,72.3,11v11,,,https://www.openstreetmap.org/way/420139205,2026-10-19T11:52:23+00:00,casablanca,Centre De La Jeunesse Et Sports
+osm:way/420153870,osm:way/420153870,football,,33.5741137,-7.6287684,,,,100.9,64.9,11v11,,,https://www.openstreetmap.org/way/420153870,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1111870698,osm:way/477554778,football,,33.5655066,-7.5768019,,,,57.7,37.0,7v7,,,https://www.openstreetmap.org/way/1111870698,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/558509149,osm:way/477554778,football,,33.5639913,-7.5764206,,,,97.7,63.0,11v11,,,https://www.openstreetmap.org/way/558509149,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/420390228,osm:way/477555757,football,,33.554859,-7.5694615,,,,102.4,59.7,11v11,,,https://www.openstreetmap.org/way/420390228,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1372684590,osm:way/521351941,football,,33.5816039,-7.6515821,,,,40.4,18.0,5v5,,,https://www.openstreetmap.org/way/1372684590,2026-10-19T11:52:23+00:00,casablanca,Lycée Ziriab
+osm:way/1343872999,osm:way/521476356,football,,33.5682367,-7.6686659,,,,43.2,26.7,5v5,,,https://www.openstreetmap.org/way/1343872999,2026-10-19T11:52:23+00:00,casablanca,Lycée Ibn Al Yassamine
+osm:way/1343873002,osm:way/521476356,football,,33.5681423,-7.667998,,,,38.9,24.2,5v5,,,https://www.openstreetmap.org/way/1343873002,2026-10-19T11:52:23+00:00,casablanca,Lycée Ibn Al Yassamine
+osm:way/752799976,osm:way/555864000,football,,33.5198041,-7.6602737,,,,24.4,14.6,5v5,,,https://www.openstreetmap.org/way/752799976,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/752799977,osm:way/555864000,football,,33.5196933,-7.660431,,,,31.2,17.9,5v5,,,https://www.openstreetmap.org/way/752799977,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/752799978,osm:way/555864000,football,,33.5195248,-7.6606148,,,,45.4,24.5,5v5,,,https://www.openstreetmap.org/way/752799978,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/555868115,osm:way/555868115,football,Espace Sportif Ennassime,33.5240437,-7.6572971,,,,107.1,71.2,11v11,,,https://www.openstreetmap.org/way/555868115,2026-10-19T11:52:23+00:00,casablanca,Espace Sportif Ennassime
+osm:way/566345747,osm:way/566345747,football,,33.5329534,-7.6721436,,,,40.9,24.9,5v5,,,https://www.openstreetmap.org/way/566345747,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/575232476,osm:way/575232477,football,,33.548685,-7.5673725,,,,104.2,75.3,11v11,,,https://www.openstreetmap.org/way/575232476,2026-10-19T11:52:23+00:00,casablanca,Centre Omnisports Sbata
+osm:way/177804433,osm:way/582776489,football,,33.5572825,-7.6516086,,,,110.2,79.2,11v11,,,https://www.openstreetmap.org/way/177804433,2026-10-19T11:52:23+00:00,casablanca,Stade Père Jégo
+osm:way/1326534495,osm:way/588233023,football,,33.5587435,-7.6466039,,,,111.3,66.6,11v11,,,https://www.openstreetmap.org/way/1326534495,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Haj Mohamed Benjelloun
+osm:way/1326534496,osm:way/588233023,football,,33.557877,-7.6473259,,,,58.9,42.2,7v7,,,https://www.openstreetmap.org/way/1326534496,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Haj Mohamed Benjelloun
+osm:way/1340896285,osm:way/588233023,football,,33.5584029,-7.64822,,,,47.7,31.8,5v5,,,https://www.openstreetmap.org/way/1340896285,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Haj Mohamed Benjelloun
+osm:way/177804423,osm:way/588233023,football,,33.5583229,-7.6468904,,,,104.2,63.8,11v11,,,https://www.openstreetmap.org/way/177804423,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Haj Mohamed Benjelloun
+osm:way/177804426,osm:way/588233023,football,,33.5589979,-7.6476454,,,,110.4,75.0,11v11,,,https://www.openstreetmap.org/way/177804426,2026-10-19T11:52:23+00:00,casablanca,Complexe Sportif Haj Mohamed Benjelloun
+osm:way/590816561,osm:way/590816561,football,,33.6239294,-7.4840039,,,,99.3,95.4,11v11,,,https://www.openstreetmap.org/way/590816561,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1431156351,osm:way/590874429,football,,33.5724814,-7.6336305,,,,47.8,27.0,5v5,,,https://www.openstreetmap.org/way/1431156351,2026-10-19T11:52:23+00:00,casablanca,Centre Régional des Métiers de l'Éducation et de la Formation
+osm:way/592152254,osm:way/592152254,football,,33.5386638,-7.5876475,dirt,,,53.0,29.4,7v7,,,https://www.openstreetmap.org/way/592152254,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1349890366,osm:way/595183942,football,,33.5507231,-7.6688027,,,,49.0,30.5,5v5,private,,https://www.openstreetmap.org/way/1349890366,2026-10-19T11:52:23+00:00,casablanca,Université Mohammed VI des Sciences de la Santé
+osm:way/639762835,osm:way/639762835,football,,33.5546501,-7.7016299,,,,50.0,25.7,7v7,,,https://www.openstreetmap.org/way/639762835,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/661004805,osm:way/661004805,football,,33.5704822,-7.6800288,,,,105.1,70.2,11v11,,,https://www.openstreetmap.org/way/661004805,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/685991355,osm:way/685991355,football,,33.5900793,-7.5653938,,,,96.8,59.0,11v11,,,https://www.openstreetmap.org/way/685991355,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/751939521,osm:way/751939521,football,,33.5160697,-7.6605729,dirt,,,42.4,21.9,5v5,yes,,https://www.openstreetmap.org/way/751939521,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/753110485,osm:way/753110485,football,,33.6057636,-7.6566706,,,,95.3,59.6,11v11,,,https://www.openstreetmap.org/way/753110485,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767805080,osm:way/767805080,football,,33.602862,-7.5075332,,,,171.4,72.0,,,,https://www.openstreetmap.org/way/767805080,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767838700,osm:way/767838700,football,,33.6075521,-7.5222814,,,,74.4,70.6,9v9,,,https://www.openstreetmap.org/way/767838700,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767838701,osm:way/767838701,football,,33.6067538,-7.5219774,,,,28.7,16.9,5v5,,,https://www.openstreetmap.org/way/767838701,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767838702,osm:way/767838701,football,,33.6065204,-7.5223288,,,,43.0,20.8,5v5,,,https://www.openstreetmap.org/way/767838702,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767838707,osm:way/767838707,football,,33.6050421,-7.5186521,,,,44.4,28.4,5v5,,,https://www.openstreetmap.org/way/767838707,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/767864273,osm:way/767864273,football,,33.6182676,-7.4989842,,,,56.0,35.4,7v7,,,https://www.openstreetmap.org/way/767864273,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/843243265,osm:way/843243265,football,,33.5921309,-7.5675268,,,,39.3,19.4,5v5,,,https://www.openstreetmap.org/way/843243265,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/960926696,osm:way/960926696,football,,33.608776,-7.5381472,,,,33.9,20.6,5v5,,,https://www.openstreetmap.org/way/960926696,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/961897733,osm:way/961897733,football,,33.6122713,-7.5498812,,,,49.2,32.5,5v5,,,https://www.openstreetmap.org/way/961897733,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/991946675,osm:way/991946675,football,,33.542793,-7.6168189,,,,106.6,71.7,11v11,,,https://www.openstreetmap.org/way/991946675,2026-10-19T11:52:23+00:00,casablanca,
+osm:way/1320329922,osm:way/1320329922,football,,34.0658744,-4.9823833,,,,57.2,25.6,7v7,,,https://www.openstreetmap.org/way/1320329922,2026-10-19T11:52:23+00:00,fes,
+osm:way/1445821839,osm:way/1445821839,football,,34.0041771,-4.9664925,,,,109.1,74.1,11v11,,,https://www.openstreetmap.org/way/1445821839,2026-10-19T11:52:23+00:00,fes,
+osm:way/1445821840,osm:way/1445821840,football,,34.0055395,-4.9659898,,,,109.1,74.1,11v11,,,https://www.openstreetmap.org/way/1445821840,2026-10-19T11:52:23+00:00,fes,
+osm:way/1445821841,osm:way/1445821841,football,,34.0053112,-4.9668895,,,,109.1,74.1,11v11,,,https://www.openstreetmap.org/way/1445821841,2026-10-19T11:52:23+00:00,fes,
+osm:way/533185106,osm:way/1496591701,football,,34.0361434,-5.0431016,,,,93.7,54.2,11v11,,,https://www.openstreetmap.org/way/533185106,2026-10-19T11:52:23+00:00,fes,
+osm:way/541173734,osm:way/1497653777,football,,34.0028056,-4.968915,,,,112.6,78.7,11v11,,,https://www.openstreetmap.org/way/541173734,2026-10-19T11:52:23+00:00,fes,Stade du Complexe Sportif de Fès
+osm:way/922869246,osm:way/1503105527,football,,34.0114122,-5.0609821,,,,105.9,62.2,11v11,,,https://www.openstreetmap.org/way/922869246,2026-10-19T11:52:23+00:00,fes,
+osm:way/472743181,osm:way/186942866,football,,34.0292855,-5.0020686,,,,41.8,21.3,5v5,,,https://www.openstreetmap.org/way/472743181,2026-10-19T11:52:23+00:00,fes,Lycée Moulay Slimane
+osm:way/316035534,osm:way/316035534,football,,34.019989,-5.0135067,,,,99.9,66.4,11v11,,,https://www.openstreetmap.org/way/316035534,2026-10-19T11:52:23+00:00,fes,
+osm:way/533825128,osm:way/478266791,football,,34.056773,-4.9828111,,,,92.7,46.8,11v11,,,https://www.openstreetmap.org/way/533825128,2026-10-19T11:52:23+00:00,fes,
+osm:way/533825902,osm:way/478266791,football,,34.0557979,-4.9820097,,,,45.2,23.0,5v5,,,https://www.openstreetmap.org/way/533825902,2026-10-19T11:52:23+00:00,fes,
+osm:way/533825903,osm:way/478266791,football,,34.0560147,-4.9818156,,,,45.8,22.3,5v5,,,https://www.openstreetmap.org/way/533825903,2026-10-19T11:52:23+00:00,fes,
+osm:way/533763408,osm:way/479012733,football,,34.0532945,-5.0047187,,,,136.5,88.0,,,,https://www.openstreetmap.org/way/533763408,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/533763634,osm:way/479012733,football,,34.0527077,-5.0034519,,,,129.6,98.4,11v11,,,https://www.openstreetmap.org/way/533763634,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/533763693,osm:way/479012733,football,,34.0519977,-5.0044123,,,,111.5,82.2,11v11,,,https://www.openstreetmap.org/way/533763693,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/533763851,osm:way/479012733,football,,34.0515722,-5.0030637,,,,133.0,97.6,,,,https://www.openstreetmap.org/way/533763851,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/533764005,osm:way/479012733,football,,34.0544869,-5.0038599,,,,198.4,103.2,,,,https://www.openstreetmap.org/way/533764005,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/533764166,osm:way/479012733,football,,34.0524389,-5.0059439,,,,112.0,72.6,11v11,,,https://www.openstreetmap.org/way/533764166,2026-10-19T11:52:23+00:00,fes,Terrains Saadiennes
+osm:way/1320329910,osm:way/533054840,football,ملعب زواغة,34.0202324,-5.0356731,stade,,,92.3,62.6,11v11,,,https://www.openstreetmap.org/way/1320329910,2026-10-19T11:52:23+00:00,fes,Stade de Zouagha
+osm:way/533751645,osm:way/533751645,football,terrain football el Merined,34.0687017,-4.9878449,,,,81.7,50.9,9v9,,,https://www.openstreetmap.org/way/533751645,2026-10-19T11:52:23+00:00,fes,terrain football el Merined
+osm:way/479012377,osm:way/534527516,football,ملعب الحسن الثاني,34.0479343,-4.9993517,stade_de_foot_balle,,,107.8,74.8,11v11,,,https://www.openstreetmap.org/way/479012377,2026-10-19T11:52:23+00:00,fes,Stade Hassan II
+osm:way/576463414,osm:way/576463414,football,,34.0301906,-4.9766866,,,,120.1,77.3,11v11,,,https://www.openstreetmap.org/way/576463414,2026-10-19T11:52:23+00:00,fes,
+osm:way/95233208,osm:way/95233208,football,,34.0306388,-4.9886728,,,,90.1,50.1,11v11,,,https://www.openstreetmap.org/way/95233208,2026-10-19T11:52:23+00:00,fes,
+osm:way/657947007,osm:relation/6705928,football,,34.2450224,-6.5701169,,,,92.8,63.1,11v11,,,https://www.openstreetmap.org/way/657947007,2026-10-19T11:52:24+00:00,kenitra,foret maamora
+osm:way/1075079178,osm:way/1075079178,football,,34.252856,-6.5696683,,,,106.4,69.9,11v11,,,https://www.openstreetmap.org/way/1075079178,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121770081,osm:way/1094581792,football,,34.2598257,-6.5789171,,,,41.3,25.6,5v5,,,https://www.openstreetmap.org/way/1121770081,2026-10-19T11:52:24+00:00,kenitra,Collège Don Bosco
+osm:way/1117475148,osm:way/1117475148,football,,34.2521184,-6.6025678,artificial_turf,1,,44.2,28.4,5v5,,,https://www.openstreetmap.org/way/1117475148,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1117929189,osm:way/1117929185,football,,34.2457802,-6.5941293,artificial_turf,1,,42.2,23.8,5v5,,,https://www.openstreetmap.org/way/1117929189,2026-10-19T11:52:24+00:00,kenitra,Terrains omnisports de l'Université
+osm:way/1120137607,osm:way/1120137607,football,,34.2540375,-6.6284174,,,,41.5,18.9,5v5,,,https://www.openstreetmap.org/way/1120137607,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120137608,osm:way/1120137607,football,,34.2538953,-6.6285258,,,,38.7,17.0,5v5,,,https://www.openstreetmap.org/way/1120137608,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120137609,osm:way/1120137607,football,,34.2537564,-6.62863,,,,38.2,17.6,5v5,,,https://www.openstreetmap.org/way/1120137609,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120226854,osm:way/1120226852,football,,34.2274514,-6.6103266,,,,37.8,17.4,5v5,,,https://www.openstreetmap.org/way/1120226854,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120369035,osm:way/1120586424,football,,34.2466549,-6.6061212,artificial_turf,1,,35.2,18.7,5v5,,,https://www.openstreetmap.org/way/1120369035,2026-10-19T11:52:24+00:00,kenitra,Agri Club Kenitra
+osm:way/1120594176,osm:way/1120594175,football,,34.2440804,-6.5722179,,,,50.1,24.6,7v7,,,https://www.openstreetmap.org/way/1120594176,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120594217,osm:way/1120594217,football,,34.2616211,-6.6301205,,,,30.3,16.8,5v5,,,https://www.openstreetmap.org/way/1120594217,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120594218,osm:way/1120594217,football,,34.2613446,-6.6300169,,,,29.1,16.8,5v5,,,https://www.openstreetmap.org/way/1120594218,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121518703,osm:way/1121518703,football,,34.2495747,-6.5582468,,,,95.2,51.4,11v11,,,https://www.openstreetmap.org/way/1121518703,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121518704,osm:way/1121518703,football,,34.2493518,-6.5577804,,,,42.0,21.0,5v5,,,https://www.openstreetmap.org/way/1121518704,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121719525,osm:way/1121719525,football,,34.2550606,-6.5610068,,,,49.1,26.8,5v5,,,https://www.openstreetmap.org/way/1121719525,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121719526,osm:way/1121719526,football,,34.2543642,-6.5606368,,,,108.3,68.0,11v11,,,https://www.openstreetmap.org/way/1121719526,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121770080,osm:way/1121770080,football,,34.2603187,-6.5797593,,,,41.8,18.3,5v5,,,https://www.openstreetmap.org/way/1121770080,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1356358427,osm:way/1121770084,football,,34.262609,-6.578056,grass,1,,68.1,46.6,7v7,,,https://www.openstreetmap.org/way/1356358427,2026-10-19T11:52:24+00:00,kenitra,GSU Honoré de Balzac
+osm:way/1121932342,osm:way/1121932342,football,,34.2539231,-6.5873049,,,,37.4,19.5,5v5,,,https://www.openstreetmap.org/way/1121932342,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1122077210,osm:way/1122077210,football,,34.2394696,-6.5373966,,,,39.8,17.5,5v5,,,https://www.openstreetmap.org/way/1122077210,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1094768744,osm:way/1122509656,football,,34.2298855,-6.5443515,,,,95.4,52.1,11v11,,,https://www.openstreetmap.org/way/1094768744,2026-10-19T11:52:24+00:00,kenitra,Complexe Sportif
+osm:way/1122077221,osm:way/1122509656,football,,34.2302644,-6.5432347,,,,41.1,21.7,5v5,,,https://www.openstreetmap.org/way/1122077221,2026-10-19T11:52:24+00:00,kenitra,Complexe Sportif
+osm:way/1122077222,osm:way/1122509656,football,,34.2301468,-6.5434354,,,,41.1,21.7,5v5,,,https://www.openstreetmap.org/way/1122077222,2026-10-19T11:52:24+00:00,kenitra,Complexe Sportif
+osm:way/1122077223,osm:way/1122509656,football,,34.2300302,-6.5436285,,,,41.1,21.7,5v5,,,https://www.openstreetmap.org/way/1122077223,2026-10-19T11:52:24+00:00,kenitra,Complexe Sportif
+osm:way/1227049061,osm:way/1227049058,football,,34.2532806,-6.5611244,,,,18.4,9.1,5v5,,,https://www.openstreetmap.org/way/1227049061,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1122793079,osm:way/1227671717,football,,34.2441204,-6.5934567,artificial_turf,1,,101.5,61.8,11v11,,,https://www.openstreetmap.org/way/1122793079,2026-10-19T11:52:24+00:00,kenitra,Grand terrain et piste de l'Université Ibn tofail
+osm:way/1229794330,osm:way/1229794329,football,,34.274062,-6.590871,,,,46.2,24.0,5v5,,,https://www.openstreetmap.org/way/1229794330,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1229795069,osm:way/1229795067,football,,34.2741424,-6.5990715,,,,34.2,20.4,5v5,,,https://www.openstreetmap.org/way/1229795069,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1275394469,osm:way/1275394469,football,,34.2710534,-6.6165247,,,,41.1,22.2,5v5,,,https://www.openstreetmap.org/way/1275394469,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1275394470,osm:way/1275394469,football,,34.2708637,-6.616465,,,,41.1,21.6,5v5,,,https://www.openstreetmap.org/way/1275394470,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1275394471,osm:way/1275394469,football,,34.2706712,-6.6164049,,,,41.1,22.7,5v5,,,https://www.openstreetmap.org/way/1275394471,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1288974196,osm:way/1288974196,football,,34.2249551,-6.6448759,,,,46.3,27.4,5v5,,,https://www.openstreetmap.org/way/1288974196,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/315673634,osm:way/315673644,football,,34.2526971,-6.5714432,,,,111.8,74.2,11v11,,,https://www.openstreetmap.org/way/315673634,2026-10-19T11:52:24+00:00,kenitra,Stade municipal
+osm:way/1119959694,osm:way/451734618,football,,34.2515676,-6.5944411,hard,0,,52.2,40.4,7v7,,,https://www.openstreetmap.org/way/1119959694,2026-10-19T11:52:24+00:00,kenitra,Lycee Taha Hussain
+osm:way/453588340,osm:way/453588340,football,,34.2469433,-6.6104268,artificial_turf,1,,37.8,30.7,5v5,,,https://www.openstreetmap.org/way/453588340,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/660432475,osm:way/453588340,football,,34.2470658,-6.6100525,artificial_turf,1,,30.9,21.2,5v5,,,https://www.openstreetmap.org/way/660432475,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1120226838,osm:way/453588693,football,,34.2702607,-6.6164911,,,,24.7,12.0,5v5,,,https://www.openstreetmap.org/way/1120226838,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1121941197,osm:way/478104482,football,,34.2437527,-6.5742138,,,,40.9,20.6,5v5,,,https://www.openstreetmap.org/way/1121941197,2026-10-19T11:52:24+00:00,kenitra,Lycee Mohamed VI
+osm:way/491914355,osm:way/479712512,football,,34.2628724,-6.5611234,,,,41.6,24.0,5v5,,,https://www.openstreetmap.org/way/491914355,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/488844872,osm:way/488844872,football,,34.254741,-6.6086469,hard,,,40.8,21.0,5v5,,,https://www.openstreetmap.org/way/488844872,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/648193110,osm:way/648193110,football,,34.2840798,-6.6076092,,,,111.2,67.4,11v11,,,https://www.openstreetmap.org/way/648193110,2026-10-19T11:52:24+00:00,kenitra,
+osm:way/1246056289,osm:way/102739977,football,,31.6417381,-7.9852731,,,,35.4,20.9,5v5,,,https://www.openstreetmap.org/way/1246056289,2026-10-19T11:52:23+00:00,marrakech,Centre Educatif Sportif
+osm:way/1246056290,osm:way/102739977,football,,31.6418487,-7.9850927,,,,35.3,21.2,5v5,,,https://www.openstreetmap.org/way/1246056290,2026-10-19T11:52:23+00:00,marrakech,Centre Educatif Sportif
+osm:way/1181727866,osm:way/1181727866,football,,31.6157227,-7.9710048,,,,40.8,22.3,5v5,,,https://www.openstreetmap.org/way/1181727866,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1181727867,osm:way/1181727866,football,,31.6150371,-7.9709199,,,,82.7,43.5,9v9,,,https://www.openstreetmap.org/way/1181727867,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1317835059,osm:way/1181727866,football,,31.6155105,-7.970918,,,,40.8,22.3,5v5,,,https://www.openstreetmap.org/way/1317835059,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1207159255,osm:way/1207159255,football,,31.649592,-8.0639069,,,,80.5,41.5,9v9,,,https://www.openstreetmap.org/way/1207159255,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1207161157,osm:way/1207161157,football,,31.607578,-7.9735306,,,,29.4,18.0,5v5,,,https://www.openstreetmap.org/way/1207161157,2026-10-19T11:52:23+00:00,marrakech,1
+osm:way/1207161158,osm:way/1207161157,football,1,31.607393,-7.9733745,,,,27.6,17.4,5v5,,,https://www.openstreetmap.org/way/1207161158,2026-10-19T11:52:23+00:00,marrakech,1
+osm:way/1207161159,osm:way/1207161157,football,,31.6071788,-7.9733912,,,,29.6,17.7,5v5,,,https://www.openstreetmap.org/way/1207161159,2026-10-19T11:52:23+00:00,marrakech,1
+osm:way/1211195870,osm:way/1211195870,football,,31.574056,-8.0716597,grass,1,,61.3,40.2,7v7,yes,,https://www.openstreetmap.org/way/1211195870,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1211195871,osm:way/1211195871,football,,31.5738475,-8.070929,grass,,,81.4,31.4,9v9,yes,,https://www.openstreetmap.org/way/1211195871,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1211197306,osm:way/1211197306,football,,31.645359,-7.9981087,,,,37.8,20.4,5v5,,,https://www.openstreetmap.org/way/1211197306,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1215393046,osm:way/1215393046,football,,31.6114819,-8.0715288,,,,58.6,51.8,7v7,,,https://www.openstreetmap.org/way/1215393046,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1216581634,osm:way/1216581634,football,,31.6324641,-7.9162169,,,,41.3,28.4,5v5,,,https://www.openstreetmap.org/way/1216581634,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1216581635,osm:way/1216581634,football,,31.632495,-7.9157595,,,,41.3,28.4,5v5,,,https://www.openstreetmap.org/way/1216581635,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1216581636,osm:way/1216581634,football,,31.6321978,-7.916189,,,,41.3,28.4,5v5,,,https://www.openstreetmap.org/way/1216581636,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1216581637,osm:way/1216581634,football,,31.6322333,-7.9157285,,,,41.3,28.4,5v5,,,https://www.openstreetmap.org/way/1216581637,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1216820644,osm:way/1216820644,football,,31.6869229,-8.0749723,,,,41.9,20.6,5v5,,,https://www.openstreetmap.org/way/1216820644,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1218370798,osm:way/1218370798,football,,31.6435772,-8.0682502,,,,93.5,44.9,11v11,,,https://www.openstreetmap.org/way/1218370798,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1218720764,osm:way/1218720764,football,,31.6342142,-8.0632689,,,,60.4,23.7,7v7,,,https://www.openstreetmap.org/way/1218720764,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1265941877,osm:way/1218892878,football,,31.6246111,-8.0503023,,,,42.1,24.3,5v5,,,https://www.openstreetmap.org/way/1265941877,2026-10-19T11:52:23+00:00,marrakech,Collège Mokhtar Soussi
+osm:way/1265941878,osm:way/1218892878,football,,31.6246961,-8.0510343,,,,37.4,21.9,5v5,,,https://www.openstreetmap.org/way/1265941878,2026-10-19T11:52:23+00:00,marrakech,Collège Mokhtar Soussi
+osm:way/1221771051,osm:way/1221771051,football,,31.6238258,-7.9802339,,,,22.6,13.8,5v5,,,https://www.openstreetmap.org/way/1221771051,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1221818775,osm:way/1221818775,football,,31.6711763,-8.0164962,grass,,,46.3,24.4,5v5,,,https://www.openstreetmap.org/way/1221818775,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1298825149,osm:way/1221818775,football,,31.6712766,-8.0157575,grass,,,46.3,24.4,5v5,,,https://www.openstreetmap.org/way/1298825149,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1298825150,osm:way/1221818775,football,,31.6712251,-8.0161263,grass,,,46.3,24.4,5v5,,,https://www.openstreetmap.org/way/1298825150,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1223892096,osm:way/1223892096,football,,31.6485286,-7.9512067,,,,42.2,23.1,5v5,,,https://www.openstreetmap.org/way/1223892096,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1223892097,osm:way/1223892096,football,,31.6485211,-7.9507397,,,,41.2,22.4,5v5,,,https://www.openstreetmap.org/way/1223892097,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1223892098,osm:way/1223892096,football,,31.6485106,-7.9502766,,,,42.2,22.7,5v5,,,https://www.openstreetmap.org/way/1223892098,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1223903775,osm:way/1223903775,football,,31.6650504,-8.0286462,,,,22.3,14.7,5v5,,,https://www.openstreetmap.org/way/1223903775,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1224561504,osm:way/1224561504,football,,31.636836,-8.0221044,,,,33.3,27.7,5v5,,,https://www.openstreetmap.org/way/1224561504,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1224803980,osm:way/1224803980,football,,31.630553,-8.050401,,,,42.9,22.0,5v5,,,https://www.openstreetmap.org/way/1224803980,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1225860304,osm:way/1225860304,football,,31.6594468,-8.0548432,,,,101.1,44.2,11v11,,,https://www.openstreetmap.org/way/1225860304,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/590899833,osm:way/1225860304,football,,31.6594083,-8.0554145,,,,94.2,47.8,11v11,,,https://www.openstreetmap.org/way/590899833,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1225903011,osm:way/1225903011,football,,31.6418708,-7.9923747,,,,24.7,13.1,5v5,,,https://www.openstreetmap.org/way/1225903011,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1226034923,osm:way/1226034923,football,,31.6236877,-8.0654686,,,,67.7,47.3,7v7,,,https://www.openstreetmap.org/way/1226034923,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1228586437,osm:way/1228586437,football,,31.6317351,-7.9783394,,,,44.8,30.1,5v5,,,https://www.openstreetmap.org/way/1228586437,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1229112169,osm:way/1229112169,football,,31.5740552,-7.9641328,,,,64.0,34.9,7v7,,,https://www.openstreetmap.org/way/1229112169,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1230323846,osm:way/1230323846,football,,31.6518817,-7.9870396,,,,58.1,42.7,7v7,,,https://www.openstreetmap.org/way/1230323846,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232974790,osm:way/1232974790,football,,31.6514406,-8.0234708,,,,78.2,58.3,9v9,,,https://www.openstreetmap.org/way/1232974790,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232975141,osm:way/1232975141,football,,31.6526394,-8.0241105,,,,66.5,43.9,7v7,,,https://www.openstreetmap.org/way/1232975141,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232975144,osm:way/1232975144,football,,31.6485454,-8.0251039,,,,43.7,23.4,5v5,,,https://www.openstreetmap.org/way/1232975144,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232975145,osm:way/1232975144,football,,31.6484661,-8.0255541,,,,42.4,23.3,5v5,,,https://www.openstreetmap.org/way/1232975145,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232975146,osm:way/1232975144,football,,31.6484904,-8.0261709,,,,43.3,23.7,5v5,,,https://www.openstreetmap.org/way/1232975146,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1232975147,osm:way/1232975144,football,,31.648407,-8.0266137,,,,39.7,22.7,5v5,,,https://www.openstreetmap.org/way/1232975147,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1234286686,osm:way/1234286686,football,,31.6249248,-8.0711607,,,,38.8,20.7,5v5,,,https://www.openstreetmap.org/way/1234286686,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1239763563,osm:way/1239763563,football,,31.6335272,-8.0635647,,,,46.8,25.3,5v5,,,https://www.openstreetmap.org/way/1239763563,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1240109043,osm:way/1240109043,football,,31.6785217,-8.0166178,,,,31.9,24.7,5v5,,,https://www.openstreetmap.org/way/1240109043,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1240450053,osm:way/1240450053,football,,31.6649904,-8.0237521,,,,39.2,31.1,5v5,,,https://www.openstreetmap.org/way/1240450053,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1242018851,osm:way/1242018851,football,,31.6604585,-7.9748459,,,,80.9,61.5,9v9,,,https://www.openstreetmap.org/way/1242018851,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1242176455,osm:way/1242176455,football,,31.6511866,-7.9967297,,,,50.4,43.8,7v7,,,https://www.openstreetmap.org/way/1242176455,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1243780948,osm:way/1243780948,football,,31.601301,-7.9623941,,,,44.3,24.8,5v5,,,https://www.openstreetmap.org/way/1243780948,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1243780949,osm:way/1243780949,football,,31.6057253,-7.9570453,,,,42.0,23.8,5v5,,,https://www.openstreetmap.org/way/1243780949,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1244021539,osm:way/1244021539,football,,31.6481129,-8.0112509,,,,44.4,22.4,5v5,,,https://www.openstreetmap.org/way/1244021539,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1244024857,osm:way/1244021539,football,,31.6484568,-8.011216,,,,22.6,12.6,5v5,,,https://www.openstreetmap.org/way/1244024857,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1245141577,osm:way/1245141577,football,,31.6149534,-7.971568,,,,37.2,17.5,5v5,,,https://www.openstreetmap.org/way/1245141577,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/126303006,osm:way/126302986,football,,31.627657,-8.0093239,,,,105.4,76.7,11v11,,,https://www.openstreetmap.org/way/126303006,2026-10-19T11:52:23+00:00,marrakech,Stade El-Harti
+osm:way/126302991,osm:way/126302991,football,,31.6280749,-8.0081055,,,,107.3,69.0,11v11,,,https://www.openstreetmap.org/way/126302991,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/126574791,osm:way/126574791,football,,31.6128233,-8.0372537,,,,111.2,70.6,11v11,private,,https://www.openstreetmap.org/way/126574791,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266110847,osm:way/1266110847,football,,31.6457934,-8.0031318,,1,,46.6,26.0,5v5,private,,https://www.openstreetmap.org/way/1266110847,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266324177,osm:way/1266324177,football,,31.6870749,-8.0628271,,,,30.7,15.1,5v5,,,https://www.openstreetmap.org/way/1266324177,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266324648,osm:way/1266324648,football,,31.6906799,-8.0616409,,,,45.4,25.5,5v5,,,https://www.openstreetmap.org/way/1266324648,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1267033036,osm:way/1267033036,football,,31.6029614,-8.0386751,,,,42.9,22.6,5v5,,,https://www.openstreetmap.org/way/1267033036,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1446623113,osm:way/1267033036,football,,31.6027527,-8.0382005,,,,41.8,22.4,5v5,,,https://www.openstreetmap.org/way/1446623113,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1446623114,osm:way/1267033036,football,,31.6028572,-8.0384352,,,,42.2,23.0,5v5,,,https://www.openstreetmap.org/way/1446623114,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/127128024,osm:way/127127595,football,,31.6684869,-7.9988988,,,,100.7,68.9,11v11,,,https://www.openstreetmap.org/way/127128024,2026-10-19T11:52:23+00:00,marrakech,Services Sportifs de l'Université
+osm:way/1295488207,osm:way/1295488207,football,,31.638216,-8.0501628,grass,,,38.4,20.7,5v5,,,https://www.openstreetmap.org/way/1295488207,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1238604893,osm:way/1299147826,football,,31.6740497,-8.0132539,unpaved,,,41.5,21.1,5v5,,,https://www.openstreetmap.org/way/1238604893,2026-10-19T11:52:23+00:00,marrakech,Lycée Qualifiant Charaf
+osm:way/1317555783,osm:way/1317555783,football,,31.624073,-7.9759846,,,,41.5,21.5,5v5,,,https://www.openstreetmap.org/way/1317555783,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/396591947,osm:way/1320510767,football,,31.6381129,-8.0510847,,,,83.9,44.2,9v9,,,https://www.openstreetmap.org/way/396591947,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/396591960,osm:way/1320510767,football,,31.6388293,-8.0513036,,,,80.8,43.1,9v9,,,https://www.openstreetmap.org/way/396591960,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266108791,osm:way/1321521499,football,Terrain lycée kadi ayyad,31.6569983,-8.0098758,,1,,28.3,17.1,5v5,private,,https://www.openstreetmap.org/way/1266108791,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266117063,osm:way/1321521499,football,,31.6571187,-8.0100656,,,,49.2,30.2,5v5,,,https://www.openstreetmap.org/way/1266117063,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/320214123,osm:way/1321718473,football,,31.6388746,-7.9963162,,,,112.8,75.2,11v11,,,https://www.openstreetmap.org/way/320214123,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1322962162,osm:way/1322962162,football,,31.627321,-8.0489289,,,,42.3,20.8,5v5,,,https://www.openstreetmap.org/way/1322962162,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1322962163,osm:way/1322962162,football,,31.6273362,-8.0493931,,,,42.0,20.8,5v5,,,https://www.openstreetmap.org/way/1322962163,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1322962164,osm:way/1322962162,football,,31.6273424,-8.0498425,,,,40.2,20.6,5v5,,,https://www.openstreetmap.org/way/1322962164,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1349744001,osm:way/1349744001,football,,31.6572513,-7.952421,unpaved,0,,99.5,68.0,11v11,yes,,https://www.openstreetmap.org/way/1349744001,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1426222443,osm:way/1426222443,football,,31.6125935,-8.0670417,,,,105.8,69.6,11v11,,,https://www.openstreetmap.org/way/1426222443,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1443950343,osm:way/1443950343,football,,31.6033952,-8.0333436,,,,64.4,48.1,7v7,,,https://www.openstreetmap.org/way/1443950343,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1443950344,osm:way/1443950344,football,,31.6028833,-8.035015,,,,54.9,48.0,7v7,,,https://www.openstreetmap.org/way/1443950344,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1552621758,osm:way/1552621758,football,,31.6139198,-8.0136536,,,,90.8,45.8,11v11,,,https://www.openstreetmap.org/way/1552621758,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1552621760,osm:way/1552621760,football,,31.6146464,-8.0116796,,,,48.7,24.6,5v5,,,https://www.openstreetmap.org/way/1552621760,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1552621761,osm:way/1552621760,football,,31.6148527,-8.0111818,,,,48.7,24.6,5v5,,,https://www.openstreetmap.org/way/1552621761,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1553434727,osm:way/1553434727,football,,31.6563483,-8.050644,,,,24.9,14.3,5v5,private,,https://www.openstreetmap.org/way/1553434727,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/226858496,osm:way/226858496,football,,31.6521499,-7.979287,,,,30.2,13.6,5v5,,,https://www.openstreetmap.org/way/226858496,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/242527755,osm:way/242527755,football,,31.6374868,-7.9814777,,,,112.9,75.4,11v11,,,https://www.openstreetmap.org/way/242527755,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1246271473,osm:way/317572788,football,,31.6477394,-8.0205844,,,,40.8,24.1,5v5,,,https://www.openstreetmap.org/way/1246271473,2026-10-19T11:52:23+00:00,marrakech,Ecole nationale des sciences appliquées (ENSA)
+osm:way/325328023,osm:way/325328080,football,,31.6174282,-8.005873,,,,93.6,49.3,11v11,,,https://www.openstreetmap.org/way/325328023,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/360052895,osm:way/360052895,football,,31.6510558,-7.9361174,,,,36.4,17.2,5v5,,,https://www.openstreetmap.org/way/360052895,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/396591944,osm:way/396591963,football,,31.6293615,-8.0572008,,,,58.5,33.3,7v7,,,https://www.openstreetmap.org/way/396591944,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/416487308,osm:way/416487308,football,,31.6083031,-8.0699488,,,,47.3,30.8,5v5,,,https://www.openstreetmap.org/way/416487308,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/416487309,osm:way/416487308,football,,31.6087037,-8.069987,,,,43.3,29.5,5v5,,,https://www.openstreetmap.org/way/416487309,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/482958243,osm:way/482958243,football,,31.6294288,-8.0556607,,,,174.0,97.2,,,,https://www.openstreetmap.org/way/482958243,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/551170297,osm:way/551170297,football,,31.6386331,-7.9817149,dirt,,,68.5,37.5,7v7,,,https://www.openstreetmap.org/way/551170297,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1266329604,osm:way/590899848,football,,31.6321286,-8.0441999,,,,43.3,22.8,5v5,,,https://www.openstreetmap.org/way/1266329604,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1223897032,osm:way/591102674,football,Futsal Court,31.5954016,-8.0369129,,,,37.6,20.1,5v5,,,https://www.openstreetmap.org/way/1223897032,2026-10-19T11:52:23+00:00,marrakech,
+osm:way/1307113004,osm:way/798150024,football,,31.6229585,-8.0505317,,,,26.0,22.6,5v5,,,https://www.openstreetmap.org/way/1307113004,2026-10-19T11:52:23+00:00,marrakech,Institut de Technologie Appliquée Azli
+osm:way/857635165,osm:way/857635165,football,Terrain Football Riad Salam,31.6835586,-8.0051054,,,,52.0,29.8,7v7,,,https://www.openstreetmap.org/way/857635165,2026-10-19T11:52:23+00:00,marrakech,Terrain Football Riad Salam
+osm:way/1238951495,osm:way/881301298,football,,31.6408479,-8.0594832,,,,39.0,17.5,5v5,,,https://www.openstreetmap.org/way/1238951495,2026-10-19T11:52:23+00:00,marrakech,Groupe Scolaire Jacques Majorelle
+osm:way/948014252,osm:relation/3311534,football,,33.887997,-5.5403674,dirt,1,,62.1,45.4,7v7,,,https://www.openstreetmap.org/way/948014252,2026-10-19T11:52:23+00:00,meknes,Lycée Paul Valery
+osm:way/301892674,osm:relation/4012567,football,,33.9021679,-5.5351355,artificial_turf,1,,92.8,60.9,11v11,,,https://www.openstreetmap.org/way/301892674,2026-10-19T11:52:23+00:00,meknes,Stade du 20 août
+osm:way/1170553581,osm:way/1170553581,football,ملعب الحفرة,33.894993,-5.5476057,,,,27.5,22.4,5v5,,,https://www.openstreetmap.org/way/1170553581,2026-10-19T11:52:23+00:00,meknes,ملعب الحفرة
+osm:way/1200677123,osm:way/1200677123,football,,33.9047345,-5.5724741,,,,40.4,21.4,5v5,,,https://www.openstreetmap.org/way/1200677123,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1204409545,osm:way/1204409545,football,,33.8869803,-5.5525731,,,,49.1,27.9,5v5,,,https://www.openstreetmap.org/way/1204409545,2026-10-19T11:52:23+00:00,meknes,
+osm:way/837853392,osm:way/1204409545,football,,33.8864681,-5.5524309,,,,46.5,25.6,5v5,,,https://www.openstreetmap.org/way/837853392,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1204411929,osm:way/1204411929,football,,33.8787308,-5.5542329,,,,104.0,67.1,11v11,,,https://www.openstreetmap.org/way/1204411929,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1210136194,osm:way/1210136194,football,Golden Foot,33.8934399,-5.5323631,artificial_turf,1,,59.1,50.5,7v7,yes,,https://www.openstreetmap.org/way/1210136194,2026-10-19T11:52:23+00:00,meknes,Golden Foot
+osm:way/1210136651,osm:way/1210136651,football,Kidi Club,33.8935877,-5.5307984,artificial_turf,1,,58.2,26.1,7v7,yes,,https://www.openstreetmap.org/way/1210136651,2026-10-19T11:52:23+00:00,meknes,Kidi Club
+osm:way/694376119,osm:way/1210142948,football,,33.9088748,-5.5454751,,,,33.8,22.2,5v5,,,https://www.openstreetmap.org/way/694376119,2026-10-19T11:52:23+00:00,meknes,
+osm:way/829871104,osm:way/1214614363,football,,33.902542,-5.5158952,,,,41.5,19.8,5v5,,,https://www.openstreetmap.org/way/829871104,2026-10-19T11:52:23+00:00,meknes,
+osm:way/829871105,osm:way/1214614363,football,,33.9024375,-5.5157015,,,,28.7,17.6,5v5,,,https://www.openstreetmap.org/way/829871105,2026-10-19T11:52:23+00:00,meknes,
+osm:way/829871106,osm:way/1214614363,football,,33.9023067,-5.5155053,,,,24.6,15.3,5v5,,,https://www.openstreetmap.org/way/829871106,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1214816073,osm:way/1214816073,football,,33.8918682,-5.533564,,,,34.8,22.8,5v5,,,https://www.openstreetmap.org/way/1214816073,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1215029141,osm:way/1215029141,football,,33.8886617,-5.5212955,,,,92.0,48.0,11v11,,,https://www.openstreetmap.org/way/1215029141,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1215039004,osm:way/1215039004,football,,33.886613,-5.5055766,,,,54.1,36.9,7v7,,,https://www.openstreetmap.org/way/1215039004,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1215039005,osm:way/1215039005,football,,33.8878492,-5.5074357,,,,54.8,28.5,7v7,,,https://www.openstreetmap.org/way/1215039005,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216787028,osm:way/1216787027,football,,33.8544682,-5.5395262,,,,41.1,22.2,5v5,,,https://www.openstreetmap.org/way/1216787028,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216789754,osm:way/1216789754,football,ملعب كرة القدم,33.8551247,-5.5507536,,,,43.8,22.4,5v5,,,https://www.openstreetmap.org/way/1216789754,2026-10-19T11:52:23+00:00,meknes,ملعب كرة القدم
+osm:way/1216790959,osm:way/1216790960,football,ملعب كرة القدم;مدرسة الفاتح,33.8599764,-5.5576535,,,,30.4,16.0,5v5,,,https://www.openstreetmap.org/way/1216790959,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216798173,osm:way/1216798173,football,,33.8677019,-5.5746019,,,,35.7,17.0,5v5,,,https://www.openstreetmap.org/way/1216798173,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216798174,osm:way/1216798173,football,,33.8675323,-5.5744107,,,,35.3,16.7,5v5,,,https://www.openstreetmap.org/way/1216798174,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216798175,osm:way/1216798173,football,,33.8673555,-5.5741756,,,,34.8,19.1,5v5,,,https://www.openstreetmap.org/way/1216798175,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216798176,osm:way/1216798173,football,,33.8681401,-5.5748345,,,,45.1,20.0,5v5,,,https://www.openstreetmap.org/way/1216798176,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216798177,osm:way/1216798173,football,,33.868424,-5.575038,,,,25.8,19.7,5v5,,,https://www.openstreetmap.org/way/1216798177,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216800321,osm:way/1216800321,football,,33.8612697,-5.5712003,,,,41.1,20.4,5v5,,,https://www.openstreetmap.org/way/1216800321,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216817331,osm:way/1216817331,football,,33.8792817,-5.5658398,,,,27.8,16.2,5v5,,,https://www.openstreetmap.org/way/1216817331,2026-10-19T11:52:23+00:00,meknes,
+osm:way/301890987,osm:way/146370943,football,,33.8915232,-5.5393647,artificial_turf,1,,103.9,69.0,11v11,,,https://www.openstreetmap.org/way/301890987,2026-10-19T11:52:23+00:00,meknes,Stade d’Honneur
+osm:way/1490984445,osm:way/1490984445,football,,33.8597034,-5.552776,,,,42.1,22.1,5v5,,,https://www.openstreetmap.org/way/1490984445,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1490984446,osm:way/1490984445,football,,33.8599143,-5.5529333,,,,42.1,22.1,5v5,,,https://www.openstreetmap.org/way/1490984446,2026-10-19T11:52:23+00:00,meknes,
+osm:way/836561303,osm:way/1490984445,football,,33.8596674,-5.553254,,,,42.1,22.1,5v5,,,https://www.openstreetmap.org/way/836561303,2026-10-19T11:52:23+00:00,meknes,
+osm:way/737009872,osm:way/1491485537,football,,33.9030068,-5.5369424,hard,1,,43.8,24.1,5v5,,,https://www.openstreetmap.org/way/737009872,2026-10-19T11:52:23+00:00,meknes,
+osm:way/737009873,osm:way/1491485537,football,,33.9031317,-5.5365987,hard,0,,40.5,20.1,5v5,,,https://www.openstreetmap.org/way/737009873,2026-10-19T11:52:23+00:00,meknes,
+osm:way/737009875,osm:way/1491485537,football,,33.903543,-5.5368299,hard,1,,40.4,20.3,5v5,,,https://www.openstreetmap.org/way/737009875,2026-10-19T11:52:23+00:00,meknes,
+osm:way/737009876,osm:way/1491485537,football,,33.9034098,-5.5371612,hard,1,,40.0,20.4,5v5,,,https://www.openstreetmap.org/way/737009876,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1491629108,osm:way/1491629108,football,,33.8617591,-5.5716361,,,,41.1,20.4,5v5,,,https://www.openstreetmap.org/way/1491629108,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1491629109,osm:way/1491629109,football,,33.8622051,-5.5720246,,,,41.1,20.4,5v5,,,https://www.openstreetmap.org/way/1491629109,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1491629110,osm:way/1491629109,football,,33.8626281,-5.572399,,,,38.4,20.4,5v5,,,https://www.openstreetmap.org/way/1491629110,2026-10-19T11:52:23+00:00,meknes,
+osm:way/739625624,osm:way/1491689356,football,,33.9070889,-5.5452193,,,,90.4,45.5,11v11,,,https://www.openstreetmap.org/way/739625624,2026-10-19T11:52:23+00:00,meknes,
+osm:way/692238938,osm:way/1492388830,football,,33.902471,-5.5574753,,,,104.9,67.6,11v11,,,https://www.openstreetmap.org/way/692238938,2026-10-19T11:52:23+00:00,meknes,Stade Municipal
+osm:way/1216787025,osm:way/1492578180,football,ملعب كرة القدم,33.8537573,-5.5384648,,,,94.1,48.5,11v11,,,https://www.openstreetmap.org/way/1216787025,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1493875481,osm:way/1493875481,football,,33.8485978,-5.5184578,,,,88.7,47.6,9v9,,,https://www.openstreetmap.org/way/1493875481,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216788039,osm:way/1494361739,football,,33.8536293,-5.5416323,,,,57.3,31.0,7v7,,,https://www.openstreetmap.org/way/1216788039,2026-10-19T11:52:23+00:00,meknes,Al Wahda Social Cultural Center
+osm:way/1216816166,osm:way/1494729870,football,,33.8962097,-5.584609,,,,24.3,13.2,5v5,,,https://www.openstreetmap.org/way/1216816166,2026-10-19T11:52:23+00:00,meknes,Terrain Du Foot Hay Essalam
+osm:way/1216816167,osm:way/1494729870,football,,33.895942,-5.5844061,,,,25.4,13.2,5v5,,,https://www.openstreetmap.org/way/1216816167,2026-10-19T11:52:23+00:00,meknes,Terrain Du Foot Hay Essalam
+osm:way/315809573,osm:way/1498665511,football,,33.9047766,-5.5734113,,,,84.4,43.8,9v9,,,https://www.openstreetmap.org/way/315809573,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1216814559,osm:way/307414521,football,ملاعب كرة القدم,33.887823,-5.5683137,,,,40.7,22.4,5v5,,,https://www.openstreetmap.org/way/1216814559,2026-10-19T11:52:23+00:00,meknes,Collège Riad
+osm:way/1216814560,osm:way/307414521,football,,33.8876685,-5.5684663,,,,35.4,16.1,5v5,,,https://www.openstreetmap.org/way/1216814560,2026-10-19T11:52:23+00:00,meknes,Collège Riad
+osm:way/1216814561,osm:way/307414521,football,,33.8875103,-5.5685578,,,,32.5,17.9,5v5,,,https://www.openstreetmap.org/way/1216814561,2026-10-19T11:52:23+00:00,meknes,Collège Riad
+osm:way/1216814562,osm:way/307414521,football,,33.8873945,-5.5686572,,,,26.4,14.2,5v5,,,https://www.openstreetmap.org/way/1216814562,2026-10-19T11:52:23+00:00,meknes,Collège Riad
+osm:way/1216814563,osm:way/307414521,football,,33.8875063,-5.5688375,,,,20.3,12.5,5v5,,,https://www.openstreetmap.org/way/1216814563,2026-10-19T11:52:23+00:00,meknes,Collège Riad
+osm:way/1214637387,osm:way/307418363,football,,33.855989,-5.5725922,,,,87.1,48.4,9v9,,,https://www.openstreetmap.org/way/1214637387,2026-10-19T11:52:23+00:00,meknes,University of Moulay Ismail
+osm:way/1491249633,osm:way/307784451,football,,33.8840936,-5.5684596,,,,84.5,51.2,9v9,,,https://www.openstreetmap.org/way/1491249633,2026-10-19T11:52:23+00:00,meknes,Ar Riyad Garden
+osm:way/691214859,osm:way/691214859,football,,33.9006307,-5.5605588,,,,51.1,31.8,7v7,,,https://www.openstreetmap.org/way/691214859,2026-10-19T11:52:23+00:00,meknes,
+osm:way/692279482,osm:way/692279482,football,football yard,33.9043204,-5.5626169,,1,,40.3,21.2,5v5,,yes,https://www.openstreetmap.org/way/692279482,2026-10-19T11:52:23+00:00,meknes,football yard
+osm:way/692788843,osm:way/692788843,football,football stadium,33.9068031,-5.5592697,dirt,1,,75.5,50.1,9v9,,,https://www.openstreetmap.org/way/692788843,2026-10-19T11:52:23+00:00,meknes,football stadium
+osm:way/737011168,osm:way/737011168,football,,33.9041651,-5.5375306,hard,1,,32.9,12.4,5v5,,,https://www.openstreetmap.org/way/737011168,2026-10-19T11:52:23+00:00,meknes,
+osm:way/737405535,osm:way/737011168,football,,33.9044227,-5.5376563,hard,1,,21.5,12.1,5v5,,,https://www.openstreetmap.org/way/737405535,2026-10-19T11:52:23+00:00,meknes,
+osm:way/739527404,osm:way/739527404,football,Lafayette,33.9005365,-5.5451941,artificial_turf,1,,42.9,21.3,5v5,permit,,https://www.openstreetmap.org/way/739527404,2026-10-19T11:52:23+00:00,meknes,Lafayette
+osm:way/836919407,osm:way/839923964,football,,33.8668427,-5.5222008,,,,37.5,17.3,5v5,,,https://www.openstreetmap.org/way/836919407,2026-10-19T11:52:23+00:00,meknes,Club RADEM
+osm:way/840520404,osm:way/840520404,football,,33.8993177,-5.5602057,,,,42.2,21.8,5v5,,,https://www.openstreetmap.org/way/840520404,2026-10-19T11:52:23+00:00,meknes,
+osm:way/840522062,osm:way/840522062,football,,33.8995634,-5.5611319,,,,40.9,21.2,5v5,,,https://www.openstreetmap.org/way/840522062,2026-10-19T11:52:23+00:00,meknes,
+osm:way/840522517,osm:way/840522062,football,,33.8992274,-5.561559,,,,41.9,19.9,5v5,,,https://www.openstreetmap.org/way/840522517,2026-10-19T11:52:23+00:00,meknes,
+osm:way/840523174,osm:way/840523174,football,,33.8985383,-5.5593338,,,,29.0,14.2,5v5,,,https://www.openstreetmap.org/way/840523174,2026-10-19T11:52:23+00:00,meknes,
+osm:way/1281328870,osm:way/1281328870,football,stade Al Andalouss,34.6591786,-1.8857604,hard,0,,45.1,36.5,5v5,permissive,,https://www.openstreetmap.org/way/1281328870,2026-10-19T11:52:24+00:00,oujda,stade Al Andalouss
+osm:way/1281329587,osm:way/1281329587,football,,34.6489951,-1.9090755,,,,48.4,25.1,5v5,,,https://www.openstreetmap.org/way/1281329587,2026-10-19T11:52:24+00:00,oujda,
+osm:way/1281342651,osm:way/1281342651,football,espace enfant,34.6596784,-1.8995042,hard,,,110.5,62.0,11v11,yes,,https://www.openstreetmap.org/way/1281342651,2026-10-19T11:52:24+00:00,oujda,espace enfant
+osm:way/1320333014,osm:way/1320333014,football,Zaytouna,34.6882599,-1.8919144,,,,56.1,38.6,7v7,,,https://www.openstreetmap.org/way/1320333014,2026-10-19T11:52:24+00:00,oujda,Zaytouna
+osm:way/321228727,osm:way/146650873,football,,34.6596066,-1.9344602,,1,,99.7,71.2,11v11,,,https://www.openstreetmap.org/way/321228727,2026-10-19T11:52:24+00:00,oujda,Stade d’Honneur
+osm:way/320121923,osm:way/290067198,football,,34.6749894,-1.9152629,,,,41.3,21.5,5v5,,,https://www.openstreetmap.org/way/320121923,2026-10-19T11:52:24+00:00,oujda,Lycée Zineb Ennafzaouia
+osm:way/324041017,osm:way/291680316,football,,34.6858312,-1.8792229,,,,38.2,19.9,5v5,,,https://www.openstreetmap.org/way/324041017,2026-10-19T11:52:24+00:00,oujda,Lycée Oued Eddahab
+osm:way/446923104,osm:way/292337082,football,,34.6621377,-1.9350081,,,,105.4,65.6,11v11,,,https://www.openstreetmap.org/way/446923104,2026-10-19T11:52:24+00:00,oujda,Complexe Moulay el-Hassan
+osm:way/319650156,osm:way/292490755,football,,34.6734005,-1.9310645,,,,125.5,79.2,11v11,,,https://www.openstreetmap.org/way/319650156,2026-10-19T11:52:24+00:00,oujda,Centre Socio-Culturel Et Sportif
+osm:way/319789404,osm:way/294607293,football,,34.6753743,-1.9415768,,,,40.1,19.8,5v5,,,https://www.openstreetmap.org/way/319789404,2026-10-19T11:52:24+00:00,oujda,École Imam Ali
+osm:way/319947085,osm:way/294607294,football,,34.6718544,-1.9447344,,,,42.2,19.8,5v5,,,https://www.openstreetmap.org/way/319947085,2026-10-19T11:52:24+00:00,oujda,École Mokhtar Soussi
+osm:way/306018705,osm:way/306018705,football,,34.7230539,-1.912784,,,,88.3,56.4,9v9,,,https://www.openstreetmap.org/way/306018705,2026-10-19T11:52:24+00:00,oujda,
+osm:way/315947153,osm:way/315947153,football,,34.6931636,-1.8754351,artificial_turf,,,71.1,30.3,7v7,,,https://www.openstreetmap.org/way/315947153,2026-10-19T11:52:24+00:00,oujda,
+osm:way/322167522,osm:way/316633854,football,,34.6589983,-1.9077859,,,,46.1,22.7,5v5,,,https://www.openstreetmap.org/way/322167522,2026-10-19T11:52:24+00:00,oujda,Lycée Abid Al Jabiri
+osm:way/321016250,osm:way/321016250,football,,34.6582443,-1.9172085,,,,47.7,25.0,5v5,,,https://www.openstreetmap.org/way/321016250,2026-10-19T11:52:24+00:00,oujda,
+osm:way/322579348,osm:way/322579358,football,,34.6857367,-1.9053611,,,,114.4,70.2,11v11,,,https://www.openstreetmap.org/way/322579348,2026-10-19T11:52:24+00:00,oujda,Stade Municipal
+osm:way/627035966,osm:way/627035966,football,,34.713514,-1.9203645,,,,44.5,25.1,5v5,,,https://www.openstreetmap.org/way/627035966,2026-10-19T11:52:24+00:00,oujda,
+osm:way/1358524449,osm:relation/18553604,football,Jean Zaganiaris,33.9895828,-6.8451641,,,,48.8,45.5,5v5,,,https://www.openstreetmap.org/way/1358524449,2026-10-19T11:52:23+00:00,rabat,Lycée Descartes
+osm:way/1020625462,osm:way/1004398244,football,,33.9755459,-6.8842872,,,,37.7,19.3,5v5,,,https://www.openstreetmap.org/way/1020625462,2026-10-19T11:52:23+00:00,rabat,Middle School Abdelaziz Dinia
+osm:way/1006957919,osm:way/1006957919,football,ملاعب القرب المسيرة,33.9691009,-6.893243,grass,1,,44.3,23.3,5v5,,,https://www.openstreetmap.org/way/1006957919,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب المسيرة
+osm:way/1567467619,osm:way/1007076960,football,,33.9835898,-6.876158,,,,26.4,17.2,5v5,,,https://www.openstreetmap.org/way/1567467619,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1567467620,osm:way/1007076960,football,,33.9833651,-6.8763288,,,,26.4,17.2,5v5,,,https://www.openstreetmap.org/way/1567467620,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1007076963,osm:way/1007076965,football,ملاعب القرب القامرة,33.9889345,-6.8719945,,,,24.5,16.1,5v5,,,https://www.openstreetmap.org/way/1007076963,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1007076964,osm:way/1007076965,football,ملاعب القرب القامرة,33.9891393,-6.8718354,,,,24.5,16.1,5v5,,,https://www.openstreetmap.org/way/1007076964,2026-10-19T11:52:23+00:00,rabat,
+osm:way/288180520,osm:way/1009318321,football,,33.9724721,-6.8775747,hard,,,91.6,46.7,11v11,,,https://www.openstreetmap.org/way/288180520,2026-10-19T11:52:23+00:00,rabat,الحي الجامعي الدولي
+osm:way/1014619928,osm:way/1014619931,football,,33.9801852,-6.8686868,dirt,,,92.3,55.9,11v11,private,,https://www.openstreetmap.org/way/1014619928,2026-10-19T11:52:23+00:00,rabat,Institut national des postes et télécommunications - INPT
+osm:way/279312916,osm:way/1015850456,football,,33.9726775,-6.8764431,,,,51.9,30.7,7v7,,,https://www.openstreetmap.org/way/279312916,2026-10-19T11:52:23+00:00,rabat,Club Crédit Agricole
+osm:way/280112920,osm:way/1016620569,football,,33.9653002,-6.8782769,,,,43.3,19.6,5v5,,,https://www.openstreetmap.org/way/280112920,2026-10-19T11:52:23+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/1016936269,osm:way/1016936271,football,,34.005084,-6.8431162,,,,40.9,20.4,5v5,,,https://www.openstreetmap.org/way/1016936269,2026-10-19T11:52:23+00:00,rabat,Club du Ministère de l'Intérieur - Les Caids
+osm:way/989224806,osm:way/1019990715,football,,33.9793077,-6.8786527,,,,44.3,24.7,5v5,,,https://www.openstreetmap.org/way/989224806,2026-10-19T11:52:23+00:00,rabat,إعدادية سيدي المدني بلحسني
+osm:way/989224807,osm:way/1019990715,football,,33.979086,-6.8788316,,,,44.3,24.7,5v5,,,https://www.openstreetmap.org/way/989224807,2026-10-19T11:52:23+00:00,rabat,إعدادية سيدي المدني بلحسني
+osm:way/1019990712,osm:way/1024230903,football,,33.978329,-6.8783245,,,,39.1,20.3,5v5,,,https://www.openstreetmap.org/way/1019990712,2026-10-19T11:52:23+00:00,rabat,Abdellah Gennoune High School
+osm:way/279311852,osm:way/1028801334,football,,33.9655468,-6.8999289,,,,39.4,18.8,5v5,,,https://www.openstreetmap.org/way/279311852,2026-10-19T11:52:23+00:00,rabat,Abi Dar Al Ghaffari High School
+osm:way/1028801336,osm:way/1028801336,football,ملاعب القرب الحزام الاخضر,33.9645515,-6.9003866,grass,1,,47.2,20.2,5v5,,,https://www.openstreetmap.org/way/1028801336,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب الحزام الاخضر
+osm:way/1029252121,osm:way/1029252121,football,,33.9924603,-6.8750256,,,,40.9,22.0,5v5,,,https://www.openstreetmap.org/way/1029252121,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1033576701,osm:way/1033576701,football,ملاعب القرب كراكشو,33.9682828,-6.8854717,grass,1,,51.9,29.4,7v7,permit,,https://www.openstreetmap.org/way/1033576701,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب كراكشو
+osm:way/1033576705,osm:way/1033576701,football,ملاعب القرب كراكشو,33.9682248,-6.8858131,hard,1,,16.5,9.6,5v5,yes,,https://www.openstreetmap.org/way/1033576705,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب كراكشو
+osm:way/768587434,osm:way/1033576701,football,,33.9685918,-6.8850664,,,,72.0,49.0,9v9,,,https://www.openstreetmap.org/way/768587434,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب كراكشو
+osm:way/1039570724,osm:way/1039570724,football,,33.9910839,-6.8639331,grass,1,,89.6,54.3,9v9,,,https://www.openstreetmap.org/way/1039570724,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1039576759,osm:way/1039576759,football,,33.9877223,-6.8615656,hard,,,44.1,23.2,5v5,,,https://www.openstreetmap.org/way/1039576759,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1076050939,osm:way/1076050939,football,,34.0243969,-6.8517837,artificial_turf,1,,40.4,19.9,5v5,,,https://www.openstreetmap.org/way/1076050939,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1076050940,osm:way/1076050940,football,,34.0238129,-6.8523665,artificial_turf,,,26.3,14.8,5v5,,,https://www.openstreetmap.org/way/1076050940,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278076740,osm:way/1076050940,football,,34.0233042,-6.8526246,,,,26.4,15.1,5v5,,,https://www.openstreetmap.org/way/1278076740,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278076741,osm:way/1076050940,football,,34.0235599,-6.8524982,,,,26.4,14.7,5v5,,,https://www.openstreetmap.org/way/1278076741,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1085659598,osm:way/1085659597,football,,33.973337,-6.8656272,,,,104.7,64.5,11v11,,,https://www.openstreetmap.org/way/1085659598,2026-10-19T11:52:23+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1085659600,osm:way/1085659597,football,,33.9727014,-6.8666194,,,,43.1,22.3,5v5,,,https://www.openstreetmap.org/way/1085659600,2026-10-19T11:52:23+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/284276078,osm:way/1085659597,football,,33.9715858,-6.8674303,,,,69.5,46.2,7v7,,,https://www.openstreetmap.org/way/284276078,2026-10-19T11:52:23+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666474,osm:way/1085659597,football,,33.9779535,-6.8627934,,,,82.4,49.7,9v9,,,https://www.openstreetmap.org/way/288666474,2026-10-19T11:52:23+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/288666483,osm:way/1085659597,football,,33.9756121,-6.8638069,,,,50.8,30.6,7v7,,,https://www.openstreetmap.org/way/288666483,2026-10-19T11:52:23+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1122412003,osm:way/1102701204,football,,33.9930992,-6.8654074,,,,40.9,20.9,5v5,,,https://www.openstreetmap.org/way/1122412003,2026-10-19T11:52:23+00:00,rabat,Lycée Abdelkrim Al Khattabi
+osm:way/1278125637,osm:way/1105271839,football,,33.9739808,-6.8241383,,,,89.9,46.6,9v9,,,https://www.openstreetmap.org/way/1278125637,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1124809011,osm:way/1124809011,football,,33.9910814,-6.8646246,,,,42.1,24.3,5v5,,,https://www.openstreetmap.org/way/1124809011,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278803201,osm:way/1124809011,football,,33.9912418,-6.8648233,,,,42.1,23.6,5v5,,,https://www.openstreetmap.org/way/1278803201,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1145108162,osm:way/1145108162,football,,33.9998846,-6.8241978,,,,80.6,40.1,9v9,,,https://www.openstreetmap.org/way/1145108162,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1145108163,osm:way/1145108163,football,,34.0005266,-6.8237119,,,,43.5,22.2,5v5,,,https://www.openstreetmap.org/way/1145108163,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1101943086,osm:way/1176279253,football,,34.0196797,-6.8290507,,,,61.2,33.3,7v7,,,https://www.openstreetmap.org/way/1101943086,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1271188958,osm:way/1271188958,football,,34.012323,-6.8596906,,,,35.6,20.0,5v5,,,https://www.openstreetmap.org/way/1271188958,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1275321522,osm:way/1275321522,football,,33.9705567,-6.8173514,,,,27.2,17.6,5v5,,,https://www.openstreetmap.org/way/1275321522,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1275321523,osm:way/1275321522,football,,33.9707936,-6.8170964,,,,27.5,17.8,5v5,,,https://www.openstreetmap.org/way/1275321523,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1275321526,osm:way/1275321522,football,,33.9710271,-6.8168551,,,,27.5,17.8,5v5,,,https://www.openstreetmap.org/way/1275321526,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1275321525,osm:way/1275321525,football,,33.9716365,-6.8161011,,,,40.5,20.7,5v5,,,https://www.openstreetmap.org/way/1275321525,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277758380,osm:way/1277758380,football,,33.9810983,-6.8205769,,,,28.8,14.5,5v5,,,https://www.openstreetmap.org/way/1277758380,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277758384,osm:way/1277758384,football,,33.982581,-6.8150901,,,,39.4,19.9,5v5,,,https://www.openstreetmap.org/way/1277758384,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277758385,osm:way/1277758384,football,,33.9824979,-6.815437,,,,39.7,19.7,5v5,,,https://www.openstreetmap.org/way/1277758385,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277758404,osm:way/1277758404,football,,33.9861655,-6.808915,,,,36.5,20.3,5v5,,,https://www.openstreetmap.org/way/1277758404,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277777534,osm:way/1277777534,football,,33.9892145,-6.8005525,,,,40.2,21.2,5v5,,,https://www.openstreetmap.org/way/1277777534,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1277777541,osm:way/1277777541,football,,33.9878274,-6.7987458,,,,40.4,21.5,5v5,,,https://www.openstreetmap.org/way/1277777541,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278125040,osm:way/1278085349,football,,33.9952349,-6.8367047,,,,40.0,23.3,5v5,,,https://www.openstreetmap.org/way/1278125040,2026-10-19T11:52:23+00:00,rabat,Parc Hassan II
+osm:way/1278125041,osm:way/1278085349,football,,33.9951182,-6.836244,,,,40.3,23.1,5v5,,,https://www.openstreetmap.org/way/1278125041,2026-10-19T11:52:23+00:00,rabat,Parc Hassan II
+osm:way/1278125042,osm:way/1278085349,football,,33.9948583,-6.8356082,,,,53.4,31.0,7v7,,,https://www.openstreetmap.org/way/1278125042,2026-10-19T11:52:23+00:00,rabat,Parc Hassan II
+osm:way/704608876,osm:way/1278085349,football,,33.9946851,-6.8366076,,,,40.0,23.8,5v5,,,https://www.openstreetmap.org/way/704608876,2026-10-19T11:52:23+00:00,rabat,Parc Hassan II
+osm:way/642321365,osm:way/1278100945,football,,34.0254186,-6.8320897,,,,39.7,19.7,5v5,,,https://www.openstreetmap.org/way/642321365,2026-10-19T11:52:23+00:00,rabat,
+osm:way/642321366,osm:way/1278100945,football,,34.0251821,-6.8324827,,,,39.7,20.0,5v5,,,https://www.openstreetmap.org/way/642321366,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278800083,osm:way/1278748285,football,,33.9868172,-6.8415633,,,,43.6,24.1,5v5,,,https://www.openstreetmap.org/way/1278800083,2026-10-19T11:52:23+00:00,rabat,Forêt urbaine Ibn Sina
+osm:way/1278800084,osm:way/1278748285,football,,33.9866169,-6.8414187,,,,43.8,24.3,5v5,,,https://www.openstreetmap.org/way/1278800084,2026-10-19T11:52:23+00:00,rabat,Forêt urbaine Ibn Sina
+osm:way/1278800085,osm:way/1278748285,football,,33.9864162,-6.8412717,,,,43.9,24.1,5v5,,,https://www.openstreetmap.org/way/1278800085,2026-10-19T11:52:23+00:00,rabat,Forêt urbaine Ibn Sina
+osm:way/1278800086,osm:way/1278748285,football,,33.9868198,-6.8408247,,,,95.3,50.0,11v11,,,https://www.openstreetmap.org/way/1278800086,2026-10-19T11:52:23+00:00,rabat,Forêt urbaine Ibn Sina
+osm:way/1278800087,osm:way/1278748285,football,,33.9872266,-6.840174,,,,110.8,73.2,11v11,,,https://www.openstreetmap.org/way/1278800087,2026-10-19T11:52:23+00:00,rabat,Forêt urbaine Ibn Sina
+osm:way/700037726,osm:way/1278799296,football,,33.996273,-6.8796279,artificial_turf,1,,41.9,23.7,5v5,,,https://www.openstreetmap.org/way/700037726,2026-10-19T11:52:23+00:00,rabat,
+osm:way/280548113,osm:way/1368373354,football,,33.9597843,-6.8890158,عشب_هجين,1,1,101.1,68.8,11v11,,,https://www.openstreetmap.org/way/280548113,2026-10-19T11:52:23+00:00,rabat,Stade Prince Moulay Abdellah
+osm:way/1384294472,osm:way/1388989248,football,,33.9571472,-6.8910858,,,,108.1,68.5,11v11,,,https://www.openstreetmap.org/way/1384294472,2026-10-19T11:52:23+00:00,rabat,Stade Olympique de Rabat الملعب الأولمبي بالرباط
+osm:way/1444393267,osm:way/1444393267,football,,33.9584594,-6.894916,,,,105.0,66.7,11v11,,,https://www.openstreetmap.org/way/1444393267,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1446396141,osm:way/1446396143,football,,34.0052628,-6.8450102,,,,109.5,70.7,11v11,,,https://www.openstreetmap.org/way/1446396141,2026-10-19T11:52:23+00:00,rabat,Stade Al Barid
+osm:way/1460539550,osm:way/1460539550,football,,33.9984716,-6.8099266,,,,41.6,21.6,5v5,,,https://www.openstreetmap.org/way/1460539550,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1279312966,osm:way/152610309,football,,33.984201,-6.8588356,,,,43.5,21.3,5v5,,,https://www.openstreetmap.org/way/1279312966,2026-10-19T11:52:23+00:00,rabat,كلية الطب والصيدلة بالرباط
+osm:way/1279312968,osm:way/152610309,football,,33.983634,-6.8587557,,,,39.4,24.8,5v5,,,https://www.openstreetmap.org/way/1279312968,2026-10-19T11:52:23+00:00,rabat,كلية الطب والصيدلة بالرباط
+osm:way/1279312969,osm:way/152610309,football,,33.9833385,-6.8583197,,,,41.6,21.5,5v5,,,https://www.openstreetmap.org/way/1279312969,2026-10-19T11:52:23+00:00,rabat,كلية الطب والصيدلة بالرباط
+osm:way/152713271,osm:way/152713271,football,,33.9632577,-6.8571581,,,,52.7,31.3,7v7,,,https://www.openstreetmap.org/way/152713271,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1552573708,osm:way/1552573708,football,,33.9183775,-6.8224918,,,,43.6,25.7,5v5,permit,,https://www.openstreetmap.org/way/1552573708,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1278800069,osm:way/172517763,football,,33.9874466,-6.845942,,,,40.0,24.5,5v5,,,https://www.openstreetmap.org/way/1278800069,2026-10-19T11:52:23+00:00,rabat,Parc Ibn Sina
+osm:way/1278800070,osm:way/172517763,football,,33.9871813,-6.8464409,,,,45.7,28.9,5v5,,,https://www.openstreetmap.org/way/1278800070,2026-10-19T11:52:23+00:00,rabat,Parc Ibn Sina
+osm:way/897884286,osm:way/172517763,football,,33.9860986,-6.8472059,artificial_turf,,,40.5,22.6,5v5,,,https://www.openstreetmap.org/way/897884286,2026-10-19T11:52:23+00:00,rabat,Parc Ibn Sina
+osm:way/236052772,osm:way/237086178,football,,34.0099059,-6.8402581,,,,126.9,88.9,11v11,,,https://www.openstreetmap.org/way/236052772,2026-10-19T11:52:23+00:00,rabat,Fus
+osm:way/241288378,osm:way/241288378,football,,33.9774926,-6.8844983,,,,102.2,62.5,11v11,,,https://www.openstreetmap.org/way/241288378,2026-10-19T11:52:23+00:00,rabat,
+osm:way/893788002,osm:way/250473722,football,,33.9924247,-6.8505001,,,,65.7,39.8,7v7,,,https://www.openstreetmap.org/way/893788002,2026-10-19T11:52:23+00:00,rabat,Club Belle-Vue
+osm:way/253239857,osm:way/253239857,football,,33.9622294,-6.893045,,,,108.2,74.6,11v11,,,https://www.openstreetmap.org/way/253239857,2026-10-19T11:52:23+00:00,rabat,
+osm:way/283729982,osm:way/283729982,football,Complexe sportif Al Mamoun (ex-terrain PEX),34.0189898,-6.8509417,grass,,,102.9,67.6,11v11,yes,,https://www.openstreetmap.org/way/283729982,2026-10-19T11:52:23+00:00,rabat,Complexe sportif Al Mamoun (ex-terrain PEX)
+osm:way/1278725801,osm:way/288715998,football,,33.9927171,-6.8638692,,,,44.3,22.8,5v5,,,https://www.openstreetmap.org/way/1278725801,2026-10-19T11:52:23+00:00,rabat,Kamra Park
+osm:way/1460540455,osm:way/297867803,football,,34.0071182,-6.8395789,,,,50.5,32.8,7v7,,,https://www.openstreetmap.org/way/1460540455,2026-10-19T11:52:23+00:00,rabat,stade marocain
+osm:way/298284719,osm:way/298284719,football,,33.9695867,-6.8842497,,,,109.7,74.6,11v11,,,https://www.openstreetmap.org/way/298284719,2026-10-19T11:52:23+00:00,rabat,
+osm:way/298284720,osm:way/298284720,football,,33.9709034,-6.8829469,grass,,,111.0,75.0,11v11,,,https://www.openstreetmap.org/way/298284720,2026-10-19T11:52:23+00:00,rabat,
+osm:way/298284721,osm:way/298284721,football,,33.9701836,-6.8834982,,,,113.1,74.9,11v11,,,https://www.openstreetmap.org/way/298284721,2026-10-19T11:52:23+00:00,rabat,
+osm:way/298284722,osm:way/298284722,football,,33.9690228,-6.8845249,,,,106.7,72.7,11v11,,,https://www.openstreetmap.org/way/298284722,2026-10-19T11:52:23+00:00,rabat,
+osm:way/449346483,osm:way/301928494,football,,34.0057592,-6.8648166,grass,,,98.7,69.4,11v11,permissive,,https://www.openstreetmap.org/way/449346483,2026-10-19T11:52:23+00:00,rabat,Stade Yacoub Al Mansour
+osm:way/1278484100,osm:way/42305066,football,,34.020251,-6.8196927,,,,30.9,17.8,5v5,,,https://www.openstreetmap.org/way/1278484100,2026-10-19T11:52:23+00:00,rabat,Place du 16 Novembre
+osm:way/165721872,osm:way/454716405,football,Terrain del Koora,34.0001449,-6.8528684,sand,1,,159.2,74.2,,,,https://www.openstreetmap.org/way/165721872,2026-10-19T11:52:23+00:00,rabat,École Mohammadia d'Ingénieurs
+osm:way/1279639496,osm:way/590853805,football,,33.9818695,-6.8108596,,,,43.5,22.3,5v5,,,https://www.openstreetmap.org/way/1279639496,2026-10-19T11:52:23+00:00,rabat,
+osm:way/590853803,osm:way/590853805,football,,33.9818472,-6.8111675,,,,43.5,22.3,5v5,,,https://www.openstreetmap.org/way/590853803,2026-10-19T11:52:23+00:00,rabat,
+osm:way/590853807,osm:way/590853807,football,,33.9869744,-6.798565,,,,77.5,37.9,9v9,,,https://www.openstreetmap.org/way/590853807,2026-10-19T11:52:23+00:00,rabat,
+osm:way/590853872,osm:way/590853872,football,,33.9437979,-6.805506,,,,94.9,58.3,11v11,,,https://www.openstreetmap.org/way/590853872,2026-10-19T11:52:23+00:00,rabat,
+osm:way/590875970,osm:way/590875970,football,,33.9269642,-6.8407361,,,,105.5,65.2,11v11,,,https://www.openstreetmap.org/way/590875970,2026-10-19T11:52:23+00:00,rabat,
+osm:way/642321363,osm:way/642321363,football,,34.0247035,-6.8344788,,,,40.0,20.1,5v5,,,https://www.openstreetmap.org/way/642321363,2026-10-19T11:52:23+00:00,rabat,
+osm:way/642321364,osm:way/642321363,football,,34.0244804,-6.8343883,,,,39.9,20.3,5v5,,,https://www.openstreetmap.org/way/642321364,2026-10-19T11:52:23+00:00,rabat,
+osm:way/668373833,osm:way/668373833,football,Al Hilal stadium,33.998041,-6.866138,grass,,,94.1,51.9,11v11,,,https://www.openstreetmap.org/way/668373833,2026-10-19T11:52:23+00:00,rabat,Al Hilal stadium
+osm:way/1278481441,osm:way/684390230,football,,33.9743018,-6.8191889,,,,40.2,19.4,5v5,,,https://www.openstreetmap.org/way/1278481441,2026-10-19T11:52:23+00:00,rabat,Lycée Moulay Abdallah
+osm:way/700036610,osm:way/700036610,football,,34.005543,-6.8690669,,,,67.9,37.0,7v7,,,https://www.openstreetmap.org/way/700036610,2026-10-19T11:52:23+00:00,rabat,
+osm:way/700036611,osm:way/700036611,football,,34.0052005,-6.8684769,,,,40.4,23.3,5v5,,,https://www.openstreetmap.org/way/700036611,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1275293938,osm:way/745643954,football,,33.9749545,-6.814544,grass,,,42.6,21.8,5v5,,,https://www.openstreetmap.org/way/1275293938,2026-10-19T11:52:23+00:00,rabat,École Allah Al-Ghazali
+osm:way/768587433,osm:way/768587433,football,,33.9713354,-6.8824508,grass,,,116.7,74.4,11v11,,,https://www.openstreetmap.org/way/768587433,2026-10-19T11:52:23+00:00,rabat,
+osm:way/929012285,osm:way/929012285,football,ملاعب القرب حي الفتح,33.9702344,-6.8977339,grass,1,,42.5,23.5,5v5,,,https://www.openstreetmap.org/way/929012285,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/929012286,osm:way/929012285,football,ملاعب القرب حي الفتح,33.9700264,-6.8983333,grass,1,,44.7,24.8,5v5,,,https://www.openstreetmap.org/way/929012286,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/939755894,osm:way/939755894,football,,34.0019849,-6.8136518,,,,40.1,23.2,5v5,,,https://www.openstreetmap.org/way/939755894,2026-10-19T11:52:23+00:00,rabat,
+osm:way/975731688,osm:way/975653139,football,,33.9738897,-6.8999903,,,,93.0,53.8,11v11,,,https://www.openstreetmap.org/way/975731688,2026-10-19T11:52:23+00:00,rabat,Ecole américaine de Rabat
+osm:way/975731683,osm:way/975653140,football,,33.9726409,-6.9019704,grass,1,,70.1,38.7,7v7,permissive,,https://www.openstreetmap.org/way/975731683,2026-10-19T11:52:23+00:00,rabat,الثانوية التأهيلية حمان الفطواكي
+osm:way/975731684,osm:way/975653140,football,,33.9726219,-6.901266,,,,43.7,23.6,5v5,,,https://www.openstreetmap.org/way/975731684,2026-10-19T11:52:23+00:00,rabat,الثانوية التأهيلية حمان الفطواكي
+osm:way/280115730,osm:way/975657108,football,,33.9694796,-6.8800068,,,,32.3,13.6,5v5,,,https://www.openstreetmap.org/way/280115730,2026-10-19T11:52:23+00:00,rabat,Club Narjisse
+osm:way/985286884,osm:way/985286884,football,ملاعب القرب حي الفتح,33.9696797,-6.9095335,grass,,,44.3,25.0,5v5,,,https://www.openstreetmap.org/way/985286884,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/985286885,osm:way/985286884,football,ملاعب القرب حي الفتح,33.969873,-6.9092982,grass,,,43.7,24.4,5v5,,,https://www.openstreetmap.org/way/985286885,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/987232940,osm:way/987232937,football,,34.0119708,-6.8338291,,,,39.2,18.0,5v5,,,https://www.openstreetmap.org/way/987232940,2026-10-19T11:52:23+00:00,rabat,Lycée Moulay Youssef
+osm:way/988060618,osm:way/988060618,football,,34.0037675,-6.8676671,,,,41.6,19.9,5v5,,,https://www.openstreetmap.org/way/988060618,2026-10-19T11:52:23+00:00,rabat,
+osm:way/988060619,osm:way/988060618,football,,34.0036022,-6.8674972,,,,41.6,19.9,5v5,,,https://www.openstreetmap.org/way/988060619,2026-10-19T11:52:23+00:00,rabat,
+osm:way/988060624,osm:way/988060624,football,ملاعب القرب,33.9857492,-6.891414,grass,1,,47.0,24.5,5v5,,,https://www.openstreetmap.org/way/988060624,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب
+osm:way/988060625,osm:way/988060625,football,ملاعب القرب,33.9864211,-6.8906801,grass,1,,46.9,24.7,5v5,,,https://www.openstreetmap.org/way/988060625,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب
+osm:way/989202948,osm:way/989202948,football,,33.9758449,-6.8238355,grass,,,115.4,76.7,11v11,,,https://www.openstreetmap.org/way/989202948,2026-10-19T11:52:23+00:00,rabat,
+osm:way/989205366,osm:way/989205366,football,,33.9772959,-6.8226064,grass,,,44.5,24.2,5v5,,,https://www.openstreetmap.org/way/989205366,2026-10-19T11:52:23+00:00,rabat,
+osm:way/989205367,osm:way/989205366,football,,33.9770475,-6.8225539,grass,,,44.5,24.2,5v5,,,https://www.openstreetmap.org/way/989205367,2026-10-19T11:52:23+00:00,rabat,
+osm:way/989224803,osm:way/989224803,football,ملاعب القرب,33.98891,-6.8089336,,,,39.4,23.7,5v5,,,https://www.openstreetmap.org/way/989224803,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب
+osm:way/989224804,osm:way/989224803,football,ملاعب القرب,33.9884589,-6.8092156,,,,43.2,25.6,5v5,,,https://www.openstreetmap.org/way/989224804,2026-10-19T11:52:23+00:00,rabat,ملاعب القرب
+osm:way/989237783,osm:way/989237783,football,,33.9985323,-6.8667274,,,,41.5,22.2,5v5,,,https://www.openstreetmap.org/way/989237783,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1279304705,osm:way/989241123,football,,33.9850084,-6.8675867,,,,82.8,48.0,9v9,,,https://www.openstreetmap.org/way/1279304705,2026-10-19T11:52:23+00:00,rabat,École nationale supérieure d'informatique et d'analyse des systèmes
+osm:way/990426207,osm:way/990426207,football,,33.9552128,-6.8890535,,,,27.5,15.8,5v5,,,https://www.openstreetmap.org/way/990426207,2026-10-19T11:52:23+00:00,rabat,
+osm:way/990426208,osm:way/990426207,football,,33.9551534,-6.8888887,,,,27.4,15.8,5v5,,,https://www.openstreetmap.org/way/990426208,2026-10-19T11:52:23+00:00,rabat,
+osm:way/990426209,osm:way/990426209,football,,33.9547616,-6.8882998,,,,27.4,15.8,5v5,,,https://www.openstreetmap.org/way/990426209,2026-10-19T11:52:23+00:00,rabat,
+osm:way/990426210,osm:way/990426209,football,,33.954883,-6.8881751,,,,27.5,15.8,5v5,,,https://www.openstreetmap.org/way/990426210,2026-10-19T11:52:23+00:00,rabat,
+osm:way/1300414198,osm:way/1099327581,football,,35.7847822,-5.8371939,,,,75.7,38.9,9v9,,,https://www.openstreetmap.org/way/1300414198,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1300414261,osm:way/1099327581,football,,35.7846123,-5.8379468,,,,44.1,24.1,5v5,,,https://www.openstreetmap.org/way/1300414261,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1532390607,osm:way/1099327581,football,,35.7866173,-5.834964,,,,49.6,25.6,5v5,,,https://www.openstreetmap.org/way/1532390607,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1225627221,osm:way/1225627221,football,الهرارش;ملعب الهرارش,35.7746798,-5.7392388,,,,103.6,53.8,11v11,yes,,https://www.openstreetmap.org/way/1225627221,2026-10-19T11:52:23+00:00,tangier,الهرارش;ملعب الهرارش
+osm:way/1225627583,osm:way/1225627583,football,ملعب السانية,35.7773308,-5.7496693,,,,100.7,51.3,11v11,yes,,https://www.openstreetmap.org/way/1225627583,2026-10-19T11:52:23+00:00,tangier,ملعب السانية
+osm:way/1260603824,osm:way/1260603824,football,,35.7806589,-5.7713699,,,,242.9,38.5,,customers,,https://www.openstreetmap.org/way/1260603824,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1260603826,osm:way/1260603824,football,,35.7806411,-5.7713703,,,,39.5,20.9,5v5,customers,,https://www.openstreetmap.org/way/1260603826,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1260603827,osm:way/1260603824,football,,35.7808477,-5.7709348,,,,40.7,19.7,5v5,customers,,https://www.openstreetmap.org/way/1260603827,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1262995674,osm:way/1262995674,football,simis,35.7550447,-5.7915234,artificial_turf,,,49.4,29.9,5v5,,,https://www.openstreetmap.org/way/1262995674,2026-10-19T11:52:23+00:00,tangier,simis
+osm:way/1262995677,osm:way/1262995675,football,,35.7576088,-5.7957036,dirt,,,34.1,23.2,5v5,,,https://www.openstreetmap.org/way/1262995677,2026-10-19T11:52:23+00:00,tangier,atlas
+osm:way/1262995678,osm:way/1262995675,football,,35.7572347,-5.7956281,dirt,,,43.2,21.7,5v5,,,https://www.openstreetmap.org/way/1262995678,2026-10-19T11:52:23+00:00,tangier,atlas
+osm:way/1262995679,osm:way/1262995675,football,,35.7573534,-5.7958498,dirt,,,31.2,19.5,5v5,,,https://www.openstreetmap.org/way/1262995679,2026-10-19T11:52:23+00:00,tangier,atlas
+osm:way/1262995682,osm:way/1262995680,football,,35.7566101,-5.7964249,dirt,,,41.6,21.9,5v5,,,https://www.openstreetmap.org/way/1262995682,2026-10-19T11:52:23+00:00,tangier,abdelmoumen al mouahidin
+osm:way/1263001070,osm:way/1263001070,football,,35.7555277,-5.7756188,,,,48.8,27.3,5v5,,,https://www.openstreetmap.org/way/1263001070,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1263001072,osm:way/1263001072,football,,35.7425464,-5.8020038,,,,43.3,22.4,5v5,,,https://www.openstreetmap.org/way/1263001072,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1263001073,osm:way/1263001072,football,,35.7427382,-5.8022828,,,,38.8,23.1,5v5,,,https://www.openstreetmap.org/way/1263001073,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1263001074,osm:way/1263001072,football,,35.7425976,-5.8024863,,,,41.0,22.0,5v5,,,https://www.openstreetmap.org/way/1263001074,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1263001078,osm:way/1263001078,football,,35.7258807,-5.8070383,,,,46.2,25.5,5v5,,,https://www.openstreetmap.org/way/1263001078,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1265919410,osm:way/1265919410,football,,35.786919,-5.8654886,,,,49.7,26.5,5v5,,,https://www.openstreetmap.org/way/1265919410,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1325501734,osm:way/1325501734,football,,35.7294651,-5.8143873,,,,43.6,21.6,5v5,,,https://www.openstreetmap.org/way/1325501734,2026-10-19T11:52:23+00:00,tangier,
+osm:way/106097640,osm:way/1325632958,football,,35.7658544,-5.8119521,,,,103.1,69.6,11v11,,,https://www.openstreetmap.org/way/106097640,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1325632959,osm:way/1325632959,football,,35.7659601,-5.8110189,,,,49.0,28.1,5v5,,,https://www.openstreetmap.org/way/1325632959,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1326368454,osm:way/1326368454,football,,35.7386979,-5.8796881,,,,51.8,26.5,7v7,,,https://www.openstreetmap.org/way/1326368454,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1327036780,osm:way/1327036780,football,,35.7311819,-5.8897888,,,,97.4,48.0,11v11,,,https://www.openstreetmap.org/way/1327036780,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1446020170,osm:way/1446020170,football,,35.7310798,-5.8958115,,,,43.8,24.6,5v5,,,https://www.openstreetmap.org/way/1446020170,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1446029861,osm:way/1446029861,football,,35.7318878,-5.8970117,,,,42.5,22.4,5v5,,,https://www.openstreetmap.org/way/1446029861,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1446029862,osm:way/1446029861,football,,35.7322281,-5.8969194,,,,42.1,22.3,5v5,,,https://www.openstreetmap.org/way/1446029862,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1466193356,osm:way/1466193356,football,,35.7761955,-5.7894781,,,,45.5,25.4,5v5,,,https://www.openstreetmap.org/way/1466193356,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1033406873,osm:way/1489732623,football,ملعب القرية الرياضية,35.7409399,-5.8543744,,,,109.1,71.1,11v11,yes,,https://www.openstreetmap.org/way/1033406873,2026-10-19T11:52:23+00:00,tangier,Stade Ahmed Al Zaidi
+osm:way/297829991,osm:way/1489744742,football,,35.7436352,-5.8612353,,,,102.7,63.6,11v11,,,https://www.openstreetmap.org/way/297829991,2026-10-19T11:52:23+00:00,tangier,Ziatenne 2 Stadium
+osm:way/387620739,osm:way/1489744742,football,ملعب الزياتن 2,35.7440976,-5.8606903,,,,100.2,63.5,11v11,,,https://www.openstreetmap.org/way/387620739,2026-10-19T11:52:23+00:00,tangier,Ziatenne 2 Stadium
+osm:way/1518301817,osm:way/1518301817,football,,35.7784125,-5.771093,,,,32.6,23.0,5v5,,,https://www.openstreetmap.org/way/1518301817,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1518301823,osm:way/1518301823,football,,35.7803156,-5.7719948,,,,50.0,27.3,7v7,customers,,https://www.openstreetmap.org/way/1518301823,2026-10-19T11:52:23+00:00,tangier,
+osm:way/331931748,osm:way/331931748,football,,35.7568264,-5.7908166,artificial_turf,,,72.7,41.3,9v9,,,https://www.openstreetmap.org/way/331931748,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1265915770,osm:way/411184057,football,ملعب مولاي يوسف,35.7737094,-5.8035715,,,,41.8,21.4,5v5,,,https://www.openstreetmap.org/way/1265915770,2026-10-19T11:52:23+00:00,tangier,Lycée Technique Moulay Youssef
+osm:way/475678355,osm:way/475678355,football,,35.7352626,-5.8247449,,,,109.3,69.1,11v11,,,https://www.openstreetmap.org/way/475678355,2026-10-19T11:52:23+00:00,tangier,
+osm:way/475678803,osm:way/475678803,football,,35.7437659,-5.8225955,,,,44.3,22.3,5v5,,,https://www.openstreetmap.org/way/475678803,2026-10-19T11:52:23+00:00,tangier,
+osm:way/475678804,osm:way/475678803,football,,35.7439837,-5.8226172,,,,44.4,23.2,5v5,,,https://www.openstreetmap.org/way/475678804,2026-10-19T11:52:23+00:00,tangier,
+osm:way/969582808,osm:way/510493867,football,,35.7513603,-5.8065512,,,,46.2,25.1,5v5,,,https://www.openstreetmap.org/way/969582808,2026-10-19T11:52:23+00:00,tangier,Lycée Allal Al Fassi
+osm:way/969582809,osm:way/510493867,football,,35.7509657,-5.806506,,,,45.5,24.2,5v5,,,https://www.openstreetmap.org/way/969582809,2026-10-19T11:52:23+00:00,tangier,Lycée Allal Al Fassi
+osm:way/1202589157,osm:way/511790329,football,,35.7777276,-5.8110944,,,,36.1,18.1,5v5,,,https://www.openstreetmap.org/way/1202589157,2026-10-19T11:52:23+00:00,tangier,Lycée Ibn Battouta
+osm:way/548908375,osm:way/548908375,football,,35.75944,-5.8203247,,,,48.5,29.6,5v5,,,https://www.openstreetmap.org/way/548908375,2026-10-19T11:52:23+00:00,tangier,
+osm:way/581737460,osm:way/581737460,football,,35.759634,-5.8448808,,,,45.7,25.5,5v5,,,https://www.openstreetmap.org/way/581737460,2026-10-19T11:52:23+00:00,tangier,
+osm:way/598420659,osm:way/598420659,football,,35.754727,-5.8559477,,,,57.9,38.3,7v7,,,https://www.openstreetmap.org/way/598420659,2026-10-19T11:52:23+00:00,tangier,
+osm:way/1368376794,osm:way/611766030,football,,35.7411541,-5.8580145,,,,114.7,76.0,11v11,,,https://www.openstreetmap.org/way/1368376794,2026-10-19T11:52:23+00:00,tangier,Grand Stade de Tanger
+osm:way/868244089,osm:way/868244089,football,,35.7698534,-5.7738648,,,,99.1,53.2,11v11,,,https://www.openstreetmap.org/way/868244089,2026-10-19T11:52:23+00:00,tangier,
+osm:way/868244090,osm:way/868244089,football,,35.7699551,-5.7733511,,,,48.9,29.7,5v5,,,https://www.openstreetmap.org/way/868244090,2026-10-19T11:52:23+00:00,tangier,
+osm:way/868244093,osm:way/868244093,football,,35.7677765,-5.8101608,,,,62.4,35.9,7v7,,,https://www.openstreetmap.org/way/868244093,2026-10-19T11:52:23+00:00,tangier,
+osm:way/612661088,osm:way/150999458,football,,35.5727313,-5.3486328,,,,104.6,66.4,11v11,,,https://www.openstreetmap.org/way/612661088,2026-10-19T11:52:24+00:00,tetouan,Stade Saniat Rmel
+osm:node/5224577261,osm:way/539986471,football,,35.5917694,-5.3349144,,,,,,,,,https://www.openstreetmap.org/node/5224577261,2026-10-19T11:52:24+00:00,tetouan,

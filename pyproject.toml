@@ -1,0 +1,26 @@
+[project]
+name = "kickit-crawler"
+version = "0.1.0"
+description = "Crawler that builds the Kick-it database of sports pitches (football, padel, tennis, basketball) in Morocco"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "pillow>=10",
+]
+
+[project.scripts]
+kickit = "kickit_crawler.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/kickit_crawler"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

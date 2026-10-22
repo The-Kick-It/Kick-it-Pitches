@@ -1,0 +1,272 @@
+﻿id,venue_id,sport,name,lat,lon,surface,lit,indoor,length_m,width_m,format,access,fee,source_url,last_seen_at,city,venue_name
+osm:way/711510730,osm:relation/9967841,basketball,,30.4316592,-9.5932373,,,,27.6,14.8,,,,https://www.openstreetmap.org/way/711510730,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1523043576,osm:way/1523043576,basketball,,30.416747,-9.5635819,,,,19.4,12.9,,,,https://www.openstreetmap.org/way/1523043576,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1523043577,osm:way/1523043576,basketball,,30.4166404,-9.563365,,,,30.9,17.5,,,,https://www.openstreetmap.org/way/1523043577,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1523081448,osm:way/1523081448,basketball,,30.4133032,-9.5630558,,,,29.3,15.8,,,,https://www.openstreetmap.org/way/1523081448,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333179,osm:way/1525333179,basketball,,30.4186003,-9.5463136,,,,32.3,18.4,,,,https://www.openstreetmap.org/way/1525333179,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333182,osm:way/1525333179,basketball,,30.4182103,-9.5466425,,,,32.7,32.4,,,,https://www.openstreetmap.org/way/1525333182,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333183,osm:way/1525333179,basketball,,30.4183261,-9.5470762,,,,32.7,32.4,,,,https://www.openstreetmap.org/way/1525333183,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333184,osm:way/1525333179,basketball,,30.41904,-9.5461841,,,,32.7,32.4,,,,https://www.openstreetmap.org/way/1525333184,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333185,osm:way/1525333179,basketball,,30.4192309,-9.5469258,,,,32.7,32.4,,,,https://www.openstreetmap.org/way/1525333185,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525333186,osm:way/1525333179,basketball,,30.4187918,-9.5470798,,,,32.3,18.4,,,,https://www.openstreetmap.org/way/1525333186,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525335583,osm:way/1525335583,basketball,,30.4048843,-9.5357994,,,,28.1,14.9,,,,https://www.openstreetmap.org/way/1525335583,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525335584,osm:way/1525335583,basketball,,30.404879,-9.5359692,,,,28.1,14.9,,,,https://www.openstreetmap.org/way/1525335584,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525335585,osm:way/1525335583,basketball,,30.4048749,-9.5361811,,,,21.1,21.1,,,,https://www.openstreetmap.org/way/1525335585,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525335586,osm:way/1525335583,basketball,,30.4048922,-9.5355897,,,,21.1,21.1,,,,https://www.openstreetmap.org/way/1525335586,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525335587,osm:way/1525335587,basketball,,30.4049478,-9.5342482,,,,21.1,21.1,,,,https://www.openstreetmap.org/way/1525335587,2026-10-19T11:52:32+00:00,agadir,
+osm:way/710487252,osm:way/1526165663,basketball,,30.3978087,-9.5165292,,,,27.9,15.3,,,,https://www.openstreetmap.org/way/710487252,2026-10-19T11:52:32+00:00,agadir,
+osm:way/710487253,osm:way/1526165663,basketball,,30.3986064,-9.5165326,,,,27.5,15.5,,,,https://www.openstreetmap.org/way/710487253,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1537532190,osm:way/1537532190,basketball,,30.4339247,-9.5767849,,,,30.1,18.9,,,,https://www.openstreetmap.org/way/1537532190,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1537681039,osm:way/1537681039,basketball,,30.4365553,-9.5824762,,,,26.0,25.4,,,,https://www.openstreetmap.org/way/1537681039,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1539841106,osm:way/1539841106,basketball,,30.4383652,-9.5668179,,,,30.1,29.9,,,,https://www.openstreetmap.org/way/1539841106,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1539841112,osm:way/1539841112,basketball,,30.4377461,-9.58611,,,,21.4,20.9,,,,https://www.openstreetmap.org/way/1539841112,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525900707,osm:way/173937670,basketball,,30.4208487,-9.5868447,,,,31.6,17.4,,,,https://www.openstreetmap.org/way/1525900707,2026-10-19T11:52:32+00:00,agadir,Jardin Talborjt
+osm:way/1525900708,osm:way/173937670,basketball,,30.4207083,-9.5872213,,,,31.7,16.6,,,,https://www.openstreetmap.org/way/1525900708,2026-10-19T11:52:32+00:00,agadir,Jardin Talborjt
+osm:way/378079511,osm:way/378078283,basketball,,30.405741,-9.5776485,,,,28.5,20.7,,,,https://www.openstreetmap.org/way/378079511,2026-10-19T11:52:32+00:00,agadir,Annexe cité universitaire
+osm:way/709494355,osm:way/378175491,basketball,,30.4069777,-9.5826159,,,,25.7,14.9,,,,https://www.openstreetmap.org/way/709494355,2026-10-19T11:52:32+00:00,agadir,Lycée Technique Al Idrissi
+osm:way/709494356,osm:way/378175491,basketball,,30.4069018,-9.582779,,,,25.5,14.8,,,,https://www.openstreetmap.org/way/709494356,2026-10-19T11:52:32+00:00,agadir,Lycée Technique Al Idrissi
+osm:way/1524474781,osm:way/381147938,basketball,,30.4086229,-9.540884,,,,29.1,15.0,,,,https://www.openstreetmap.org/way/1524474781,2026-10-19T11:52:32+00:00,agadir,Cité universitaire
+osm:way/1525335608,osm:way/381147938,basketball,,30.4058413,-9.5396368,,,,27.9,14.8,,,,https://www.openstreetmap.org/way/1525335608,2026-10-19T11:52:32+00:00,agadir,Cité universitaire
+osm:way/1525335625,osm:way/381147938,basketball,,30.4076352,-9.5397169,,,,26.7,13.5,,,,https://www.openstreetmap.org/way/1525335625,2026-10-19T11:52:32+00:00,agadir,Cité universitaire
+osm:way/660167415,osm:way/381147938,basketball,,30.4087486,-9.5418632,,,,27.9,15.8,,,,https://www.openstreetmap.org/way/660167415,2026-10-19T11:52:32+00:00,agadir,Cité universitaire
+osm:way/1425846022,osm:way/381730952,basketball,,30.4029646,-9.5298223,hard,,,58.0,20.3,,customers,,https://www.openstreetmap.org/way/1425846022,2026-10-19T11:52:32+00:00,agadir,Universiapolis - Université Internationale d'Agadir
+osm:way/708222884,osm:way/381822135,basketball,,30.428708,-9.5849749,,,,30.9,17.4,,,,https://www.openstreetmap.org/way/708222884,2026-10-19T11:52:32+00:00,agadir,Collège MOHAMMED VI
+osm:way/708222885,osm:way/381822135,basketball,,30.4287953,-9.5847471,,,,31.5,17.4,,,,https://www.openstreetmap.org/way/708222885,2026-10-19T11:52:32+00:00,agadir,Collège MOHAMMED VI
+osm:way/708222878,osm:way/381822136,basketball,,30.4289799,-9.586075,,,,27.7,16.8,,,,https://www.openstreetmap.org/way/708222878,2026-10-19T11:52:32+00:00,agadir,Lycée AL MOUTANABI
+osm:way/710479712,osm:way/382305709,basketball,,30.4320365,-9.5958475,,,,23.8,13.6,,,,https://www.openstreetmap.org/way/710479712,2026-10-19T11:52:32+00:00,agadir,Lycée YOUSSEF BNOU TACHFIN
+osm:way/710479713,osm:way/382305709,basketball,,30.4321759,-9.5958655,,,,23.8,13.6,,,,https://www.openstreetmap.org/way/710479713,2026-10-19T11:52:32+00:00,agadir,Lycée YOUSSEF BNOU TACHFIN
+osm:way/710479704,osm:way/382305712,basketball,,30.4341017,-9.5960521,,,,26.7,15.0,,,,https://www.openstreetmap.org/way/710479704,2026-10-19T11:52:32+00:00,agadir,Lycée Lalla Meryem
+osm:way/710479706,osm:way/382305712,basketball,,30.4344278,-9.5968165,,,,26.7,15.0,,,,https://www.openstreetmap.org/way/710479706,2026-10-19T11:52:32+00:00,agadir,Lycée Lalla Meryem
+osm:way/710479707,osm:way/382305712,basketball,,30.4343768,-9.5966524,,,,26.7,15.0,,,,https://www.openstreetmap.org/way/710479707,2026-10-19T11:52:32+00:00,agadir,Lycée Lalla Meryem
+osm:way/714942078,osm:way/382306009,basketball,,30.425204,-9.6005102,,,,29.3,16.1,,,,https://www.openstreetmap.org/way/714942078,2026-10-19T11:52:32+00:00,agadir,Collége Souss Al Alima
+osm:way/714942080,osm:way/382306009,basketball,,30.4253253,-9.6002766,,,,34.0,16.2,,,,https://www.openstreetmap.org/way/714942080,2026-10-19T11:52:32+00:00,agadir,Collége Souss Al Alima
+osm:way/1523081445,osm:way/382309817,basketball,,30.4176115,-9.5681109,,,,30.0,19.4,,,,https://www.openstreetmap.org/way/1523081445,2026-10-19T11:52:32+00:00,agadir,Lycée Abd Al-krime Al-khettabi
+osm:way/1523081446,osm:way/382309817,basketball,,30.4175402,-9.5682649,,,,30.4,16.1,,,,https://www.openstreetmap.org/way/1523081446,2026-10-19T11:52:32+00:00,agadir,Lycée Abd Al-krime Al-khettabi
+osm:way/710495061,osm:way/382315502,basketball,,30.4077193,-9.5861013,,,,24.8,14.2,,,,https://www.openstreetmap.org/way/710495061,2026-10-19T11:52:32+00:00,agadir,Collège MOHAMED CHEIKH SAADI
+osm:way/715572167,osm:way/382973806,basketball,,30.4158684,-9.5605167,,,,31.8,18.8,,,,https://www.openstreetmap.org/way/715572167,2026-10-19T11:52:32+00:00,agadir,إعدادية الفضية
+osm:way/715572169,osm:way/382973806,basketball,,30.4155512,-9.5606797,,,,31.8,18.8,,,,https://www.openstreetmap.org/way/715572169,2026-10-19T11:52:32+00:00,agadir,إعدادية الفضية
+osm:way/384537449,osm:way/384537449,basketball,,30.3769987,-9.5679644,,,,34.2,25.8,,,,https://www.openstreetmap.org/way/384537449,2026-10-19T11:52:32+00:00,agadir,
+osm:way/393243471,osm:way/393243471,basketball,,30.413746,-9.5699178,,,,29.4,19.3,,,,https://www.openstreetmap.org/way/393243471,2026-10-19T11:52:32+00:00,agadir,
+osm:way/395344582,osm:way/395344582,basketball,,30.3803796,-9.5083414,,,,25.8,14.3,,,,https://www.openstreetmap.org/way/395344582,2026-10-19T11:52:32+00:00,agadir,
+osm:way/718183883,osm:way/575982013,basketball,,30.4237287,-9.5979741,,,,31.8,19.1,,,,https://www.openstreetmap.org/way/718183883,2026-10-19T11:52:32+00:00,agadir,Institut français d’Agadir
+osm:way/712520602,osm:way/625301415,basketball,,30.3864984,-9.5750577,,,,28.6,14.7,,,,https://www.openstreetmap.org/way/712520602,2026-10-19T11:52:32+00:00,agadir,Parc Ben Sargao
+osm:way/712520603,osm:way/625301415,basketball,,30.3866543,-9.5749595,,,,28.6,14.7,,,,https://www.openstreetmap.org/way/712520603,2026-10-19T11:52:32+00:00,agadir,Parc Ben Sargao
+osm:way/659482408,osm:way/660521826,basketball,,30.4083859,-9.5616079,,,,29.1,14.1,,,,https://www.openstreetmap.org/way/659482408,2026-10-19T11:52:32+00:00,agadir,Collège Ahmed Chawqi
+osm:way/673001120,osm:way/673001120,basketball,,30.4185422,-9.5589906,,,,30.6,15.4,,,,https://www.openstreetmap.org/way/673001120,2026-10-19T11:52:32+00:00,agadir,
+osm:way/673001121,osm:way/673001120,basketball,,30.4183523,-9.5592561,,,,30.6,15.4,,,,https://www.openstreetmap.org/way/673001121,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711817557,osm:way/675106022,basketball,,30.3899417,-9.5554449,,,,30.1,14.8,,,,https://www.openstreetmap.org/way/711817557,2026-10-19T11:52:32+00:00,agadir,college ibn tofail
+osm:way/708222845,osm:way/677370953,basketball,,30.4271138,-9.5791528,,,,36.1,19.7,,,,https://www.openstreetmap.org/way/708222845,2026-10-19T11:52:32+00:00,agadir,Ecole OMAR IBN AL KHATTAB
+osm:way/708222795,osm:way/708222813,basketball,,30.4247986,-9.5814355,,,,27.6,14.3,,,,https://www.openstreetmap.org/way/708222795,2026-10-19T11:52:32+00:00,agadir,Stade Najah Ihchach
+osm:way/710491631,osm:way/710491631,basketball,,30.4098813,-9.5988473,,,,22.6,12.5,,,,https://www.openstreetmap.org/way/710491631,2026-10-19T11:52:32+00:00,agadir,
+osm:way/710525391,osm:way/710525391,basketball,,30.4144146,-9.5834617,,,,27.8,15.7,,,,https://www.openstreetmap.org/way/710525391,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1453634898,osm:way/710678801,basketball,,30.4130183,-9.5945054,,,,32.5,18.8,,,,https://www.openstreetmap.org/way/1453634898,2026-10-19T11:52:32+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634899,osm:way/710678801,basketball,,30.4124833,-9.5939916,,,,32.0,17.5,,,,https://www.openstreetmap.org/way/1453634899,2026-10-19T11:52:32+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634900,osm:way/710678801,basketball,,30.4123429,-9.593862,,,,32.6,18.7,,,,https://www.openstreetmap.org/way/1453634900,2026-10-19T11:52:32+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/1453634908,osm:way/710678801,basketball,,30.4118293,-9.5933477,,,,30.6,17.9,,,,https://www.openstreetmap.org/way/1453634908,2026-10-19T11:52:32+00:00,agadir,Parc Urbain Al Inbiaat
+osm:way/710678803,osm:way/710678803,basketball,,30.4069256,-9.5963351,,,,25.0,14.4,,,,https://www.openstreetmap.org/way/710678803,2026-10-19T11:52:32+00:00,agadir,
+osm:way/710678824,osm:way/710678824,basketball,,30.3753491,-9.5621648,,,,26.6,14.4,,,,https://www.openstreetmap.org/way/710678824,2026-10-19T11:52:32+00:00,agadir,
+osm:way/710678900,osm:way/710678900,basketball,,30.4019649,-9.5932713,,,,38.5,20.7,,,,https://www.openstreetmap.org/way/710678900,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711334534,osm:way/711334534,basketball,,30.4354068,-9.5933596,,,,28.5,15.0,,,,https://www.openstreetmap.org/way/711334534,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711497196,osm:way/711497196,basketball,,30.4272386,-9.5798987,,,,26.0,11.6,,,,https://www.openstreetmap.org/way/711497196,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1525903071,osm:way/711510726,basketball,,30.4335828,-9.5942453,,,,30.9,18.9,,,,https://www.openstreetmap.org/way/1525903071,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711812966,osm:way/711812966,basketball,,30.41959,-9.5664679,hard,,,24.5,14.5,,,,https://www.openstreetmap.org/way/711812966,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711812983,osm:way/711812983,basketball,,30.4203671,-9.5649048,hard,,,24.5,14.5,,,,https://www.openstreetmap.org/way/711812983,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711812984,osm:way/711812983,basketball,,30.420281,-9.5647355,hard,,,24.5,14.5,,,,https://www.openstreetmap.org/way/711812984,2026-10-19T11:52:32+00:00,agadir,
+osm:way/711813266,osm:way/711813266,basketball,,30.4284622,-9.5660622,hard,,,28.8,17.9,,,,https://www.openstreetmap.org/way/711813266,2026-10-19T11:52:32+00:00,agadir,
+osm:way/712499796,osm:way/712499800,basketball,,30.44618,-9.5592297,,,,28.5,14.2,,,,https://www.openstreetmap.org/way/712499796,2026-10-19T11:52:32+00:00,agadir,
+osm:way/712499797,osm:way/712499800,basketball,,30.4463948,-9.5594367,,,,28.7,14.2,,,,https://www.openstreetmap.org/way/712499797,2026-10-19T11:52:32+00:00,agadir,
+osm:way/712520626,osm:way/712520626,basketball,,30.3697199,-9.5727718,,,,28.5,14.9,,,,https://www.openstreetmap.org/way/712520626,2026-10-19T11:52:32+00:00,agadir,
+osm:way/712520627,osm:way/712520626,basketball,,30.3698752,-9.573103,,,,28.5,14.9,,,,https://www.openstreetmap.org/way/712520627,2026-10-19T11:52:32+00:00,agadir,
+osm:way/714582684,osm:way/714582684,basketball,,30.4109039,-9.5823632,,,,23.8,13.9,,,,https://www.openstreetmap.org/way/714582684,2026-10-19T11:52:32+00:00,agadir,
+osm:way/1349884575,osm:relation/18529043,basketball,,33.5315972,-7.6224065,,,,37.1,16.3,,private,,https://www.openstreetmap.org/way/1349884575,2026-10-19T11:52:32+00:00,casablanca,Hautes Études de Management
+osm:way/1308282826,osm:way/1308282704,basketball,,33.5685593,-7.6642307,,,,37.6,16.3,,,,https://www.openstreetmap.org/way/1308282826,2026-10-19T11:52:32+00:00,casablanca,French International School of Casablanca
+osm:way/1308317544,osm:way/1308317550,basketball,,33.5824631,-7.6499988,,,,23.0,16.5,,,,https://www.openstreetmap.org/way/1308317544,2026-10-19T11:52:32+00:00,casablanca,Ginga Foot
+osm:way/1502898485,osm:way/1308527857,basketball,,33.5892332,-7.641754,,,,40.7,21.9,,,,https://www.openstreetmap.org/way/1502898485,2026-10-19T11:52:32+00:00,casablanca,Institut Espagnol Juan Ramón Jiménez
+osm:way/1502898486,osm:way/1308527857,basketball,,33.5892761,-7.6413811,,,,23.6,15.4,,,,https://www.openstreetmap.org/way/1502898486,2026-10-19T11:52:32+00:00,casablanca,Institut Espagnol Juan Ramón Jiménez
+osm:way/1368230230,osm:way/1308527859,basketball,,33.578035,-7.6540947,,,,22.4,11.2,,private,,https://www.openstreetmap.org/way/1368230230,2026-10-19T11:52:32+00:00,casablanca,Groupe Scolaire d'Anfa M'hamed Bennis
+osm:way/1342696634,osm:way/1308906124,basketball,,33.5943453,-7.657208,,,,26.9,13.9,,,,https://www.openstreetmap.org/way/1342696634,2026-10-19T11:52:32+00:00,casablanca,Lycée Omar Bnou Al Khattab
+osm:way/1373529251,osm:way/1311056824,basketball,,33.5900711,-7.6423046,,,,25.9,13.9,,,,https://www.openstreetmap.org/way/1373529251,2026-10-19T11:52:32+00:00,casablanca,Lycée Moulay Idriss 1er
+osm:way/1373529252,osm:way/1311056824,basketball,,33.5903129,-7.6423106,,,,24.1,13.7,,,,https://www.openstreetmap.org/way/1373529252,2026-10-19T11:52:32+00:00,casablanca,Lycée Moulay Idriss 1er
+osm:way/1373529253,osm:way/1311056824,basketball,,33.5903314,-7.6429172,,,,24.9,14.3,,,,https://www.openstreetmap.org/way/1373529253,2026-10-19T11:52:32+00:00,casablanca,Lycée Moulay Idriss 1er
+osm:way/1309501506,osm:way/1311068101,basketball,,33.5982223,-7.6575064,,,,20.9,18.0,,,,https://www.openstreetmap.org/way/1309501506,2026-10-19T11:52:32+00:00,casablanca,Collège Anfa
+osm:way/1309501507,osm:way/1311068101,basketball,,33.5982149,-7.6572699,,,,20.3,17.4,,,,https://www.openstreetmap.org/way/1309501507,2026-10-19T11:52:32+00:00,casablanca,Collège Anfa
+osm:way/1311068104,osm:way/1311068101,basketball,,33.5979808,-7.6574312,,,,26.4,15.8,,,,https://www.openstreetmap.org/way/1311068104,2026-10-19T11:52:32+00:00,casablanca,Collège Anfa
+osm:way/1311068105,osm:way/1311068101,basketball,,33.5979782,-7.6572636,,,,26.4,15.3,,,,https://www.openstreetmap.org/way/1311068105,2026-10-19T11:52:32+00:00,casablanca,Collège Anfa
+osm:way/1314075054,osm:way/1314075054,basketball,,33.6058715,-7.6511535,,,,31.7,19.0,,,,https://www.openstreetmap.org/way/1314075054,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1314437263,osm:way/1314437263,basketball,,33.6076911,-7.6500158,,,,19.9,19.4,,yes,,https://www.openstreetmap.org/way/1314437263,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1322921671,osm:way/1322921671,basketball,,33.5785422,-7.6166208,,,,25.3,14.9,,,,https://www.openstreetmap.org/way/1322921671,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/133107742,osm:way/133107742,basketball,stade Anatole,33.5932519,-7.5963592,,,,83.4,58.8,,private,,https://www.openstreetmap.org/way/133107742,2026-10-19T11:52:32+00:00,casablanca,stade Anatole
+osm:way/1342707536,osm:way/1342707522,basketball,,33.5770609,-7.6900661,,,,36.5,18.3,,,,https://www.openstreetmap.org/way/1342707536,2026-10-19T11:52:32+00:00,casablanca,Oceanic Club de Casablanca
+osm:way/1349625221,osm:way/1349625221,basketball,,33.509266,-7.683212,,,,39.6,20.3,,,,https://www.openstreetmap.org/way/1349625221,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1349625222,osm:way/1349625221,basketball,,33.5092539,-7.6827339,,,,39.5,20.0,,,,https://www.openstreetmap.org/way/1349625222,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1349625223,osm:way/1349625221,basketball,,33.5092624,-7.682202,,,,39.7,20.2,,,,https://www.openstreetmap.org/way/1349625223,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1349625224,osm:way/1349625221,basketball,,33.5092892,-7.6817228,,,,40.4,19.7,,,,https://www.openstreetmap.org/way/1349625224,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1381504615,osm:way/1349867151,basketball,,33.5948694,-7.6529566,,,,32.4,18.5,,,,https://www.openstreetmap.org/way/1381504615,2026-10-19T11:52:32+00:00,casablanca,Bank of Africa Club
+osm:way/1351198403,osm:way/1351198403,basketball,,33.6045954,-7.6551674,,,,37.7,25.1,,private,,https://www.openstreetmap.org/way/1351198403,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1351686945,osm:way/1351686944,basketball,,33.5755472,-7.647999,,,,27.6,14.7,,,,https://www.openstreetmap.org/way/1351686945,2026-10-19T11:52:32+00:00,casablanca,Collège Ghandi
+osm:way/1360377406,osm:way/1360373460,basketball,,33.6017168,-7.6471269,,,,23.6,12.5,,,,https://www.openstreetmap.org/way/1360377406,2026-10-19T11:52:32+00:00,casablanca,Collège Al Bayrouni
+osm:way/1360377407,osm:way/1360373460,basketball,,33.6015705,-7.6472122,,,,23.3,12.3,,,,https://www.openstreetmap.org/way/1360377407,2026-10-19T11:52:32+00:00,casablanca,Collège Al Bayrouni
+osm:way/1360377408,osm:way/1360373461,basketball,,33.6012198,-7.6464113,,,,23.4,13.1,,,,https://www.openstreetmap.org/way/1360377408,2026-10-19T11:52:32+00:00,casablanca,ثانوية المسجد التأهيلية
+osm:way/1362744621,osm:way/1362744612,basketball,,33.5656488,-7.6431069,,,,25.4,19.4,,private,,https://www.openstreetmap.org/way/1362744621,2026-10-19T11:52:32+00:00,casablanca,Stade Olympique Casablancais
+osm:way/1364772013,osm:way/1364770546,basketball,,33.5362562,-7.6298775,,,,25.9,13.8,,,,https://www.openstreetmap.org/way/1364772013,2026-10-19T11:52:32+00:00,casablanca,Casablanca American School
+osm:way/1350042998,osm:way/1372712391,basketball,,33.5742499,-7.662675,,,,28.6,16.6,,,,https://www.openstreetmap.org/way/1350042998,2026-10-19T11:52:32+00:00,casablanca,Club de la Banque Populaire
+osm:way/1392319667,osm:way/1392319667,basketball,,33.5962464,-7.63207,,,,29.4,22.2,,,,https://www.openstreetmap.org/way/1392319667,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1392322457,osm:way/1392319704,basketball,,33.596626,-7.6323868,,,,24.5,16.5,,,,https://www.openstreetmap.org/way/1392322457,2026-10-19T11:52:32+00:00,casablanca,Lycée El Ouafa
+osm:way/1392322458,osm:way/1392319704,basketball,,33.596485,-7.6322734,,,,24.7,16.5,,,,https://www.openstreetmap.org/way/1392322458,2026-10-19T11:52:32+00:00,casablanca,Lycée El Ouafa
+osm:way/1225873877,osm:way/140654846,basketball,,33.541406,-7.6602884,,,,33.7,19.4,,,,https://www.openstreetmap.org/way/1225873877,2026-10-19T11:52:32+00:00,casablanca,Université Hassan II Ain Chock
+osm:way/1225873880,osm:way/140654846,basketball,,33.5423852,-7.6580414,,,,30.7,16.8,,,,https://www.openstreetmap.org/way/1225873880,2026-10-19T11:52:32+00:00,casablanca,Université Hassan II Ain Chock
+osm:way/1419744928,osm:way/1419744926,basketball,,33.545404,-7.5998657,hard,,,41.2,20.2,,yes,,https://www.openstreetmap.org/way/1419744928,2026-10-19T11:52:32+00:00,casablanca,M'salla
+osm:way/416247591,osm:way/1426254391,basketball,,33.5739357,-7.6352982,,,,41.9,21.5,,,,https://www.openstreetmap.org/way/416247591,2026-10-19T11:52:32+00:00,casablanca,المدرسة الإبتدائية المقاوم الوديبي
+osm:way/1431703735,osm:way/1431703735,basketball,,33.5928207,-7.5240777,,,,27.6,15.4,,,,https://www.openstreetmap.org/way/1431703735,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1503411879,osm:way/1503411874,basketball,,33.5660692,-7.6255052,,,,43.4,22.2,,,,https://www.openstreetmap.org/way/1503411879,2026-10-19T11:52:32+00:00,casablanca,Écoles Abdelmoumen
+osm:way/243836856,osm:way/168411360,basketball,,33.5979663,-7.6359613,,,,20.9,11.7,,,,https://www.openstreetmap.org/way/243836856,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836863,osm:way/168411360,basketball,,33.5985448,-7.6340729,,,,25.3,13.6,,,,https://www.openstreetmap.org/way/243836863,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836866,osm:way/168411360,basketball,,33.5979437,-7.6361219,,,,20.9,11.7,,,,https://www.openstreetmap.org/way/243836866,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836867,osm:way/168411360,basketball,,33.5980537,-7.6355038,,,,17.9,11.2,,,,https://www.openstreetmap.org/way/243836867,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836873,osm:way/168411360,basketball,,33.5983057,-7.6340314,,,,25.3,13.6,,,,https://www.openstreetmap.org/way/243836873,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836875,osm:way/168411360,basketball,,33.5983077,-7.6355569,,,,25.6,13.6,,,,https://www.openstreetmap.org/way/243836875,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836878,osm:way/168411360,basketball,,33.5983322,-7.6353969,,,,25.6,13.6,,,,https://www.openstreetmap.org/way/243836878,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/243836880,osm:way/168411360,basketball,,33.598076,-7.6353763,,,,17.9,11.2,,,,https://www.openstreetmap.org/way/243836880,2026-10-19T11:52:32+00:00,casablanca,Beaulieu - Annexe Lycée Lyautey
+osm:way/1322892146,osm:way/214289475,basketball,,33.5642783,-7.6508546,,,,29.8,17.1,,,,https://www.openstreetmap.org/way/1322892146,2026-10-19T11:52:32+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1326106881,osm:way/214289475,basketball,,33.564371,-7.6511842,,,,24.4,14.0,,,,https://www.openstreetmap.org/way/1326106881,2026-10-19T11:52:32+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1326106882,osm:way/214289475,basketball,,33.564488,-7.6511047,,,,24.2,11.7,,,,https://www.openstreetmap.org/way/1326106882,2026-10-19T11:52:32+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1326106883,osm:way/214289475,basketball,,33.5644346,-7.6508558,,,,14.4,7.0,,,,https://www.openstreetmap.org/way/1326106883,2026-10-19T11:52:32+00:00,casablanca,Cercle Amical Français de Casablanca
+osm:way/1331659403,osm:way/339220626,basketball,,33.5859448,-7.6422839,,,,26.7,14.1,,private,,https://www.openstreetmap.org/way/1331659403,2026-10-19T11:52:32+00:00,casablanca,Collège Badr
+osm:way/1331659404,osm:way/339220626,basketball,,33.5858178,-7.6422028,,,,27.3,13.9,,private,,https://www.openstreetmap.org/way/1331659404,2026-10-19T11:52:32+00:00,casablanca,Collège Badr
+osm:way/1372684591,osm:way/521351941,basketball,,33.5815707,-7.6513918,,,,27.9,14.3,,,,https://www.openstreetmap.org/way/1372684591,2026-10-19T11:52:32+00:00,casablanca,Lycée Ziriab
+osm:way/1343873000,osm:way/521476356,basketball,,33.568022,-7.6685931,,,,30.7,17.8,,,,https://www.openstreetmap.org/way/1343873000,2026-10-19T11:52:32+00:00,casablanca,Lycée Ibn Al Yassamine
+osm:way/1428859960,osm:way/550290684,basketball,,33.5819338,-7.4804509,,,,29.3,15.9,,,,https://www.openstreetmap.org/way/1428859960,2026-10-19T11:52:32+00:00,casablanca,
+osm:way/1431156347,osm:way/590874429,basketball,,33.5736381,-7.633406,,,,18.8,10.3,,,,https://www.openstreetmap.org/way/1431156347,2026-10-19T11:52:32+00:00,casablanca,Centre Régional des Métiers de l'Éducation et de la Formation
+osm:way/1431156351,osm:way/590874429,basketball,,33.5724814,-7.6336305,,,,47.8,27.0,,,,https://www.openstreetmap.org/way/1431156351,2026-10-19T11:52:32+00:00,casablanca,Centre Régional des Métiers de l'Éducation et de la Formation
+osm:way/1349890366,osm:way/595183942,basketball,,33.5507231,-7.6688027,,,,49.0,30.5,,private,,https://www.openstreetmap.org/way/1349890366,2026-10-19T11:52:32+00:00,casablanca,Université Mohammed VI des Sciences de la Santé
+osm:way/472744331,osm:way/186942866,basketball,,34.0292462,-5.0023618,,,,26.0,13.7,,,,https://www.openstreetmap.org/way/472744331,2026-10-19T11:52:32+00:00,fes,Lycée Moulay Slimane
+osm:way/472744776,osm:way/186942866,basketball,,34.0290807,-5.0021296,,,,27.2,13.1,,,,https://www.openstreetmap.org/way/472744776,2026-10-19T11:52:32+00:00,fes,Lycée Moulay Slimane
+osm:way/533825131,osm:way/478266791,basketball,,34.0562307,-4.9824051,,,,33.2,20.3,,,,https://www.openstreetmap.org/way/533825131,2026-10-19T11:52:32+00:00,fes,
+osm:way/533825132,osm:way/478266791,basketball,,34.0560617,-4.9825535,,,,34.3,20.3,,,,https://www.openstreetmap.org/way/533825132,2026-10-19T11:52:32+00:00,fes,
+osm:way/533479915,osm:way/529563045,basketball,,34.0437871,-5.0013904,terrin_de_basket,,,27.1,16.2,,,,https://www.openstreetmap.org/way/533479915,2026-10-19T11:52:32+00:00,fes,Lycée Salahdine El Youbi
+osm:way/540500455,osm:way/530890654,basketball,,34.042253,-5.0087424,,,,26.9,17.2,,,,https://www.openstreetmap.org/way/540500455,2026-10-19T11:52:32+00:00,fes,Collège Imam Ali
+osm:way/95233217,osm:way/95233217,basketball,,34.0314364,-4.9881877,,,,27.4,17.1,,,,https://www.openstreetmap.org/way/95233217,2026-10-19T11:52:32+00:00,fes,
+osm:way/1117929186,osm:way/1117929185,basketball,,34.2461431,-6.5931071,hard,1,,44.7,31.3,,,,https://www.openstreetmap.org/way/1117929186,2026-10-19T11:52:32+00:00,kenitra,Terrains omnisports de l'Université
+osm:way/1117929187,osm:way/1117929185,basketball,,34.2460251,-6.5934351,hard,1,,44.3,28.6,,,,https://www.openstreetmap.org/way/1117929187,2026-10-19T11:52:32+00:00,kenitra,Terrains omnisports de l'Université
+osm:way/1117929188,osm:way/1117929185,basketball,,34.2459189,-6.5937434,hard,1,,43.6,26.5,,,,https://www.openstreetmap.org/way/1117929188,2026-10-19T11:52:32+00:00,kenitra,Terrains omnisports de l'Université
+osm:way/1120369031,osm:way/1120586424,basketball,,34.2464329,-6.605835,hard,1,,26.4,15.1,,,,https://www.openstreetmap.org/way/1120369031,2026-10-19T11:52:32+00:00,kenitra,Agri Club Kenitra
+osm:way/1120369032,osm:way/1120586424,basketball,,34.2462538,-6.6058128,hard,1,,17.3,9.5,,,,https://www.openstreetmap.org/way/1120369032,2026-10-19T11:52:32+00:00,kenitra,Agri Club Kenitra
+osm:way/1121518701,osm:way/1121518701,basketball,,34.2493243,-6.5575414,,,,32.9,19.7,,,,https://www.openstreetmap.org/way/1121518701,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1121518702,osm:way/1121518701,basketball,,34.2496065,-6.5575456,,,,27.8,14.8,,,,https://www.openstreetmap.org/way/1121518702,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1121719523,osm:way/1121719523,basketball,,34.2553518,-6.5610429,,,,27.4,14.4,,,,https://www.openstreetmap.org/way/1121719523,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1121719524,osm:way/1121719523,basketball,,34.2552794,-6.5612068,,,,27.4,14.4,,,,https://www.openstreetmap.org/way/1121719524,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1122202540,osm:way/1121770084,basketball,,34.2638591,-6.5778309,,,,22.2,13.1,,,,https://www.openstreetmap.org/way/1122202540,2026-10-19T11:52:32+00:00,kenitra,GSU Honoré de Balzac
+osm:way/1122202541,osm:way/1121770084,basketball,,34.2638646,-6.5775638,,,,22.2,13.1,,,,https://www.openstreetmap.org/way/1122202541,2026-10-19T11:52:32+00:00,kenitra,GSU Honoré de Balzac
+osm:way/1122077211,osm:way/1122077211,basketball,,34.2395445,-6.5376134,,,,29.2,15.2,,,,https://www.openstreetmap.org/way/1122077211,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1123757527,osm:way/1123757521,basketball,,34.2591531,-6.5661252,,,,15.9,11.0,,,,https://www.openstreetmap.org/way/1123757527,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1123757536,osm:way/1123757522,basketball,,34.2591592,-6.566508,,,,20.0,8.6,,,,https://www.openstreetmap.org/way/1123757536,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1123757537,osm:way/1123757522,basketball,,34.2590991,-6.5664115,,,,20.0,8.6,,,,https://www.openstreetmap.org/way/1123757537,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1123757538,osm:way/1123757522,basketball,,34.259038,-6.5663216,,,,20.0,8.6,,,,https://www.openstreetmap.org/way/1123757538,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1123757539,osm:way/1123757522,basketball,,34.2589847,-6.566249,,,,20.0,8.6,,,,https://www.openstreetmap.org/way/1123757539,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1227049060,osm:way/1227049058,basketball,,34.2532287,-6.5614069,,,,17.3,8.4,,,,https://www.openstreetmap.org/way/1227049060,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1229795068,osm:way/1229795067,basketball,,34.2740108,-6.598844,,,,32.1,15.7,,,,https://www.openstreetmap.org/way/1229795068,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/453587904,osm:way/453587904,basketball,,34.2528793,-6.6017037,hard,1,,26.6,13.6,,,,https://www.openstreetmap.org/way/453587904,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/488905970,osm:way/453587904,basketball,,34.2527158,-6.6019234,hard,1,,28.1,14.3,,,,https://www.openstreetmap.org/way/488905970,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1121941196,osm:way/478104482,basketball,,34.243697,-6.5738228,,,,29.4,16.6,,,,https://www.openstreetmap.org/way/1121941196,2026-10-19T11:52:32+00:00,kenitra,Lycee Mohamed VI
+osm:way/479711312,osm:way/479711312,basketball,,34.2624923,-6.5934672,hard,,,25.9,15.3,,,,https://www.openstreetmap.org/way/479711312,2026-10-19T11:52:32+00:00,kenitra,
+osm:way/1246056283,osm:way/102739967,basketball,,31.640296,-7.9855016,,,,38.9,19.3,,,,https://www.openstreetmap.org/way/1246056283,2026-10-19T11:52:32+00:00,marrakech,Lycée Collégial Ahmed Chaouqi
+osm:way/1246056291,osm:way/102739977,basketball,,31.6416034,-7.9854566,,,,41.1,21.1,,,,https://www.openstreetmap.org/way/1246056291,2026-10-19T11:52:32+00:00,marrakech,Centre Educatif Sportif
+osm:way/1207159253,osm:way/1207159253,basketball,,31.6501318,-8.0646798,,,,31.8,20.1,,,,https://www.openstreetmap.org/way/1207159253,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1207159276,osm:way/1207159276,basketball,,31.6518785,-7.9862156,,,,23.4,12.4,,,,https://www.openstreetmap.org/way/1207159276,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1217749838,osm:way/1217749838,basketball,,31.605489,-7.9727808,,,,48.5,26.3,,,,https://www.openstreetmap.org/way/1217749838,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1218370799,osm:way/1218370799,basketball,,31.6429334,-8.068314,,,,29.2,15.9,,,,https://www.openstreetmap.org/way/1218370799,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1221794342,osm:way/1221794342,basketball,,31.6576192,-7.986306,,,,29.2,17.4,,,,https://www.openstreetmap.org/way/1221794342,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1224803338,osm:way/1224803338,basketball,,31.6293751,-8.049665,,,,44.6,25.3,,,,https://www.openstreetmap.org/way/1224803338,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1224803987,osm:way/1224803987,basketball,,31.6307467,-8.0491206,,,,29.8,16.5,,,,https://www.openstreetmap.org/way/1224803987,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1239609588,osm:way/1239609588,basketball,,31.646951,-8.0108242,,,,43.3,23.3,,,,https://www.openstreetmap.org/way/1239609588,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1239609590,osm:way/1239609588,basketball,,31.6467172,-8.0105562,,,,25.4,13.4,,,,https://www.openstreetmap.org/way/1239609590,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1239609591,osm:way/1239609591,basketball,,31.6477411,-8.0112787,,,,31.3,17.5,,,,https://www.openstreetmap.org/way/1239609591,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1239730937,osm:way/1239730937,basketball,,31.6793401,-8.012935,,,,16.6,9.2,,,,https://www.openstreetmap.org/way/1239730937,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1241147353,osm:way/1241147353,basketball,,31.6462988,-7.9951144,,,,38.7,21.8,,,,https://www.openstreetmap.org/way/1241147353,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1242018850,osm:way/1242018850,basketball,,31.659961,-7.9745998,,,,50.3,29.4,,,,https://www.openstreetmap.org/way/1242018850,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1150983931,osm:way/127127607,basketball,,31.6673216,-8.0009101,,,,50.9,31.4,,,,https://www.openstreetmap.org/way/1150983931,2026-10-19T11:52:32+00:00,marrakech,University City Cadi Ayyad
+osm:way/1150983932,osm:way/127127607,basketball,,31.6676104,-8.0014131,,,,52.4,31.4,,,,https://www.openstreetmap.org/way/1150983932,2026-10-19T11:52:32+00:00,marrakech,University City Cadi Ayyad
+osm:way/1242604160,osm:way/127127607,basketball,,31.6666339,-8.0020156,,,,30.3,15.0,,,,https://www.openstreetmap.org/way/1242604160,2026-10-19T11:52:32+00:00,marrakech,University City Cadi Ayyad
+osm:way/396591957,osm:way/1320510767,basketball,,31.6387834,-8.0505852,,,,29.7,18.0,,,,https://www.openstreetmap.org/way/396591957,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1552621759,osm:way/1552621759,basketball,,31.6133894,-8.0132369,,,,57.4,27.9,,,,https://www.openstreetmap.org/way/1552621759,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/369846148,osm:way/369846148,basketball,,31.6750325,-7.9843363,,,,21.8,18.0,,,,https://www.openstreetmap.org/way/369846148,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/369846149,osm:way/369846148,basketball,,31.6749813,-7.9845348,,,,28.3,18.0,,,,https://www.openstreetmap.org/way/369846149,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/396591961,osm:way/396591963,basketball,,31.6288527,-8.0571888,,,,28.1,13.7,,,,https://www.openstreetmap.org/way/396591961,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/1223897033,osm:way/591102674,basketball,,31.5955818,-8.0369304,,,,24.8,13.9,,,,https://www.openstreetmap.org/way/1223897033,2026-10-19T11:52:32+00:00,marrakech,
+osm:way/697775185,osm:relation/3311534,basketball,Basket,33.8886649,-5.5408364,dirt,1,,29.7,16.0,,,,https://www.openstreetmap.org/way/697775185,2026-10-19T11:52:32+00:00,meknes,Lycée Paul Valery
+osm:way/1214816074,osm:way/1214816074,basketball,,33.8916761,-5.5334917,,,,28.1,15.5,,,,https://www.openstreetmap.org/way/1214816074,2026-10-19T11:52:32+00:00,meknes,
+osm:way/1288280956,osm:way/1288280956,basketball,,33.9013618,-5.549775,hard,0,,19.5,9.6,,permissive,,https://www.openstreetmap.org/way/1288280956,2026-10-19T11:52:32+00:00,meknes,
+osm:way/840525506,osm:way/1492371332,basketball,,33.8960461,-5.557026,,,,28.9,22.9,,,,https://www.openstreetmap.org/way/840525506,2026-10-19T11:52:32+00:00,meknes,Club Tennis Meknes
+osm:way/1281342651,osm:way/1281342651,basketball,espace enfant,34.6596784,-1.8995042,hard,,,110.5,62.0,,yes,,https://www.openstreetmap.org/way/1281342651,2026-10-19T11:52:32+00:00,oujda,espace enfant
+osm:node/5640609250,osm:node/5640609250,basketball,,33.9245111,-6.8225397,,,,,,,,,https://www.openstreetmap.org/node/5640609250,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1358524450,osm:relation/18553604,basketball,Jean Zaganiaris,33.989779,-6.8454035,,,,34.2,21.5,,,,https://www.openstreetmap.org/way/1358524450,2026-10-19T11:52:32+00:00,rabat,Lycée Descartes
+osm:way/1020625460,osm:way/1004398244,basketball,,33.9757271,-6.8840632,,,,24.3,12.9,,,,https://www.openstreetmap.org/way/1020625460,2026-10-19T11:52:32+00:00,rabat,Middle School Abdelaziz Dinia
+osm:way/1007076962,osm:way/1007076965,basketball,,33.9886659,-6.8722142,,,,26.4,15.8,,,,https://www.openstreetmap.org/way/1007076962,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1009318319,osm:way/1009318321,basketball,,33.971974,-6.8773986,,,,37.1,25.3,,,,https://www.openstreetmap.org/way/1009318319,2026-10-19T11:52:32+00:00,rabat,الحي الجامعي الدولي
+osm:way/1014619929,osm:way/1014619931,basketball,,33.9812763,-6.8681051,,,,40.5,21.2,,,,https://www.openstreetmap.org/way/1014619929,2026-10-19T11:52:32+00:00,rabat,Institut national des postes et télécommunications - INPT
+osm:way/279207923,osm:way/1016620569,basketball,,33.9653037,-6.8787544,,,,32.1,19.1,,,,https://www.openstreetmap.org/way/279207923,2026-10-19T11:52:32+00:00,rabat,Club du Ministère des Travaux Publics
+osm:way/989224810,osm:way/1019990715,basketball,,33.9796435,-6.8785209,,,,27.6,15.1,,,,https://www.openstreetmap.org/way/989224810,2026-10-19T11:52:32+00:00,rabat,إعدادية سيدي المدني بلحسني
+osm:way/989224811,osm:way/1019990715,basketball,,33.9795465,-6.8783367,,,,27.6,15.1,,,,https://www.openstreetmap.org/way/989224811,2026-10-19T11:52:32+00:00,rabat,إعدادية سيدي المدني بلحسني
+osm:way/1019990714,osm:way/1024230903,basketball,,33.9780965,-6.8780808,,,,25.9,13.4,,,,https://www.openstreetmap.org/way/1019990714,2026-10-19T11:52:32+00:00,rabat,Abdellah Gennoune High School
+osm:way/279312909,osm:way/1028787160,basketball,,33.9724704,-6.8758887,,,,44.8,18.9,,,,https://www.openstreetmap.org/way/279312909,2026-10-19T11:52:32+00:00,rabat,Centre de Formation Bank Al-Maghrib
+osm:way/279311850,osm:way/1028801334,basketball,,33.9653958,-6.8997228,,,,27.0,16.2,,,,https://www.openstreetmap.org/way/279311850,2026-10-19T11:52:32+00:00,rabat,Abi Dar Al Ghaffari High School
+osm:way/279311849,osm:way/1028801335,basketball,,33.9653438,-6.8987948,,,,21.5,17.5,,,,https://www.openstreetmap.org/way/279311849,2026-10-19T11:52:32+00:00,rabat,Abi Dar Al Ghaffari Middle School
+osm:way/1030402955,osm:way/1030402955,basketball,,33.9826324,-6.8794568,hard,1,,26.6,14.7,,,,https://www.openstreetmap.org/way/1030402955,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1033576702,osm:way/1033576702,basketball,ملاعب القرب كراكشو,33.9680688,-6.8860184,hard,,,31.5,29.0,,yes,,https://www.openstreetmap.org/way/1033576702,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب كراكشو
+osm:way/1044285837,osm:way/1044285837,basketball,,33.93593,-6.8358145,,,,15.4,10.7,,,,https://www.openstreetmap.org/way/1044285837,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1077528110,osm:way/1077528110,basketball,,33.9267728,-6.8456848,,,,28.8,17.2,,,,https://www.openstreetmap.org/way/1077528110,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1077528114,osm:way/1077528114,basketball,,33.926361,-6.8415313,,,,31.9,20.3,,,,https://www.openstreetmap.org/way/1077528114,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1053376166,osm:way/1085659597,basketball,,33.9722804,-6.8670853,,,,28.0,15.0,,,,https://www.openstreetmap.org/way/1053376166,2026-10-19T11:52:32+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1053376167,osm:way/1085659597,basketball,,33.9724534,-6.866922,,,,28.0,15.0,,,,https://www.openstreetmap.org/way/1053376167,2026-10-19T11:52:32+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1085659603,osm:way/1085659597,basketball,,33.9724653,-6.8663263,,,,28.0,15.0,,,,https://www.openstreetmap.org/way/1085659603,2026-10-19T11:52:32+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1085659604,osm:way/1085659597,basketball,,33.9725481,-6.8664652,,,,28.0,15.0,,,,https://www.openstreetmap.org/way/1085659604,2026-10-19T11:52:32+00:00,rabat,Institut agronomique et vétérinaire Hassan-II
+osm:way/1145108164,osm:way/1145108164,basketball,,34.0007703,-6.8233972,,,,27.8,14.7,,,,https://www.openstreetmap.org/way/1145108164,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1275321527,osm:way/1275321527,basketball,,33.9719146,-6.8157644,,,,28.1,16.0,,,,https://www.openstreetmap.org/way/1275321527,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1277758382,osm:way/1277758382,basketball,,33.9824684,-6.8158625,,,,28.0,16.2,,,,https://www.openstreetmap.org/way/1277758382,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1277777533,osm:way/1277777533,basketball,,33.9896174,-6.8004795,,,,28.2,15.3,,,,https://www.openstreetmap.org/way/1277777533,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1270897865,osm:way/1278085349,basketball,,33.9942982,-6.8363976,,,,30.3,18.3,,,,https://www.openstreetmap.org/way/1270897865,2026-10-19T11:52:32+00:00,rabat,Parc Hassan II
+osm:way/1270897866,osm:way/1278085349,basketball,,33.9942677,-6.8359262,,,,29.6,20.3,,,,https://www.openstreetmap.org/way/1270897866,2026-10-19T11:52:32+00:00,rabat,Parc Hassan II
+osm:way/1270897867,osm:way/1278085349,basketball,,33.9941904,-6.8355241,,,,30.9,18.1,,,,https://www.openstreetmap.org/way/1270897867,2026-10-19T11:52:32+00:00,rabat,Parc Hassan II
+osm:way/1278100934,osm:way/1278100934,basketball,,34.0257746,-6.8322333,,,,21.7,11.7,,,,https://www.openstreetmap.org/way/1278100934,2026-10-19T11:52:32+00:00,rabat,
+osm:way/642321368,osm:way/1278100945,basketball,,34.025298,-6.8322836,,,,23.6,12.4,,,,https://www.openstreetmap.org/way/642321368,2026-10-19T11:52:32+00:00,rabat,
+osm:way/700037725,osm:way/1278799296,basketball,,33.9965364,-6.8793869,hard,1,,26.3,14.7,,,,https://www.openstreetmap.org/way/700037725,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1375603586,osm:way/1375603586,basketball,,33.9914862,-6.8638968,,,,17.4,13.6,,,,https://www.openstreetmap.org/way/1375603586,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1375603591,osm:way/1375603586,basketball,,33.9913765,-6.8643139,,,,25.5,25.4,,,,https://www.openstreetmap.org/way/1375603591,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1279312965,osm:way/152610309,basketball,,33.9838219,-6.8592267,,,,29.0,14.0,,,,https://www.openstreetmap.org/way/1279312965,2026-10-19T11:52:32+00:00,rabat,كلية الطب والصيدلة بالرباط
+osm:way/1552573707,osm:way/1552573707,basketball,,33.918286,-6.8228015,,,,25.2,15.1,,permit,,https://www.openstreetmap.org/way/1552573707,2026-10-19T11:52:32+00:00,rabat,
+osm:way/902658088,osm:way/172517763,basketball,,33.9858833,-6.8483617,hard,,,22.6,22.6,,,,https://www.openstreetmap.org/way/902658088,2026-10-19T11:52:32+00:00,rabat,Parc Ibn Sina
+osm:way/1278802648,osm:way/237086178,basketball,,34.0094354,-6.8411304,,,,32.3,16.6,,,,https://www.openstreetmap.org/way/1278802648,2026-10-19T11:52:32+00:00,rabat,Fus
+osm:way/1278802649,osm:way/237086178,basketball,,34.0092397,-6.8412701,,,,35.3,22.4,,,,https://www.openstreetmap.org/way/1278802649,2026-10-19T11:52:32+00:00,rabat,Fus
+osm:way/237086180,osm:way/237086178,basketball,Stade bouanane,34.0090508,-6.8408263,,,,54.5,36.4,,yes,,https://www.openstreetmap.org/way/237086180,2026-10-19T11:52:32+00:00,rabat,Fus
+osm:way/279217993,osm:way/280121158,basketball,,33.9679227,-6.8758501,,,,47.0,32.2,,,,https://www.openstreetmap.org/way/279217993,2026-10-19T11:52:32+00:00,rabat,École Nationale Supérieure d’Arts et Métiers (ENSAM) de Rabat
+osm:way/1278725800,osm:way/288715998,basketball,,33.9926787,-6.863574,,,,30.5,14.6,,,,https://www.openstreetmap.org/way/1278725800,2026-10-19T11:52:32+00:00,rabat,Kamra Park
+osm:way/165721872,osm:way/454716405,basketball,Terrain del Koora,34.0001449,-6.8528684,sand,1,,159.2,74.2,,,,https://www.openstreetmap.org/way/165721872,2026-10-19T11:52:32+00:00,rabat,École Mohammadia d'Ingénieurs
+osm:node/5640608651,osm:way/590876047,basketball,,33.9451537,-6.8727346,,,,,,,,,https://www.openstreetmap.org/node/5640608651,2026-10-19T11:52:32+00:00,rabat,
+osm:way/642321367,osm:way/642321367,basketball,,34.0249197,-6.8345249,,,,24.0,13.4,,,,https://www.openstreetmap.org/way/642321367,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1278481439,osm:way/684390230,basketball,,33.9742581,-6.8194574,,,,28.8,15.4,,,,https://www.openstreetmap.org/way/1278481439,2026-10-19T11:52:32+00:00,rabat,Lycée Moulay Abdallah
+osm:way/700036613,osm:way/700036613,basketball,,34.0050536,-6.8687953,,,,32.4,16.5,,,,https://www.openstreetmap.org/way/700036613,2026-10-19T11:52:32+00:00,rabat,
+osm:way/700036614,osm:way/700036613,basketball,,34.0049478,-6.8686317,,,,32.5,16.5,,,,https://www.openstreetmap.org/way/700036614,2026-10-19T11:52:32+00:00,rabat,
+osm:way/768566739,osm:way/768566739,basketball,,34.0241073,-6.8521788,,,,28.3,15.4,,,,https://www.openstreetmap.org/way/768566739,2026-10-19T11:52:32+00:00,rabat,
+osm:way/785478216,osm:way/785478216,basketball,,33.9560759,-6.8231775,,,,15.1,13.7,,,,https://www.openstreetmap.org/way/785478216,2026-10-19T11:52:32+00:00,rabat,
+osm:way/887361571,osm:way/887361571,basketball,,33.9883987,-6.8059947,,,,29.6,16.2,,,,https://www.openstreetmap.org/way/887361571,2026-10-19T11:52:32+00:00,rabat,
+osm:way/929012284,osm:way/929012284,basketball,ملاعب القرب حي الفتح,33.970448,-6.8978432,hard,1,,30.9,19.4,,,,https://www.openstreetmap.org/way/929012284,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/1006251617,osm:way/975653139,basketball,,33.9734208,-6.9011301,,,,32.6,15.9,,,,https://www.openstreetmap.org/way/1006251617,2026-10-19T11:52:32+00:00,rabat,Ecole américaine de Rabat
+osm:way/1006251618,osm:way/975653139,basketball,,33.9732891,-6.9009807,,,,32.7,15.9,,,,https://www.openstreetmap.org/way/1006251618,2026-10-19T11:52:32+00:00,rabat,Ecole américaine de Rabat
+osm:way/975731685,osm:way/975653140,basketball,,33.9725294,-6.9014862,,,,28.5,14.5,,,,https://www.openstreetmap.org/way/975731685,2026-10-19T11:52:32+00:00,rabat,الثانوية التأهيلية حمان الفطواكي
+osm:way/975731686,osm:way/975653140,basketball,,33.9724244,-6.9016174,,,,28.5,14.4,,,,https://www.openstreetmap.org/way/975731686,2026-10-19T11:52:32+00:00,rabat,الثانوية التأهيلية حمان الفطواكي
+osm:way/985286886,osm:way/985286886,basketball,ملاعب القرب حي الفتح,33.9693971,-6.9096535,grass,,,29.6,16.1,,,,https://www.openstreetmap.org/way/985286886,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/985286887,osm:way/985286886,basketball,ملاعب القرب حي الفتح,33.9696133,-6.9099104,grass,,,25.4,17.3,,,,https://www.openstreetmap.org/way/985286887,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/985286900,osm:way/985286900,basketball,ملاعب القرب حي الفتح,33.9750672,-6.9009832,hard,0,,25.9,25.9,,yes,,https://www.openstreetmap.org/way/985286900,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب حي الفتح
+osm:way/987232938,osm:way/987232937,basketball,,34.0119075,-6.834109,,,,27.3,14.2,,,,https://www.openstreetmap.org/way/987232938,2026-10-19T11:52:32+00:00,rabat,Lycée Moulay Youssef
+osm:way/987232939,osm:way/987232937,basketball,,34.0117748,-6.8340487,,,,28.0,13.5,,,,https://www.openstreetmap.org/way/987232939,2026-10-19T11:52:32+00:00,rabat,Lycée Moulay Youssef
+osm:way/988060622,osm:way/988060622,basketball,,34.0033363,-6.8678918,,,,23.6,13.6,,,,https://www.openstreetmap.org/way/988060622,2026-10-19T11:52:32+00:00,rabat,
+osm:way/988060623,osm:way/988060622,basketball,,34.0034233,-6.8677574,,,,23.6,13.6,,,,https://www.openstreetmap.org/way/988060623,2026-10-19T11:52:32+00:00,rabat,
+osm:way/988060626,osm:way/988060626,basketball,ملاعب القرب,33.9860102,-6.8909452,hard,,,28.2,14.9,,,,https://www.openstreetmap.org/way/988060626,2026-10-19T11:52:32+00:00,rabat,ملاعب القرب
+osm:way/989205368,osm:way/989205368,basketball,,33.9775496,-6.8227775,,,,28.8,15.2,,,,https://www.openstreetmap.org/way/989205368,2026-10-19T11:52:32+00:00,rabat,
+osm:way/989205369,osm:way/989205368,basketball,,33.977588,-6.8225378,,,,28.8,15.2,,,,https://www.openstreetmap.org/way/989205369,2026-10-19T11:52:32+00:00,rabat,
+osm:way/1260603824,osm:way/1260603824,basketball,,35.7806589,-5.7713699,,,,242.9,38.5,,customers,,https://www.openstreetmap.org/way/1260603824,2026-10-19T11:52:32+00:00,tangier,
+osm:way/1260603829,osm:way/1260603829,basketball,,35.7811456,-5.7704462,,,,25.3,12.7,,customers,,https://www.openstreetmap.org/way/1260603829,2026-10-19T11:52:32+00:00,tangier,
+osm:way/1518301820,osm:way/1260603829,basketball,,35.7810398,-5.7703704,,,,25.3,12.7,,customers,,https://www.openstreetmap.org/way/1518301820,2026-10-19T11:52:32+00:00,tangier,
+osm:way/1262995683,osm:way/1262995680,basketball,,35.7568415,-5.7962175,dirt,,,22.4,13.2,,,,https://www.openstreetmap.org/way/1262995683,2026-10-19T11:52:32+00:00,tangier,abdelmoumen al mouahidin
+osm:way/1263001076,osm:way/1263001076,basketball,,35.7259607,-5.8074119,,,,29.6,16.5,,,,https://www.openstreetmap.org/way/1263001076,2026-10-19T11:52:32+00:00,tangier,
+osm:way/868244096,osm:way/868244096,basketball,,35.7665619,-5.8126702,,,,42.7,23.6,,,,https://www.openstreetmap.org/way/868244096,2026-10-19T11:52:32+00:00,tangier,
